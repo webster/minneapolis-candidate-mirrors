@@ -643,7 +643,7 @@ bold
 bottom
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 box
@@ -1011,7 +1011,7 @@ color
 	3 www.jilliaforwardone.com/vision/index.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -1948,7 +1948,7 @@ era
 error-key
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 esa
@@ -2251,13 +2251,13 @@ firsthand
 fixed
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 font-size
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 food
@@ -3313,7 +3313,7 @@ learned
 left
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 lek
@@ -4263,7 +4263,7 @@ padding
 padding-top
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 pagar
@@ -4486,7 +4486,7 @@ platform
 please
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/media/index.html
 	=10
@@ -4557,7 +4557,7 @@ posed
 position
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 positive
@@ -5426,7 +5426,7 @@ speak
 squarespace
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 stable
@@ -5455,7 +5455,7 @@ staff
 stand
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 started
@@ -5718,7 +5718,7 @@ tenemos
 text
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 than
@@ -6189,7 +6189,7 @@ was
 webkit-user-select
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 welcome
@@ -6371,7 +6371,7 @@ youth
 z-index
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
-	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	=6
 	(0)
 zona.en
@@ -6381,8 +6381,7 @@ zona.en
 zoning
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-ardone.com/blog/index51b4.html
-	3 www.jilliaforwardone.com/blog/index9767.html
+ www.jilliaforwardone.com/blog/index9767.html
 	3 www.jilliaforwardone.com/blog/index9767.html
 	3 www.jilliaforwardone.com/blog/indexaba0.html
 	3 www.jilliaforwardone.com/blog/indexaba0.html
@@ -6403,8 +6402,7 @@ ay-for-our-campaign-kickoff-event.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	=668
-tml
-	3 www.jilliaforwardone.com/meet-jillia/index.html
+eet-jillia/index.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html

@@ -1,4 +1,4 @@
-HTTrack3.48-23 launched on Sun, 22 Jan 2017 17:00:48 at http://www.jeremyschroeder.org/
+HTTrack3.48-23 launched on Sun, 22 Jan 2017 17:17:01 at http://www.jeremyschroeder.org/
 (httrack http://www.jeremyschroeder.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W11-SCHROEDER-jeremyschroeder.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q )
 
 Information, Warnings and Errors reported for this mirror:
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.48-23 mirror complete in 1 seconds : 4 links scanned, 3 files written (47593 bytes overall), 4 files updated [18676 bytes received at 18676 bytes/sec], 47593 bytes transferred using HTTP compression in 3 files, ratio 31%, 1.3 requests per connection
+HTTrack Website Copier/3.48-23 mirror complete in 1 seconds : 4 links scanned, 3 files written (47593 bytes overall), 4 files updated [18557 bytes received at 18557 bytes/sec], 47593 bytes transferred using HTTP compression in 3 files, ratio 31%, 1.3 requests per connection
 (No errors, 0 warnings, 0 messages)

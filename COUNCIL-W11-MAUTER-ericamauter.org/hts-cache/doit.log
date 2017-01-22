@@ -1,5 +1,5 @@
-https://www.ericamauter.org/ -*/events/* -*wordfence_logHuman* -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W11-MAUTER-ericamauter.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q
-File generated automatically on Sun, 22 Jan 2017 16:56:32, do NOT edit
+https://www.ericamauter.org/ -*/events/* -*wordfence_logHuman* -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W11-MAUTER-ericamauter.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q
+File generated automatically on Sun, 22 Jan 2017 17:14:01, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

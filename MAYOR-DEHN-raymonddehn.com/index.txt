@@ -1,0 +1,2869 @@
+aback
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ability
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+able
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+about
+	ignored (11)
+access
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+accomplished
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+achievement
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+acontact
+	2 www.raymonddehn.com/contact/index.html
+	=2
+	(1)
+address
+	ignored (18)
+advocate
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+afford
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+afford.our
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+affordable
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+after
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+again
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+agenda
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+agendamy
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+agendarunning
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ages
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+agrowing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ahead
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+aisle
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+all
+	ignored (8)
+allowed
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+allowing
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+along
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+alongside
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+also
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/contact/index.html
+	=8
+	(4)
+amazing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+american
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+americans
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+and
+	ignored (1860)
+applied
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+architect
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+architecture
+	ignored (6)
+are
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+around
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+arrested
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+assistance
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+athanks
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+athlete.the
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+attend
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+attracting
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ave
+	ignored (11)
+avoid
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+back
+	ignored (7)
+backgrounds
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+bad
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+ban
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+barrels
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+became
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+been
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+beer
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+before
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+began
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+behind
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+being
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+believe
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+below
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+best
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+better
+	ignored (6)
+between
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+bill
+	ignored (6)
+blessed
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+blocks
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+board
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+bonds
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+both
+	ignored (14)
+bought
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+box
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+breweries
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+brewery
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+brighter
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+bring
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+bringing
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+brings
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+brooklyn
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+bryn
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+build
+	3 www.raymonddehn.com/index.html
+	3 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+building
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+burglary
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+but
+	ignored (7)
+cable
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+called
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+came
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+campaign
+	ignored (12)
+can
+	ignored (20)
+canada
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+candidates
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+capacity
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+capitol
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+care
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+careful
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+caucus
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+caught
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+center
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+certainly
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+challenges
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+chance
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+chancegetting
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+chancei
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+chart
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+cheers
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+children
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+choices
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+cigarettes
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+city
+	ignored (18)
+close
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+coalition
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+cocaine
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+code
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=6
+	(3)
+coffee
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+colleagues
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+college
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+color
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+colors
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+come.-ray
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+comfortable
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+committed
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+community
+	ignored (32)
+communityenacting
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+communityi
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+company
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+compassionate
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+connect
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+consideration
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+contact
+	ignored (23)
+continue
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+conversation
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+conversations
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+convicted
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+core.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+could
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+country
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+county
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+course
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+craft
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+credits
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+criminal
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+crisis
+	ignored (6)
+crisis.as
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+current
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+currently
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+d.c
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+day
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+day.while
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+days
+	3 www.raymonddehn.com/index.html
+	3 www.raymonddehn.com/index.html
+	=6
+	(3)
+dayton
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+dear
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+decided
+	ignored (8)
+decisions
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+deeply
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+degree
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+dehn
+	ignored (25)
+dehn1611
+	ignored (5)
+democratic-farmer-labor
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+deserve
+	ignored (6)
+deserve.like
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+develop
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+developed
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+dfl
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+did
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+difference
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+dinner
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+direction
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+display
+	ignored (5)
+district
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+donate
+	ignored (16)
+door
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+doors
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+down
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+downtown
+	ignored (7)
+drink
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+drinking
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+drug
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+drugs
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+due
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+during
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+e9m
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+e9s
+	ignored (25)
+e9t
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+each
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+earn
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+easy
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+eating
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+economic
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+economy
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+elected
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+electoral
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ellison.like
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+email
+	ignored (9)
+embraced
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+enacted
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+enacting
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+end
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ends
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+engage
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+entire
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+equitable
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+especially
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+establishing
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+even
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+event
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+event6
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+event6pm
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+events
+	ignored (29)
+eventually
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ever
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+every
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+everyone
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+exciting
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+expanding
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+expecting
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+experience
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+extra
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+eye
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+eyes
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+face-to-face
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+fact
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+faiths
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+families
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+family
+	ignored (8)
+far
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+father
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+feb
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+february
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+fell
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+fend
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+few
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+fill
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+filled
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+find
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+first
+	ignored (8)
+fiscal
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+flourished
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+for
+	ignored (584)
+force
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+foreclosure
+	ignored (6)
+forgotten
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+forklift
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+form
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+forward
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+fourth-generation
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+friends
+	ignored (5)
+from
+	ignored (45)
+front
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+frustration
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+full
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+functionary1400
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/index.html
+	=6
+	(3)
+funding
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+future
+	3 www.raymonddehn.com/index.html
+	3 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+games
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+gaps
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+generations
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+get
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=6
+	(3)
+getting
+	ignored (6)
+goal
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+good
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+got
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+governor
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+graduated
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+grassroots
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+grateful
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/contact/index.html
+	=8
+	(4)
+gratifying.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+great
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+group
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+grow
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+growing
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+growler
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+growlers
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+guidelines
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+habit
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+had
+	ignored (30)
+halfway
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+hardworking
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+have
+	ignored (30)
+health
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+hearing
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+heart
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+help
+	ignored (6)
+helped
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+helping
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+hennepin
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+high
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+highlights
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+hold
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+home
+	ignored (23)
+home.we
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+homeowners
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+hope
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+house
+	ignored (6)
+housing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+how
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+https
+	2 index.html
+	=2
+	(1)
+humbling
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ideas
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+immerse
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+impact
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+important
+	ignored (5)
+improve
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+include
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+includes
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+incomes
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+increase
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+increasing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+incredible
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+infrastructure
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+inline-block
+	ignored (5)
+inside
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+institute
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+insurance
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+into
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+invaluable
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+investing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+involved
+	ignored (16)
+involvement
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+it.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+jordan
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+justice
+	ignored (9)
+keith
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+kick
+	ignored (6)
+kickoff
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+kids
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+knocked
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+laid
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+largest
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+last
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=6
+	(3)
+late
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+later
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+law.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+leader
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+leading
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+learn
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+least
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+leave
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+left
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+legislators
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+legislature
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+less.lastly
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+letter
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+level
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+leverage
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+life
+	ignored (6)
+life.as
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+like
+	ignored (12)
+list
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+listens
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+little
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+live
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+lived
+	ignored (6)
+lives
+	ignored (10)
+loans
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+local
+	ignored (6)
+long
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+look
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+looked
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+looks
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+loop
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+losing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+lot
+	ignored (6)
+love.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+made
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+major
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+majorities
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+make
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+making
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+mall
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+man
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+mandatory
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+many
+	ignored (34)
+marry
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+mawr
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+mayor
+	ignored (17)
+mayor.as
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+mayor.i
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+mayorin
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+meaning
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+meaningful
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+medical
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+meet
+	ignored (23)
+member
+	ignored (6)
+message
+	ignored (5)
+million
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+millions
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+minimum
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+minneapolis
+	ignored (64)
+minneapolis.i
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+minnesota
+	ignored (6)
+minnesotan
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+minnesotarsvp
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+minnesotathis
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+mobile-nav-toggle-label
+	ignored (5)
+money
+	ignored (6)
+month
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+monthly
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+months
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+more
+	ignored (6)
+mortgages
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+mother
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+mothers
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+moved
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+much
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+must
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+myself
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+name
+	ignored (32)
+national
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+nbsp
+	ignored (24)
+need
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+needed
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+neighborhood
+	ignored (6)
+neighbors
+	ignored (30)
+neminneapolis
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+never
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+new
+	3 www.raymonddehn.com/index.html
+	3 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+news
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+newspaper
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+nicollet
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+north
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+northside
+	ignored (11)
+northsider
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+not
+	ignored (19)
+now
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+off
+	ignored (7)
+offense
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+office
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+one
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/contact/index.html
+	=8
+	(4)
+opened
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+operate
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+operating
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+opportunity
+	ignored (19)
+organizing.later
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+other.my
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+our
+	ignored (41)
+out
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+over
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+overwhelmingly
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+own
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+p.m
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+pack
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+paid
+	ignored (5)
+pancakes
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+paper
+	ignored (6)
+pardon
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+parental
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+parents
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+park
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+part-time
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+partners
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+partnership
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+path
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+paul
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+payments
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+people
+	ignored (24)
+people.a
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+peril.as
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+person
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+phone
+	ignored (14)
+played
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+plowing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+politics
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+poorest
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+position
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+positive
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+possible
+	3 www.raymonddehn.com/contact/index.html
+	3 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+postal
+	2 www.raymonddehn.com/contact/index.html
+	=2
+	(1)
+power
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+prepared
+	ignored (5)
+president
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+prevention
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+private
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+privilege
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+proactively
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+production
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+program
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+progressive
+	ignored (6)
+project
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+promise
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+protections
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+proud
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+providing
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+province
+	2 www.raymonddehn.com/contact/index.html
+	=2
+	(1)
+public
+	ignored (9)
+purchase
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+purpose.after
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+put
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+raised
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+raising
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ran
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+ray
+	ignored (45)
+raymond
+	ignored (45)
+reading
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+reality
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+receive.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+received
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+recession
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+reconstruction
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+refinancing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+reform
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+reforming
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+regularly
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+reinvestment
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+relationships
+	ignored (7)
+released
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+remember
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+repaying
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+representative
+	ignored (14)
+representing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+republicans
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+residents
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+respond
+	2 www.raymonddehn.com/contact/index.html
+	=2
+	(1)
+responsibility
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+result
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+right
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+role
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+routes
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+run
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+running
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+sale
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+same
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+school
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+schools
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+script
+	ignored (582)
+second
+	ignored (6)
+sector
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+secured
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+see
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+sell
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+senate
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+senator
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+send
+	2 www.raymonddehn.com/contact/index.html
+	=2
+	(1)
+sentence
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+sentencing
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+serve
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+serving
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+set
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+setting
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+seven
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+shattered
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+shop
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+shows.brokers
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+siblings
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+sides
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+sign
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+signed
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+significant
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+signing
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+simple
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+since
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+six
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+skickoff
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+small
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+smoking
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+snow
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+so.this
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+sober.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+sold
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+soldiers
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+some
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+something
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+sometimes
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+soon
+	3 www.raymonddehn.com/contact/index.html
+	3 www.raymonddehn.com/contact/index.html
+	=6
+	(3)
+sorrow
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+sorrow.you
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+spaces
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+specifically
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+spirits
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+stands
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+started
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+state
+	ignored (33)
+state.as
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+state.we
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+stationed
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+stay
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+step
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+still
+	ignored (6)
+strategically
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+strengthen
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+strong
+	ignored (11)
+struggle
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+student
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+students
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+sub-prime
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+subject
+	2 www.raymonddehn.com/contact/index.html
+	=2
+	(1)
+such
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+sunday
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+support
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+supported
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+supportive
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+sure
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+sustain
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+system
+	3 www.raymonddehn.com/index.html
+	3 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=8
+	(4)
+taking
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+talented
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+talk
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+talking
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+taprooms
+	ignored (6)
+targeted
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+tax
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+team
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+teamsters
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+tearing
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+teen
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+term
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+than
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+thank
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+thanks
+	2 www.raymonddehn.com/contact/index.html
+	=2
+	(1)
+that
+	ignored (196)
+the
+	ignored (1879)
+their
+	ignored (7)
+them
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+themselves
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+then-partner
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+then-state
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+there
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+they
+	ignored (6)
+things
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+think
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+thinking
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+this
+	ignored (26)
+those
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+though
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+thoughtful
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+three
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+thursday
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/index.html
+	=6
+	(3)
+time
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+times
+	ignored (12)
+today
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+together
+	ignored (5)
+toilet
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+too
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+top
+	ignored (7)
+toward
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+transportation.this
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+traveled
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+treat
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+treatment
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+tricks
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+trust
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+turned
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+twelve
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+two
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+u.s
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+unable
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+understand
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+union
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+united
+	ignored (11)
+university
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+upborn
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+updates
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+upgetting
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+used
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+using
+	ignored (6)
+value
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+values.i
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+very
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+vietnam.all
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+volunteer
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+volunteering
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+vote
+	ignored (6)
+voters
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+vulnerable
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+wage
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+wait
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=4
+	(2)
+walked
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+want
+	2 www.raymonddehn.com/index.html
+	=2
+	(1)
+wanted
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+warehouse
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+was
+	ignored (99)
+washington
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+watched
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+watching
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+way
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	2 www.raymonddehn.com/index.html
+	=8
+	(4)
+ways
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+wayzata
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+weeks
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+wellstone
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+were
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+what
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+when
+	ignored (11)
+where
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+which
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+white
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+who
+	ignored (38)
+why
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+will
+	ignored (10)
+winter
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+with
+	ignored (158)
+without
+	3 www.raymonddehn.com/meet-ray/index.html
+	3 www.raymonddehn.com/meet-ray/index.html
+	=6
+	(3)
+wonderful
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+work
+	ignored (7)
+worked
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+workforce
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+workhouse
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+working
+	ignored (7)
+working-class
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+workplace
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+works
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+would
+	ignored (16)
+wraps
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+wrestling
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+wrong
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+wrote
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+year
+	2 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+years
+	2 www.raymonddehn.com/index.html
+	2 www.raymonddehn.com/meet-ray/index.html
+	=4
+	(2)
+yes
+	ignored (12)
+you
+	ignored (121)
+young
+	2 www.raymonddehn.com/meet-ray/index.html
+	=2
+	(1)
+your
+	ignored (34)
+zip
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+monddehn.com/meet-ray/index.html
+	7 www.raymonddehn.com/meet-ray/index.html
+	7 www.raymonddehn.com/meet-ray/index.html
+	7 www.raymonddehn.com/meet-ray/index.html
+	4 www.raymonddehn.com/index.html
+	4 www.raymonddehn.com/index.html
+	4 www.raymonddehn.com/index.html
+	3 www.raymonddehn.com/contact/index.html
+	3 www.raymonddehn.com/contact/index.html
+	2 www.raymonddehn.com/events.html
+	2 www.raymonddehn.com/events/index.html
+	=64
+ex.html
+	6 www.raymonddehn.com/events.html
+	6 www.raymonddehn.com/events.html
+	6 www.raymonddehn.com/events.html
+	6 www.raymonddehn.com/events.html
+	6 www.raymonddehn.com/events.html
+	6 www.raymonddehn.com/events/index.html
+	6 www.raymonddehn.com/events/index.html
+	6 www.raymonddehn.com/events/index.html
+	6 www.raymonddehn.com/events/index.html
+	6 www.raymonddehn.com/events/index.html
+	5 www.raymonddehn.com/contact/index.html
+	5 www.raymonddehn.com/contact/index.html
+	5 www.raymonddehn.com/contact/index.html
+	5 www.raymonddehn.com/contact/index.html
+	=226

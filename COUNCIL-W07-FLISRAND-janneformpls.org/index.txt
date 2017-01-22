@@ -394,7 +394,7 @@ april
 	=18
 	(1)
 are
-	ignored (40)
+	ignored (39)
 around
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -2638,7 +2638,7 @@ foot
 	=2
 	(0)
 for
-	ignored (948)
+	ignored (947)
 forced
 	2 www.janneformpls.org/issues.html
 	=2
@@ -6185,7 +6185,7 @@ scrap
 	=2
 	(0)
 script
-	ignored (989)
+	ignored (995)
 seat
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2

@@ -1,4 +1,4 @@
-HTTrack3.48-23 launched on Sun, 22 Jan 2017 16:53:56 at http://www.janneformpls.org/
+HTTrack3.48-23 launched on Sun, 22 Jan 2017 17:11:17 at http://www.janneformpls.org/
 (httrack http://www.janneformpls.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W07-FLISRAND-janneformpls.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,13 +6,13 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-16:54:04	Warning: 	Moved Temporarily for www.janneformpls.org/donate
-16:54:04	Warning: 	File has moved from www.janneformpls.org/donate to http://janneformpls.nationbuilder.com/donate
-16:54:08	Warning: 	Moved Temporarily for www.janneformpls.org/login
-16:54:08	Warning: 	File has moved from www.janneformpls.org/login to https://janneformpls.nationbuilder.com/login
-16:54:08	Warning: 	Moved Temporarily for www.janneformpls.org/session_pair_phase_1
-16:54:08	Warning: 	File has moved from www.janneformpls.org/session_pair_phase_1 to https://janneformpls.nationbuilder.com/session_pair_phase_2?token=f55ad2ddeba84b000d9d08c76f83a22a
-16:54:08	Error: 	"Not Found" (404) at link www.janneformpls.org/meta_images/original/missing.png (from www.janneformpls.org/contact_us)
+17:11:25	Warning: 	Moved Temporarily for www.janneformpls.org/donate
+17:11:25	Warning: 	File has moved from www.janneformpls.org/donate to http://janneformpls.nationbuilder.com/donate
+17:11:28	Warning: 	Moved Temporarily for www.janneformpls.org/login
+17:11:28	Warning: 	File has moved from www.janneformpls.org/login to https://janneformpls.nationbuilder.com/login
+17:11:28	Warning: 	Moved Temporarily for www.janneformpls.org/session_pair_phase_1
+17:11:28	Warning: 	File has moved from www.janneformpls.org/session_pair_phase_1 to https://janneformpls.nationbuilder.com/session_pair_phase_2?token=24d749c98a790f18dce55513c2c96640
+17:11:29	Error: 	"Not Found" (404) at link www.janneformpls.org/meta_images/original/missing.png (from www.janneformpls.org/contact_us)
 
-HTTrack Website Copier/3.48-23 mirror complete in 51 seconds : 45 links scanned, 41 files written (1123511 bytes overall), 40 files updated [428850 bytes received at 8408 bytes/sec], 1116691 bytes transferred using HTTP compression in 40 files, ratio 25%, 33.0 requests per connection
+HTTrack Website Copier/3.48-23 mirror complete in 51 seconds : 45 links scanned, 41 files written (1128244 bytes overall), 40 files updated [429326 bytes received at 8418 bytes/sec], 1121424 bytes transferred using HTTP compression in 40 files, ratio 25%, 32.6 requests per connection
 (1 errors, 6 warnings, 0 messages)

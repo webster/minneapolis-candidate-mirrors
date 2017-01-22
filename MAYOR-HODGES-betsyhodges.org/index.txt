@@ -4,13 +4,13 @@ a.current
 	=6
 	(3)
 after
-	ignored (127)
+	ignored (116)
 amount
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 and
-	ignored (17)
+	ignored (16)
 announcement
 	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
 	2 betsyhodges.org/join-team-betsy/index.html
@@ -21,7 +21,7 @@ archive
 	=2
 	(1)
 arial
-	ignored (16)
+	ignored (15)
 article
 	ignored (6)
 audio-format
@@ -45,17 +45,17 @@ authors-page
 	=2
 	(1)
 background
-	ignored (64)
+	ignored (59)
 background-color
-	ignored (345)
+	ignored (454)
 background-image
 	2 betsyhodges.org/index.html
 	=2
 	(1)
 before
-	ignored (17)
+	ignored (16)
 betsy
-	ignored (25)
+	ignored (23)
 biography
 	2 betsyhodges.org/biography-and-results/index.html
 	2 betsyhodges.org/join-team-betsy/index.html
@@ -66,11 +66,11 @@ block
 	=2
 	(1)
 body
-	ignored (594)
+	ignored (543)
 border
-	ignored (10)
+	ignored (9)
 border-color
-	ignored (66)
+	ignored (65)
 border-radius
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -78,9 +78,9 @@ border-radius
 border-style
 	ignored (6)
 box-shadow
-	ignored (12)
+	ignored (11)
 button
-	ignored (16)
+	ignored (15)
 campaign
 	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
 	2 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
@@ -89,10 +89,8 @@ campaign
 	(3)
 center
 	ignored (6)
-click
-	ignored (5)
 color
-	ignored (306)
+	ignored (280)
 content
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -103,9 +101,9 @@ contreras
 	=4
 	(2)
 display
-	ignored (62)
+	ignored (57)
 div.product
-	ignored (40)
+	ignored (36)
 div.summary
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -116,17 +114,17 @@ donate
 	=2
 	(1)
 ef4b24
-	ignored (118)
+	ignored (108)
 ent-featured
-	ignored (13)
+	ignored (27)
 et-cart
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 et-extra-icon
-	ignored (16)
+	ignored (15)
 et-extra-mobile-menu
-	ignored (117)
+	ignored (107)
 et-extra-social-icon
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -140,7 +138,7 @@ et-info
 	=6
 	(3)
 et-menu
-	ignored (454)
+	ignored (415)
 et-mobile-navigation
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -155,7 +153,7 @@ et-search-field
 	=2
 	(1)
 et-secondary-menu
-	ignored (31)
+	ignored (28)
 et-secondary-nav
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -180,7 +178,7 @@ et-trending-label
 	=6
 	(3)
 et-trending-post
-	ignored (11)
+	ignored (10)
 et_extra_layout
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -195,17 +193,17 @@ et_filterable_portfolio
 	=2
 	(1)
 et_monarch
-	ignored (191)
+	ignored (175)
 et_pb_bg_layout_dark
-	ignored (10)
+	ignored (9)
 et_pb_button
-	ignored (62)
+	ignored (57)
 et_pb_button_0
-	ignored (61)
+	ignored (56)
 et_pb_button_1
-	ignored (61)
+	ignored (56)
 et_pb_button_2
-	ignored (61)
+	ignored (56)
 et_pb_column
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -227,11 +225,11 @@ et_pb_post_slider_0
 	=2
 	(1)
 et_pb_post_slider_0.et_pb_slider
-	ignored (61)
+	ignored (56)
 et_pb_post_title_0
 	ignored (5)
 et_pb_section
-	ignored (10)
+	ignored (9)
 et_pb_section_0
 	ignored (6)
 et_pb_slide
@@ -247,7 +245,7 @@ et_pb_text_1
 	=2
 	(1)
 et_pb_widget
-	ignored (16)
+	ignored (15)
 et_pb_widget.widget_et_recent_videos
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -259,16 +257,16 @@ et_pb_widget.woocommerce
 	=6
 	(3)
 et_social_count
-	ignored (11)
+	ignored (10)
 et_social_icon
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
 	=6
 	(3)
 et_social_icons_container
-	ignored (101)
+	ignored (93)
 et_social_mobile
-	ignored (23)
+	ignored (21)
 et_social_network_label
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -284,21 +282,21 @@ et_social_sidebar_count
 	=6
 	(3)
 et_social_sidebar_networks
-	ignored (23)
+	ignored (21)
 f14b25
-	ignored (50)
+	ignored (46)
 facebook
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 featured-post
-	ignored (23)
+	ignored (21)
 fff
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 ffffff
-	ignored (202)
+	ignored (185)
 fields
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -320,29 +318,29 @@ follow
 	=2
 	(1)
 font-family
-	ignored (16)
+	ignored (15)
 font-size
-	ignored (42)
+	ignored (38)
 font-weight
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 footer
-	ignored (61)
+	ignored (56)
 footer-bottom
-	ignored (16)
+	ignored (15)
 footer-info
 	ignored (6)
 footer-nav
-	ignored (23)
+	ignored (21)
 for
-	ignored (20)
+	ignored (18)
 form
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 form.cart
-	ignored (23)
+	ignored (21)
 generated
 	2 betsyhodges.org/wp-content/plugins/monarch/css/fonts/monarch.svg
 	2 betsyhodges.org/wp-content/themes/Extra/fonts/ET-Extra.svg
@@ -352,8 +350,6 @@ geno
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
-has
-	ignored (5)
 header.header
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -365,11 +361,9 @@ header.left-right
 	=6
 	(3)
 height
-	ignored (32)
+	ignored (29)
 helvetica
-	ignored (16)
-here
-	ignored (5)
+	ignored (15)
 hidden
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -379,13 +373,13 @@ hide
 	=2
 	(1)
 hodges
-	ignored (12)
+	ignored (11)
 home
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 hover
-	ignored (491)
+	ignored (464)
 http
 	2 index.html
 	=2
@@ -396,18 +390,18 @@ icomoon
 	=4
 	(2)
 img.emoji
-	ignored (10)
+	ignored (9)
 img.star-on
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
 	=6
 	(3)
 img.wp-smiley
-	ignored (10)
+	ignored (9)
 important
-	ignored (1351)
+	ignored (1236)
 inline
-	ignored (12)
+	ignored (11)
 inline-block
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -443,7 +437,7 @@ left
 	=4
 	(2)
 letter-spacing
-	ignored (41)
+	ignored (37)
 li.active
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -454,13 +448,13 @@ li.current-menu-item
 li.current_page_item
 	ignored (6)
 li.mega-menu
-	ignored (11)
+	ignored (10)
 li.mega-menu-featured
-	ignored (235)
+	ignored (214)
 li.menu-item
-	ignored (40)
+	ignored (36)
 li.menu-item-has-children
-	ignored (11)
+	ignored (10)
 like
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -475,20 +469,20 @@ link-format
 	=2
 	(1)
 logo
-	ignored (16)
+	ignored (15)
 lucida
-	ignored (16)
+	ignored (15)
 main-content
-	ignored (10)
+	ignored (9)
 main-header
-	ignored (11)
+	ignored (10)
 manage
 	2 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
 	2 betsyhodges.org/join-team-betsy/index.html
 	=4
 	(2)
 margin
-	ignored (20)
+	ignored (18)
 margin-top
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -501,13 +495,13 @@ max-height
 max-width
 	ignored (7)
 mayor
-	ignored (17)
+	ignored (16)
 media
-	ignored (13)
+	ignored (12)
 min-width
 	ignored (7)
 minneapolis
-	ignored (10)
+	ignored (9)
 module
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -517,8 +511,6 @@ module-head
 	3 betsyhodges.org/join-team-betsy/index.html
 	=6
 	(3)
-moved
-	ignored (5)
 nav
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -560,13 +552,13 @@ ninja-forms-field
 	=6
 	(3)
 none
-	ignored (108)
+	ignored (99)
 notice
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 only
-	ignored (13)
+	ignored (12)
 overflow
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -576,7 +568,7 @@ overhanging
 	=2
 	(1)
 padding
-	ignored (27)
+	ignored (25)
 padding-bottom
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -584,19 +576,19 @@ padding-bottom
 	=8
 	(4)
 padding-left
-	ignored (16)
+	ignored (15)
 padding-right
-	ignored (16)
+	ignored (15)
 padding-top
 	2 betsyhodges.org/index.html
 	=2
 	(1)
 page
-	ignored (12)
+	ignored (6)
 page-container
-	ignored (592)
+	ignored (541)
 page.et_pb_pagebuilder_layout
-	ignored (10)
+	ignored (9)
 paginated
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -614,14 +606,14 @@ portfolio_filter
 	=2
 	(1)
 post-content
-	ignored (23)
+	ignored (21)
 post-footer
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
 	=6
 	(3)
 post-meta
-	ignored (73)
+	ignored (67)
 post-nav
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -679,9 +671,9 @@ read-more-button
 	=6
 	(3)
 recent-list
-	ignored (40)
+	ignored (36)
 recent-post
-	ignored (40)
+	ignored (36)
 reelection
 	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
 	2 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
@@ -715,22 +707,17 @@ review-summary-score-box
 	=2
 	(1)
 roboto
-	ignored (16)
+	ignored (15)
 sans-serif
-	ignored (16)
+	ignored (15)
 score-bar
 	ignored (6)
 screen
-	ignored (13)
+	ignored (12)
 script
-	ignored (4564)
+	ignored (5087)
 script.tribe-events-list
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 search
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
@@ -750,7 +737,7 @@ single
 solid
 	ignored (6)
 span
-	ignored (16)
+	ignored (15)
 speech
 	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
 	2 betsyhodges.org/join-team-betsy/index.html
@@ -771,14 +758,9 @@ styles
 	=6
 	(3)
 sub-menu
-	ignored (23)
+	ignored (21)
 table.tribe-events-calendar
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 team
 	ignored (6)
 text-align
@@ -822,87 +804,37 @@ trending
 	=6
 	(3)
 tribe-event-featured
-	ignored (94)
+	ignored (193)
 tribe-events-adv-list-widget
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-events-content
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-events-day.tribe-events-loop
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-events-list
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-events-list-widget
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-events-loop
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-events-photo-event-wrap
-	ignored (13)
+	ignored (27)
 tribe-events-venue-widget
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-grid-body
-	ignored (13)
+	ignored (27)
 tribe-mini-calendar-event
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 tribe-mini-calendar-list-wrapper
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 twitter
 	2 betsyhodges.org/join-team-betsy/index.html
 	=2
 	(1)
 type-tribe_events.tribe-event-featured
-	2 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	2 betsyhodges.org/index.html
-	2 betsyhodges.org/join-team-betsy/index.html
-	=8
-	(4)
+	ignored (9)
 ul.et-extra-social-icons
-	ignored (11)
+	ignored (10)
 united
 	2 betsyhodges.org/2017/01/19/we-stand-united/index.html
 	2 betsyhodges.org/join-team-betsy/index.html
@@ -913,7 +845,7 @@ uppercase
 	=2
 	(1)
 vertical-align
-	ignored (10)
+	ignored (9)
 visited
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -934,7 +866,7 @@ widget_et_recent_reviews
 	=2
 	(1)
 widget_et_recent_tweets
-	ignored (11)
+	ignored (10)
 widget_list
 	ignored (6)
 widget_list_portrait
@@ -946,7 +878,7 @@ widget_list_thumbnail
 	=2
 	(1)
 widget_monarchwidget
-	ignored (11)
+	ignored (10)
 widget_monarchwidget.et_social_networks
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -957,9 +889,9 @@ widgettitle
 	=2
 	(1)
 width
-	ignored (25)
+	ignored (23)
 woocommerce
-	ignored (31)
+	ignored (28)
 woocommerce-info
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -971,7 +903,7 @@ woocommerce-message
 	=6
 	(3)
 woocommerce-page
-	ignored (16)
+	ignored (15)
 z-index
 	3 betsyhodges.org/join-team-betsy/index.html
 	3 betsyhodges.org/join-team-betsy/index.html
@@ -984,108 +916,234 @@ team-betsy/index.html
 	2 betsyhodges.org/index.html
 	2 betsyhodges.org/news/index.html
 	=46
-tml
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	28 betsyhodges.org/news/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	25 betsyhodges.org/2017/01/19/we-stand-united/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	23 betsyhodges.org/biography-and-results/index.html
-	=8156
+
+	7 betsyhodges.org/index.html
+	7 betsyhodges.org/index.html
+	7 betsyhodges.org/index.html
+	7 betsyhodges.org/index.html
+	7 betsyhodges.org/index.html
+	7 betsyhodges.org/index.html
+	7 betsyhodges.org/join-team-betsy/index.html
+	7 betsyhodges.org/join-team-betsy/index.html
+	7 betsyhodges.org/join-team-betsy/index.html
+	7 betsyhodges.org/join-team-betsy/index.html
+	7 betsyhodges.org/join-team-betsy/index.html
+	7 betsyhodges.org/join-team-betsy/index.html
+	7 betsyhodges.org/news/index.html
+	7 betsyhodges.org/news/index.html
+	7 betsyhodges.org/news/index.html
+	7 betsyhodges.org/news/index.html
+	7 betsyhodges.org/news/index.html
+	7 betsyhodges.org/news/index.html
+	=378
+ch-announcement-speech/index.html
+	33 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
+	33 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
+	33 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
+	33 betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/news-releases/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/category/speeches/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	32 betsyhodges.org/news/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	31 betsyhodges.org/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	29 betsyhodges.org/2017/01/19/we-stand-united/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	27 betsyhodges.org/biography-and-results/index.html
+	=9940

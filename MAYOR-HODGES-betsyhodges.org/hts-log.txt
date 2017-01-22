@@ -1,22 +1,13 @@
-HTTrack3.48-23 launched on Sun, 22 Jan 2017 06:45:30 at http://betsyhodges.org/
-(httrack http://betsyhodges.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-HODGES-betsyhodges.org/ -%I -F Mozilla/5.0 -%F " " -q -q )
+HTTrack3.48-23 launched on Sun, 22 Jan 2017 15:40:07 at http://betsyhodges.org/
+(httrack http://betsyhodges.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-HODGES-betsyhodges.org/ -%I -F Mozilla/5.0 -%F " " -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-06:45:34	Error: 	"Method Not Allowed" (405) at link betsyhodges.org/xmlrpc.php (from betsyhodges.org/)
-06:45:44	Warning: 	Moved Permanently for betsyhodges.org/?p=154
-06:45:44	Warning: 	File has moved from betsyhodges.org/?p=154 to http://betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/
-06:45:47	Warning: 	Moved Permanently for betsyhodges.org/?p=397
-06:45:47	Warning: 	File has moved from betsyhodges.org/?p=397 to http://betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/
-06:45:47	Warning: 	Moved Permanently for betsyhodges.org/2016/12/15/re-election-campaign-launch-announcement-speech/
-06:45:47	Warning: 	File has moved from betsyhodges.org/2016/12/15/re-election-campaign-launch-announcement-speech/ to http://betsyhodges.org/2016/12/15/reelection-campaign-launch-announcement-speech/
-06:45:50	Warning: 	Moved Permanently for betsyhodges.org/?p=446
-06:45:50	Warning: 	File has moved from betsyhodges.org/?p=446 to http://betsyhodges.org/2017/01/19/we-stand-united/
-06:45:52	Warning: 	Moved Permanently for betsyhodges.org/?p=161
-06:45:52	Warning: 	File has moved from betsyhodges.org/?p=161 to http://betsyhodges.org/biography-and-results/
+15:40:23	Error: 	"Method Not Allowed" (405) at link betsyhodges.org/xmlrpc.php (from betsyhodges.org/)
+15:40:33	Error: 	"Not Found" (404) at link betsyhodges.org/2016/12/15/re-election-campaign-launch-announcement-speech/ (from betsyhodges.org/2017/01/02/news-release-jorge-contreras-to-manage-mayor-hodges-reelection-campaign/)
 
-HTTrack Website Copier/3.48-23 mirror complete in 31 seconds : 148 links scanned, 141 files written (6676847 bytes overall), 23 files updated [103576 bytes received at 3341 bytes/sec], 251433 bytes transferred using HTTP compression in 25 files, ratio 24%, 29.6 requests per connection
-(1 errors, 10 warnings, 0 messages)
+HTTrack Website Copier/3.48-23 mirror complete in 38 seconds : 130 links scanned, 127 files written (5220674 bytes overall), 35 files updated [220541 bytes received at 5803 bytes/sec], 767693 bytes transferred using HTTP compression in 38 files, ratio 23%, 26.0 requests per connection
+(2 errors, 0 warnings, 0 messages)

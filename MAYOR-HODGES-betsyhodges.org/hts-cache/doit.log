@@ -1,5 +1,5 @@
-http://betsyhodges.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-HODGES-betsyhodges.org/ -%I -F Mozilla/5.0 -%F " " -q -q
-File generated automatically on Sun, 22 Jan 2017 06:45:30, do NOT edit
+http://betsyhodges.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-HODGES-betsyhodges.org/ -%I -F Mozilla/5.0 -%F " " -q -q -q
+File generated automatically on Sun, 22 Jan 2017 15:40:07, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

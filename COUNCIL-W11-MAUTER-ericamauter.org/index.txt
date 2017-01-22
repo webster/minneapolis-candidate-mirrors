@@ -3679,6 +3679,10 @@ methods
 	2 www.ericamauter.org/erica-mauter-announces-campaign-for-ward-11-city-council/index.html
 	=2
 	(0)
+mevent
+	2 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
+	=2
+	(0)
 mexican
 	2 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
 	=2
@@ -4052,10 +4056,6 @@ offer.given
 	(0)
 officer
 	2 www.ericamauter.org/issues/index.html
-	=2
-	(0)
-omevent
-	2 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
 	=2
 	(0)
 on.adopt

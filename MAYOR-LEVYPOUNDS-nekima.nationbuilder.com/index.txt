@@ -58,7 +58,7 @@ anaiowakansaskentuckylouisianamainemarshall
 	=4
 	(4)
 and
-	ignored (1373)
+	ignored (1381)
 anne
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -82,7 +82,7 @@ arabiasenegalserbiaseychellessierra
 	=4
 	(4)
 are
-	ignored (46)
+	ignored (47)
 ascension
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -163,7 +163,7 @@ can
 	=2
 	(2)
 card
-	ignored (46)
+	ignored (47)
 carolinanorth
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -197,10 +197,6 @@ citizen
 	(4)
 city
 	ignored (16)
-click
-	2 nekima.nationbuilder.com/caucus
-	=2
-	(2)
 close
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -234,7 +230,7 @@ contact
 continue
 	ignored (14)
 contribution
-	ignored (46)
+	ignored (47)
 corporate
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -329,7 +325,7 @@ emiratesunited
 	=4
 	(4)
 employer
-	ignored (46)
+	ignored (47)
 employment
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -453,10 +449,6 @@ hard
 	(2)
 harrison
 	ignored (7)
-has
-	2 nekima.nationbuilder.com/caucus
-	=2
-	(2)
 have
 	ignored (9)
 helena
@@ -466,10 +458,6 @@ helena
 	(4)
 help
 	2 nekima.nationbuilder.com/index.html
-	=2
-	(2)
-here
-	2 nekima.nationbuilder.com/caucus
 	=2
 	(2)
 herzegovinabotswanabouvet
@@ -534,7 +522,7 @@ islandnorth
 	=4
 	(4)
 islands
-	ignored (46)
+	ignored (47)
 islandscentral
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -792,10 +780,6 @@ miquelonsaint
 	(4)
 moss
 	ignored (7)
-moved
-	2 nekima.nationbuilder.com/caucus
-	=2
-	(2)
 namvirgin
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -889,10 +873,6 @@ outlying
 	(4)
 own
 	ignored (14)
-page
-	2 nekima.nationbuilder.com/caucus
-	=2
-	(2)
 paid
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1098,7 +1078,7 @@ schanilec
 schnitzen
 	ignored (14)
 script
-	ignored (1401)
+	ignored (1410)
 see
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1219,7 +1199,7 @@ that
 	=4
 	(4)
 the
-	ignored (219)
+	ignored (220)
 thecook
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html

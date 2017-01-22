@@ -1,2 +1,2 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-16:11:54	0/-1	---M--	302	error ('Found')	text/html		http://jeremiahforward5.com/	/home/mirror/minneapolis-candidate-mirrors/COUNCIL-W05-ELLISON-jeremiahforward5.com/jeremiahforward5.com/index.html	(from )
+16:53:48	0/-1	---M--	302	error ('Found')	text/html		http://jeremiahforward5.com/	jeremiahforward5.com/index.html	(from )

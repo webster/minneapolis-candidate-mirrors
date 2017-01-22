@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:30:26	226/226	---M-Z	200	added ('Not%20Acceptable')	text/html	date:Sun,%2022%20Jan%202017%2017:30:26%20GMT	http://www.friendsforlisa.com/	/home/mirror/minneapolis-candidate-mirrors/COUNCIL-W07-GOODMAN-friendsforlisa.com/www.friendsforlisa.com/index.html	(from )

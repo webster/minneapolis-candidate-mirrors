@@ -1,0 +1,32 @@
+acceptable
+	ignored (315)
+appropriate
+	ignored (105)
+could
+	ignored (105)
+error
+	ignored (105)
+found
+	ignored (105)
+generated
+	ignored (105)
+http
+	ignored (105)
+not
+	ignored (631)
+representation
+	ignored (105)
+requested
+	ignored (105)
+resource
+	ignored (105)
+server
+	ignored (105)
+the
+	ignored (105)
+this
+	ignored (315)
+was
+	2 www.friendsforlisa.com/index.html
+.com/index.html
+	=6

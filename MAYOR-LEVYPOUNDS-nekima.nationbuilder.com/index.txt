@@ -1,0 +1,1364 @@
+about
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+above
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+accurate
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+active
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+admitted
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+advocate
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+afghanistanalbaniaalgeriaamerican
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+african
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+africasouth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+alabamaalaskaamerica
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+americasarmed
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+amount
+	ignored (28)
+anaiowakansaskentuckylouisianamainemarshall
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+and
+	ignored (1378)
+anne
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+another
+	ignored (14)
+aocyprusczech
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+appreciate
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+arab
+	ignored (14)
+arabiasenegalserbiaseychellessierra
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+are
+	ignored (46)
+ascension
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ask
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+back
+	ignored (14)
+barthaelemysaint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+become
+	ignored (7)
+being
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+better
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+bolivarian
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+brewer
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+bring
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+britishvirgin
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+brooks
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+bueche
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+business
+	ignored (9)
+caicos
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+caledonianew
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+calendar
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+called
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+can
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+card
+	ignored (46)
+carolinanorth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+carolinasouth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+catalyst
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+cathy
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+caucus
+	ignored (25)
+change
+	ignored (7)
+changing
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+citizen
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+city
+	ignored (16)
+close
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+code
+	ignored (9)
+columbiafederated
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+commitment
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+committee
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+confirm
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+contact
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+continue
+	ignored (14)
+contribution
+	ignored (46)
+corporate
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+create
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+created
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+credit
+	ignored (14)
+criminal
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+cronesia
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+cunhasaint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+dakotaohiooklahomaoregonpalaupennsylvaniapuerto
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+dakotatennesseetexasutahvermontvirgin
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+darussalambulgariaburkina
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+deb
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+democratic
+	ignored (14)
+describe
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+don
+	ignored (14)
+donate
+	ignored (16)
+donated
+	ignored (9)
+donating
+	ignored (14)
+donation
+	ignored (28)
+driven
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+dutch
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+earn
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+economic
+	ignored (7)
+eighteen
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+email
+	ignored (21)
+emiratesunited
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+employer
+	ignored (46)
+employment
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+ensure
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+entity
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+environmental
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+europearmed
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+eustatius
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+facebook
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+faith
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+faroe
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+fasoburundicambodiacamerooncanadacape
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+federated
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+federationrwandaraeunionsaint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+for
+	ignored (119)
+forces
+	ignored (28)
+french
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+from
+	ignored (14)
+funds
+	ignored (14)
+futunawestern
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+gaps
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+georgia
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+get
+	ignored (21)
+graham
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+green
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+grenadinessamoasan
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+gries
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+guianafrench
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+guineaeritreaestoniaethiopiafalkland
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+hampshirenew
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+hard
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+harrison
+	ignored (7)
+have
+	ignored (9)
+helena
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+help
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+herzegovinabotswanabouvet
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+hondurashong
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+honored
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+how
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+https
+	2 index.html
+	=2
+	(2)
+i.e
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+indian
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+info
+	ignored (14)
+involved
+	ignored (21)
+islamic
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+island
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandbrazilbritish
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandcocos
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandnorth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islands
+	ignored (46)
+islandscentral
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandscolombiacomoroscongocongo
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandscosta
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandsfijifinlandfrancefrench
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandsholy
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandsnorwayomanpakistanpalaupalestinian
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandsouth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandssomaliasouth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandssouth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandstuvaluugandaukraineunited
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandsuruguayuzbekistanvanuatuvenezuela
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+islandvirginiawashingtonwest
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+issued
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ivoiredenmarkdjiboutidominicadominican
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+jan
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+jeanne
+	ignored (14)
+jerseynew
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+joe
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+john
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+join
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+jones
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+juana
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+justice
+	ignored (14)
+katherine
+	ignored (7)
+kimpa
+	ignored (7)
+kingdomunited
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+kitts
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+konghungaryicelandindiaindonesiairan
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+koreanorthern
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+koreasouth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+land
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+lankasudansurinamesvalbard
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+law
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+lawfully
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+learn
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+least
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+leonesingaporesint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+leslie
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+levy-pounds
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+lizebeninbermudabhutanboliviabonaire
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+luciasaint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+maarten
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+made
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+making
+	ignored (14)
+malaysiamaldivesmalimaltamarshall
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+mariana
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+marinosao
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+martin
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+max
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+mayenswazilandswedenswitzerlandsyrian
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+mayor
+	ignored (7)
+mcdonald
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+meet
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+mexiconew
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+minneapolis
+	ignored (72)
+minor
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+miquelonsaint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+moss
+	ignored (7)
+namvirgin
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+nancy
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+nate
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+nathan
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+nationbuilder
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+navigation
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+nekima
+	ignored (49)
+nevissaint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+new
+	ignored (9)
+not
+	ignored (14)
+occupation
+	ignored (14)
+occupiedpanamapapua
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ocean
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ofiraqirelandisle
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ofmoldova
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ofthailandtimor-lestetogotokelautongatrinidad
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ofviet
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+old.i
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+opportunity
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+optional
+	ignored (9)
+other
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+outlying
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+own
+	ignored (14)
+paid
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+paradigm
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+paul
+	2 nekima.nationbuilder.com/donate.html
+	=2
+	(2)
+payment
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+people
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+permanent
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+person
+	ignored (14)
+personal
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+pierre
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+play
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+polynesiafrench
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+principesaudi
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+process
+	ignored (7)
+promote
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+provided
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+publish
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+puerto
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+purpose
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+put
+	ignored (14)
+racial
+	ignored (7)
+rastetter
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+reaction
+	2 nekima.nationbuilder.com/donate.html
+	=2
+	(2)
+real
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+reform
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+republic
+	ignored (70)
+republiccacte
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+republicchadchilechinachristmas
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+republicecuadoregyptel
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+republictaiwantajikistantanzania
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+requires
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+resident
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+retired
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+reverend
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+ricoqatarromaniarussian
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+ricorhode
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+role
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+rose
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+rules
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+running
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+sababosnia
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+saint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+salvadorequatorial
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+samoaandorraangolaanguillaantarcticaantigua
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+samoaarizonaarkansasarmed
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+sandwich
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+schanilec
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+schnitzen
+	ignored (14)
+script
+	ignored (1526)
+see
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+self-employed
+	ignored (14)
+send
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+serve
+	ignored (7)
+sharon
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+shift
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+showing
+	2 nekima.nationbuilder.com/donate.html
+	=2
+	(2)
+sign
+	ignored (7)
+sign-up
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+sint
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+sippimissourimontananebraskanevadanew
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+slovakiasloveniasolomon
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+south
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+southern
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+spread
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+starts
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+statements
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+states
+	ignored (28)
+statesunited
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+sudanspainsri
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+support
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+system
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+talent
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+teamnekima
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+territory
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+territorybrunei
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+thank
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+that
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+the
+	ignored (220)
+thecook
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+this
+	ignored (28)
+time
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+tobagotunisiaturkeyturkmenistanturks
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+together
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+toggle
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+tome
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+tristan
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+true
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+u.s
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+u.s.wallis
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+uemyanmarnamibianaurunepalnetherlandsnew
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+united
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+updates
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+vatican
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+verdecayman
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+vincent
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+virginiawisconsinwyoming
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+volunteer
+	ignored (16)
+waldoch
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+website
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+whatever
+	ignored (7)
+whitmore
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+who
+	ignored (14)
+will
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+wilson
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+with
+	ignored (49)
+word
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+work
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+would
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+yakiribatikuwaitkyrgyzstanlao
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+years
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+yguineaguinea-bissauguyanahaitiheard
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+yorknorth
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
+you
+	ignored (37)
+your
+	ignored (79)
+zealandnicaraguanigernigerianiuenorfolk
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+uilder.com/index.html
+	8 nekima.nationbuilder.com/index.html
+	8 nekima.nationbuilder.com/index.html
+	8 nekima.nationbuilder.com/index.html
+	4 nekima.nationbuilder.com/donate.html
+	4 nekima.nationbuilder.com/donate.html
+	4 nekima.nationbuilder.com/donate.html
+	=68

@@ -1,0 +1,542 @@
+/*
+
+Style : Green Theme CSS
+Version : 1.0
+Author  : Surjith S M
+URI   : http://themeforest.net/user/surjithctly
+
+Copyright © All rights Reserved
+Surjith S M / @surjithctly
+
+*/
+/* 
+   COLOR PALLETTES : GREEN
+   ------------------------------------------------
+  
+   Green 1        : #00908B;
+   Dark Grey      : #3b3b3b;
+   Medium Grey    : #5c5c5c;
+   Light Grey     : #818181;
+   Lightest Grey  : #C2C2C2;
+   White          : #ffffff;
+
+   
+   */
+/* ================================================
+   THEME SPECIFIC STYLES : VISUAL STYLES ONLY
+   ================================================ */
+/*White bg*/
+
+body,
+.pace .pace-progress {
+    background: #FFF;
+}
+/*Grey*/
+
+body,
+.timeline-content h2 {
+    color: #5c5c5c;
+}
+
+.nav-pills>li>a {
+    color: #C2C2C2;
+}
+
+.form-control:focus {
+    border-color: #C2C2C2;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #818181;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: #C2C2C2;
+}
+/* green
+ * ----- */
+
+::-moz-selection {
+    background: #00908B;
+    color: #FFF;
+}
+
+::selection {
+    background: #00908B;
+    color: #FFF;
+}
+
+.header,
+.sub-header {
+    color: #FFF;
+    background-color: #00908B;
+}
+/*color*/
+
+a,
+a:hover,
+a:focus,
+.speaker-info p,
+.highlighted-plan .price,
+.highlighted-plan .plan-name {
+    color: #00908B;
+}
+
+.benefit-item .benefit-icon i {
+    color: #00908B;
+}
+/*background*/
+
+.timeline::before {
+    background: #00908B;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    color: #FFF;
+    background-color: #00908B;
+}
+/*border*/
+
+.timeline-bullet,
+.highlighted-plan {
+    border-color: #00908B;
+}
+/*background color*/
+
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:focus,
+.nav-pills>li.active>a:hover {
+    background-color: #00908B;
+}
+/* 
+  BUTTONS
+  ------- */
+
+.btn-default {
+    color: #00908B;
+    border-color: #FFF;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active {
+    background-color: transparent;
+    border-color: #FFF;
+    color: #FFF;
+}
+
+.btn-primary {
+    background-color: #5c5c5c;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active {
+    background-color: #3b3b3b;
+}
+
+.btn-success {
+    background-color: #00908B;
+    border-color: #00908B;
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active {
+    background-color: #FFF;
+    border-color: #00908B;
+    color: #00908B;
+}
+
+.btn-outline {
+    color: #8C8C8C;
+    border-color: #CACACA;
+}
+
+.btn-outline:hover,
+.btn-outline:focus,
+.btn-outline:active,
+.btn-outline.active {
+    background-color: transparent;
+    border-color: #818181;
+    color: #8C8C8C;
+}
+
+.homedonate {
+  background: #F2B111;
+  color: #fff;
+  padding: 20px;
+  margin-bottom: -20px;
+  margin-left: 0px;
+}
+.donateform {
+  background: #efefef;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.mainnekima {
+    background: rgba(0, 0, 0, 0) url("") no-repeat scroll center center / cover ;
+}
+
+.home-feature {
+    background: rgba(0, 0, 0, 0) url("https://d3n8a8pro7vhmx.cloudfront.net/themes/58547d9175dd2f4a31000000/attachments/original/1480908174/mplsfornekima.png?1480908174") no-repeat scroll center center / cover ;
+}
+  
+.panel {
+    background-color: #efefef;
+}
+
+.greybox {
+  background: #efefef;
+  padding: 25px;
+   border-radius: 0px;
+}
+
+.sub-header {
+    color: #fff;
+    padding: 20px 0 30px;
+}
+
+footer {
+    background: #f2b111 none repeat scroll 0 0;
+    margin: 40px 0 0;
+}
+
+.home-text {
+  color: #fff;
+  margin-top:0px;
+}
+
+.home-top {
+    bottom: 0;
+    margin: 80px 0 40px;
+}
+
+.btn-facebook  {
+background-color: #3b5998;
+    border-color: #3b5998;
+    border-width: 2px;
+    color: #fffffe;
+}
+
+.header, .sub-header {
+    background-color: #883892;
+    color: #fff;
+}
+
+.nlplogo {
+  width: 300px;
+}
+
+.form-control {
+    border-color: #dddddd;
+    border-radius: 3px;
+    box-shadow: none;
+    height: 50px;
+}
+
+.input-group-btn > .btn {
+    height: 50px;
+    position: relative;
+}
+
+homesubmit { 
+  margin-top: 32px;
+}
+    
+.btn-primary {
+    background-color: #883892;
+    font-size: 1.8rem;
+    padding: 10px 25px;
+}
+.btn-primary:float {
+    background-color: #f2b111;
+} 
+
+.leftcolumn {
+  padding-right: 15px;
+}
+
+#sidebar-signup-form {
+  background: #efefef;
+  padding: 20px;
+}
+
+.red {
+  color: #f2b111
+}
+
+.headline {
+  color: #883892;
+  text-transform: uppercase;
+}
+
+.btn-danger {
+    background-color: #f2b111;
+    border-color: #d43f3a;
+    color: #fff;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.panel {
+    background-color: #efefef;
+    border: 0 none;
+    border-radius: 20px;
+}
+
+.goldbox {
+    background: #f2b111 none repeat scroll 0 0;
+    margin-top: -20px;
+    padding: 25px;
+  margin-left: 15px;
+  color: #232323;
+    margin-right: 15px;
+}
+
+.formtitle {
+    color: #883892;
+    text-shadow: 0 0 0 #333;
+}
+
+.btn-default {
+    border-color: #fff;
+    color: #883892;
+}
+
+.bold {
+    font-family: "proxima-nova";
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.greydonate {
+  background:#efefef;
+  padding: 20px;
+  margin-top:20px;
+}
+
+.media {
+    background: #f2b111 none repeat scroll 0 0;
+    margin-top: 15px;
+    padding: 15px;
+  color: #883892;
+}
+.sidebar .btn-group-vertical {
+    background: #efefef none repeat scroll 0 0;
+    display: block;
+    padding: 0px;
+}
+.btn-default {
+    background: #efefef none repeat scroll 0 0;
+    border-color: transparent;
+    color: #883892;
+  text-align: left;
+}
+.btn-default:hover {
+    background: #883892 none repeat scroll 0 0;
+  border:0px;
+}
+.supporter-nav-btn:float {
+    background: black none repeat scroll 0 0;
+}
+
+.sidegroup {
+  margin-top:-20px !important;
+}
+.sidebar .btn-group-vertical {
+    background: #efefef none repeat scroll 0 0;
+    border-bottom: 5px solid #f2b111;
+    display: block;
+    margin-bottom: -19px !important;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.sidesocial {
+  margin-top: 20px;
+}
+
+.name {
+    color: #fff;
+    text-shadow: 1px 1px 1px #883892;
+}
+.name:hover {
+    color: #883892;
+    text-shadow: 1px 1px 1px #fff;
+}
+.signout {
+    color: #883892;
+    font-weight: 500;
+}
+.label-default {
+    background-color: #883892;
+}
+.sidelike {
+  background: #fff;
+  border-radius: 0px;
+  margin-top: 35px;
+}
+.sidesignup {
+  background: #efefef;
+}
+.sidegreybox {
+    background: #efefef none repeat scroll 0 0;
+    border-radius: 0;
+    margin: 0;
+    padding: 20px;
+}
+
+.navbar-default {
+    background-color: #883892;
+    box-shadow: 0 0 0 0 #883892;
+    padding: 15px 0;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #fff;
+    color: #883892;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ddd;
+}
+
+.header, .sub-header {
+    background-color: #883892;
+    color: #fff;
+    height: 120px;
+}
+
+.navbar-default .navbar-nav > .hover > a, .navbar-default .navbar-nav > .hover > a:focus, .navbar-default .navbar-nav > .hover > a:hover {
+    background-color: #fff;
+    color: #883892;
+}
+.navbar-default {
+    background-color: #883892;
+    border-color: #883892;
+}
+.navbar-default .navbar-nav > li > a:hover {
+    background: #ddd;
+      color: #883892;
+
+}
+.nav > li {
+    display: block;
+    padding-right: 15px;
+    position: relative;
+}
+
+.dropdown-menu > li {
+    padding-right: 0px;
+}
+
+
+.topgrey {
+  background: #f5f6f7;
+  padding: 15px;
+}
+
+.form-control {
+    border-color: #dddddd;
+    border-radius: 3px;
+    box-shadow: none;
+    height: 50px;
+    margin: 10px;
+    width: 95%;
+}
+
+.label-cont {
+    max-width: 100%;
+    word-break: normal;
+    word-wrap: break-word;
+    font-size: 16px !important;
+}
+.class123-label, .class123-likert, .class123-likertradio-choice {
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px !important;
+    color: #4C4C4C;
+    top: 5px;
+    word-wrap: break-word;
+    word-break: normal;
+    font-weight: 500 !important;
+}
+
+a, a:hover, a:focus, .speaker-info p, .highlighted-plan .price, .highlighted-plan .plan-name {
+    color: #883892;
+}
+
+.event-info p, event-venue p {
+  font-size: 16px;
+}
+
+.navbar-default {
+    background-color: #883892;
+    border-color: #883892;
+}
+.navbar-fixed-top {
+    border-width: 0;
+    top: 0;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 11px 0 0;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #f5f6f7;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    background: #F2B111 none repeat scroll 0 0;
+    color: #f5f6f7;
+}
+
+.dropdown-menu {
+    background-clip: padding-box;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.176);
+    display: none;
+    float: left;
+    font-size: 15px;
+    left: 0;
+    list-style: outside none none;
+    margin: 2px 0 0;
+    min-width: 160px;
+    padding: 0;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #f5f6f7;
+    margin-top: 12px;
+}
+
+.donate a {
+    background: #f2b111 none repeat scroll 0 0;
+    color: #fff !important;
+    font-size: 2.5rem !important;
+    margin-top: 2px !important;
+    padding: 11px 25px !important;
+  line-height: 30px !important;
+}
+.donate a:hover {
+    background: #f2b111 none repeat scroll 0 0;
+    color: #fff !important;
+    font-size: 2.5rem !important;
+    margin-top: 2px !important;
+    padding: 11px 25px !important;
+  line-height: 30px !important;
+
+}

@@ -1,0 +1,2059 @@
+able
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+about
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=10
+	(4)
+access
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+accountability
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+accountableinclude
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+actual
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+add
+	2 www.jeremiah-ellison.com/donation/max-donation.html
+	2 www.jeremiah-ellison.com/what-we-do/index.html
+	=4
+	(1)
+address
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+advocates
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+aeveryone
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+affirms
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+afford
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+affordable
+	ignored (11)
+again
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+against
+	ignored (12)
+age
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+air
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+all
+	ignored (30)
+allowing
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+aminneapolis
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+and
+	ignored (583)
+anti-discrimination
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+antiquated
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+aour
+	ignored (5)
+approach.repeal
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+approaches
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+are
+	ignored (11)
+areal
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+artist
+	ignored (12)
+assert
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+asthma
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+authored
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=6
+	(2)
+authoring
+	2 www.jeremiah-ellison.com/join-us.html
+	2 www.jeremiah-ellison.com/join-us/index.html
+	=4
+	(1)
+authorityfor
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+avenue
+	ignored (10)
+awe
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+back
+	ignored (16)
+based
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+because
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+been
+	ignored (12)
+begin
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+better
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+between
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+bey
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+bike
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+bikes
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+black
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+block
+	2 www.jeremiah-ellison.com/what-we-do/index.html
+	=2
+	(0)
+bold
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+bottom
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+bryant
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+budgeting
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+budgetsestablish
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+build
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+building
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+builds
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+built
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+bus
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+business
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+businesses
+	ignored (7)
+but
+	ignored (19)
+call
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+campaign
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+can
+	ignored (7)
+cart
+	2 www.jeremiah-ellison.com/donation/max-donation.html
+	=2
+	(0)
+caucus
+	ignored (37)
+causes
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+change
+	ignored (5)
+changeinvest
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+changing
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+choices
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+cities
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+city
+	ignored (55)
+city.proactively
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+citymake
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+civilian
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+class
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+clean
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+climate
+	ignored (5)
+code
+	2 www.jeremiah-ellison.com/what-we-do/index.html
+	=2
+	(0)
+collaborated
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+collective
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+collectively
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+color
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+combat
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+come
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+commercial
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+commit
+	ignored (37)
+communities.support
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+community
+	ignored (52)
+complete
+	ignored (5)
+composting
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+consciousness
+	ignored (5)
+contaminantsenforce
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+conventional
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+cooperative
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+corner
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=6
+	(2)
+corridor
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+council
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+counselor
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+create
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+daily
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+decades
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+decent
+	ignored (5)
+decision
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+dedicated
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+deserve
+	ignored (5)
+deserves
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+determination
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+develop
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+development
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=6
+	(2)
+developments
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+directly
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+display
+	ignored (10)
+diverse
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+does
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=6
+	(2)
+don
+	ignored (5)
+donate
+	ignored (36)
+donation
+	ignored (15)
+down
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+dramatically
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+driver
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+driving
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+dupont
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+e9s
+	ignored (12)
+e9t
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+e9ve
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	=6
+	(2)
+economically
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+economy
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+education
+	ignored (6)
+efforts
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+elections
+	ignored (5)
+electorate
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+elevating
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+ellison
+	ignored (14)
+else
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+embed
+	3 www.jeremiah-ellison.com/what-we-do/index.html
+	3 www.jeremiah-ellison.com/what-we-do/index.html
+	=6
+	(2)
+empowered
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+engaged
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+engaging
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+ensure
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+environmental
+	ignored (5)
+envision
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+equip
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+equitable
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+especially
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+every
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+expand
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+expected
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+face
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+fair
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=6
+	(2)
+family
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+fastest-growing
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+fight
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+fighter
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+fighting
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+financing
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+first
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+food
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+foodbecome
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+foot
+	ignored (5)
+for
+	ignored (239)
+force
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+free
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+friends
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+from
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=6
+	(2)
+funded
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+future
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=10
+	(4)
+futures
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+genius
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+get
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+gone
+	ignored (5)
+government
+	ignored (5)
+grassroots
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+great
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+green
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+grew
+	ignored (6)
+grow
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+hall
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+hands
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+hard
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+has
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=6
+	(2)
+have
+	ignored (48)
+health
+	ignored (6)
+healthy
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+heard
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	=6
+	(2)
+help
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+helping
+	ignored (5)
+here
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+high-quality
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+historic
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+hold
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+home
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+home.build
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+homeless
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+homelessness
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+homeowners
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+homes
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+honoring
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+housing
+	ignored (6)
+housingpass
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+https
+	2 index.html
+	=2
+	(0)
+imagine
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=6
+	(2)
+immigrant
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+impact
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+important
+	ignored (10)
+include
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+income
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+increasing
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+incumbents
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+independent
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+indigenous
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+individuals
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+influence
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+injustice
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+inline-block
+	ignored (10)
+intersection
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+into
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	=6
+	(2)
+invested
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+invited
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+involved
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+issues
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	=6
+	(2)
+its
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+jeremiah
+	ignored (186)
+jeremiahforward5.com
+	ignored (10)
+join
+	ignored (62)
+just
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+justice
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+kept
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+land
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+land-use
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+landlords
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+landlordsminneapolis
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+larr
+	2 www.jeremiah-ellison.com/donation/max-donation.html
+	=2
+	(0)
+last
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+laws
+	ignored (6)
+lead
+	ignored (11)
+leadership
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+learn
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/what-we-do/index.html
+	=8
+	(3)
+legal
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+let
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+level
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+limit
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+live
+	ignored (6)
+lives
+	ignored (18)
+local
+	ignored (34)
+locally
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+long
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+longer
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+lowest-wage
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+make
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=10
+	(4)
+making
+	ignored (6)
+maps
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+matter
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+max
+	ignored (7)
+measures
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+meet
+	ignored (42)
+minimum
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+minneapolis
+	ignored (126)
+mixed
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+mixed-use
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+mobile-nav-toggle-label
+	ignored (10)
+mobilized
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+money
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+moral
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+more
+	ignored (22)
+morgan
+	ignored (10)
+mural
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+muslim
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+must
+	ignored (39)
+myself
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+nbsp
+	ignored (33)
+need
+	ignored (41)
+needs
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+neighborhood
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+neighborhoods
+	ignored (18)
+neighbors
+	ignored (39)
+new
+	ignored (7)
+north
+	ignored (24)
+northside
+	ignored (28)
+northsidea
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+northsidedonate
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+northsider
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+northsiders
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=10
+	(4)
+not
+	ignored (8)
+obligation
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+offer
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+officials
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+one
+	ignored (5)
+only
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=6
+	(2)
+ordinanceenforce
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+ordinances
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+organizer
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=10
+	(4)
+other
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+our
+	ignored (45)
+ourselves
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+over
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+own
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+owned
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+owner
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+ownership
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+painted
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+participatory
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+parts
+	ignored (5)
+people
+	ignored (72)
+peopleto
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+percentage
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+place
+	ignored (7)
+plymouth
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+police
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=6
+	(2)
+policing-only
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+policy
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=6
+	(2)
+policysupport
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+political
+	ignored (5)
+politicized
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+poor
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+poorbring
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+popular
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=6
+	(2)
+possible
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=6
+	(2)
+power
+	ignored (5)
+powerful
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+prioritize
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+priority
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+process
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+propping
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+protected
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+proven
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+public
+	ignored (6)
+publicly
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+put
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+quantity
+	2 www.jeremiah-ellison.com/donation/max-donation.html
+	=2
+	(0)
+racially
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+racist
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+raise
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+raised
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+raises
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+rather
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+real
+	ignored (5)
+reckoned
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+recycling
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+reducing
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+reflected
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+reflection
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+reflections
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+reforms
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+refuse
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+removing
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+renters
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+replace
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+require
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+resident
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+residents
+	ignored (11)
+resources
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+respected
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+review
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+rights
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+root
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+routestruly
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+rules
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+running
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+safe
+	ignored (5)
+safety
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+scales
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+scheduling
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+script
+	ignored (897)
+seat
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+section
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+self
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+served
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+shift
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+should
+	ignored (5)
+sides
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+simply
+	ignored (5)
+since
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+small
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+smallest
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+social
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+solidarity
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+solutions
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+solving
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+sourced
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+start
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+still
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+stories
+	ignored (5)
+story
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+storytellers
+	ignored (5)
+streets
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+strong
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+suffered
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+support
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+supporting
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+system
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+table
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+take
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+talents
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+target
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+teacher
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+teachers
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+teaching
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+tell
+	ignored (5)
+ten
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+than
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+that
+	ignored (92)
+the
+	ignored (834)
+theftrents
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+their
+	ignored (13)
+them
+	ignored (11)
+themselves
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+there
+	ignored (5)
+think
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+thrive
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+through
+	ignored (18)
+time
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+tip
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+today
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+together
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+too
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+tools
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+top
+	ignored (10)
+trained
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+transformed
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+transit
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+transit.ensure
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+transitreform
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+transportation
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+triggers
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+true
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+truly
+	ignored (5)
+trusts
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+unfairly
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+uniformly
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+units
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+url
+	2 www.jeremiah-ellison.com/what-we-do/index.html
+	=2
+	(0)
+use
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+used
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+valued
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+violence
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+vision
+	ignored (51)
+voices
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+vote
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+voter
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+wage
+	ignored (5)
+wages
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+want
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=10
+	(4)
+ward
+	ignored (12)
+was
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+waste
+	ignored (5)
+water
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+way
+	ignored (17)
+wealth
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=8
+	(3)
+wealthy
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+welder
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+what
+	ignored (5)
+when
+	2 www.jeremiah-ellison.com/index.html
+	=2
+	(0)
+where
+	ignored (20)
+whether
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+while
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+who
+	ignored (5)
+will
+	ignored (7)
+wisdom
+	ignored (5)
+with
+	ignored (27)
+work
+	ignored (6)
+worked
+	3 www.jeremiah-ellison.com/index.html
+	3 www.jeremiah-ellison.com/index.html
+	=6
+	(2)
+worker
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+workers
+	ignored (11)
+working
+	2 www.jeremiah-ellison.com/index.html
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=10
+	(4)
+works
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+written
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+years
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+you
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+young
+	2 www.jeremiah-ellison.com/meet-jeremiah.html
+	2 www.jeremiah-ellison.com/meet-jeremiah/index.html
+	=4
+	(1)
+youth
+	ignored (8)
+zero
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+zones
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+	=4
+	(1)
+zoning
+	2 www.jeremiah-ellison.com/vision.html
+	2 www.jeremiah-ellison.com/vision/index.html
+ndex.html
+	=18

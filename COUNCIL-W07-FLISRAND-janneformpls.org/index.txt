@@ -320,7 +320,7 @@ amy
 	=2
 	(0)
 and
-	ignored (766)
+	ignored (765)
 anne
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -541,7 +541,7 @@ bakery
 	=10
 	(0)
 bank
-	ignored (92)
+	ignored (91)
 bargencameran
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -1247,6 +1247,12 @@ clevejulia
 	2 www.janneformpls.org/endorsements.html
 	=2
 	(0)
+click
+	2 www.janneformpls.org/donate
+	2 www.janneformpls.org/login
+	2 www.janneformpls.org/session_pair_phase_1
+	=6
+	(0)
 climate
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -1565,7 +1571,7 @@ could
 	=18
 	(1)
 council
-	ignored (126)
+	ignored (125)
 count
 	2 www.janneformpls.org/issues.html
 	=2
@@ -1926,7 +1932,7 @@ doing
 don
 	ignored (6)
 donate
-	ignored (38)
+	ignored (37)
 done
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3036,7 +3042,7 @@ harvests
 	=2
 	(0)
 has
-	ignored (10)
+	ignored (11)
 hasn
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3125,10 +3131,13 @@ here
 	5 www.janneformpls.org/caucus_for_janne.html
 	5 www.janneformpls.org/caucus_for_janne.html
 	5 www.janneformpls.org/caucus_for_janne.html
+	2 www.janneformpls.org/donate
 	2 www.janneformpls.org/index.html
 	2 www.janneformpls.org/issues.html
-	=24
-	(1)
+	2 www.janneformpls.org/login
+	2 www.janneformpls.org/session_pair_phase_1
+	=30
+	(2)
 herringjulian
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3577,11 +3586,11 @@ items
 	=2
 	(0)
 janne
-	ignored (1454)
+	ignored (1453)
 janneformpls
 	ignored (18)
 january
-	ignored (52)
+	ignored (51)
 java
 	2 www.janneformpls.org/contact_us.html
 	=2
@@ -4546,7 +4555,10 @@ move
 moved
 	3 www.janneformpls.org/meet_janne.html
 	3 www.janneformpls.org/meet_janne.html
-	=6
+	2 www.janneformpls.org/donate
+	2 www.janneformpls.org/login
+	2 www.janneformpls.org/session_pair_phase_1
+	=12
 	(0)
 movement
 	2 www.janneformpls.org/caucus_for_janne.html
@@ -5015,13 +5027,16 @@ page
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/donate
 	2 www.janneformpls.org/endorsements.html
 	2 www.janneformpls.org/events4658.html
 	2 www.janneformpls.org/index.html
 	2 www.janneformpls.org/issues.html
+	2 www.janneformpls.org/login
 	2 www.janneformpls.org/meet_janne.html
-	=46
-	(3)
+	2 www.janneformpls.org/session_pair_phase_1
+	=52
+	(4)
 pages
 	2 www.janneformpls.org/tags/coffee_caucus.html
 	2 www.janneformpls.org/tags/phone_bank.html
@@ -6062,7 +6077,7 @@ royale
 	=2
 	(0)
 rsvp
-	ignored (71)
+	ignored (70)
 rsvps
 	ignored (6)
 rules
@@ -6170,7 +6185,7 @@ scrap
 	=2
 	(0)
 script
-	ignored (1002)
+	ignored (989)
 seat
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -6998,7 +7013,7 @@ thank
 that
 	ignored (134)
 the
-	ignored (898)
+	ignored (897)
 theft
 	2 www.janneformpls.org/issues.html
 	=2

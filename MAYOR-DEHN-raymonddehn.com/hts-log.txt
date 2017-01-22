@@ -1,5 +1,5 @@
-HTTrack3.48-23 launched on Sun, 22 Jan 2017 14:54:59 at https://www.raymonddehn.com/
-(httrack https://www.raymonddehn.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-DEHN-raymonddehn.com/ -%I -F Mozilla/5.0 -%F " " -q -q )
+HTTrack3.48-23 launched on Sun, 22 Jan 2017 15:40:45 at https://www.raymonddehn.com/
+(httrack https://www.raymonddehn.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-DEHN-raymonddehn.com/ -%I -F Mozilla/5.0 -%F " " -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,

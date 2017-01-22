@@ -58,7 +58,7 @@ anaiowakansaskentuckylouisianamainemarshall
 	=4
 	(4)
 and
-	ignored (1378)
+	ignored (1373)
 anne
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -197,6 +197,10 @@ citizen
 	(4)
 city
 	ignored (16)
+click
+	2 nekima.nationbuilder.com/caucus
+	=2
+	(2)
 close
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -449,6 +453,10 @@ hard
 	(2)
 harrison
 	ignored (7)
+has
+	2 nekima.nationbuilder.com/caucus
+	=2
+	(2)
 have
 	ignored (9)
 helena
@@ -458,6 +466,10 @@ helena
 	(4)
 help
 	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+here
+	2 nekima.nationbuilder.com/caucus
 	=2
 	(2)
 herzegovinabotswanabouvet
@@ -780,6 +792,10 @@ miquelonsaint
 	(4)
 moss
 	ignored (7)
+moved
+	2 nekima.nationbuilder.com/caucus
+	=2
+	(2)
 namvirgin
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -873,6 +889,10 @@ outlying
 	(4)
 own
 	ignored (14)
+page
+	2 nekima.nationbuilder.com/caucus
+	=2
+	(2)
 paid
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1078,7 +1098,7 @@ schanilec
 schnitzen
 	ignored (14)
 script
-	ignored (1526)
+	ignored (1401)
 see
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1199,7 +1219,7 @@ that
 	=4
 	(4)
 the
-	ignored (220)
+	ignored (219)
 thecook
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html

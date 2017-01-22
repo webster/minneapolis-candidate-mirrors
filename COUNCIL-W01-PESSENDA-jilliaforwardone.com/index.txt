@@ -1,0 +1,6411 @@
+abierta
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+ability
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+abogando
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+about
+	ignored (7)
+abuild
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+accountability
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+accountable
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+act
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+action
+	ignored (10)
+activism
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+activismo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+actor
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+actriz
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+actualmente
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+actuando
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+addiction
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+advancing
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+advocate
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=34
+	(3)
+advocated
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+advocates
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=6
+	(0)
+advocating
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+aexito
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+affordable
+	ignored (9)
+afind
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+afraid
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+again
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+against
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=10
+	(1)
+agree
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+agricultura
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+agriculture
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	=30
+	(3)
+ahead
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+ahelp
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+ahora
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+ainvest
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+ajillia
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/index.html
+	=14
+	(1)
+akeep
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+alex
+	ignored (37)
+algunos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+alimentos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+all
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/media/index.html
+	=28
+	(3)
+allow
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+almacaen
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+alojamiento
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+alquiler
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+already
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+also
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=26
+	(2)
+altbaum
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+amado
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+amigos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+among
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+amp
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/contact/index.html
+	=20
+	(2)
+amplify
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+and
+	ignored (802)
+announcement
+	3 www.jilliaforwardone.com/blog/indexbb73.html
+	3 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	=20
+	(2)
+anti-bullying
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+anything
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+apoyadas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+apoyando
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+aprender
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+aprendieron
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+april
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+april.we
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+are
+	ignored (7)
+area
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+around
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+artes
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+artist
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+artistas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+artists
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=26
+	(2)
+artistsfight
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+arts
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+asegura
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+asequible
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+asistir
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+aspire
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+association
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+attend
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+attended
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+audubon
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+ave
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+ayudar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+ayudarles
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+ayuntamiento
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=22
+	(2)
+back
+	ignored (5)
+backbone
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+bajos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+balance
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+bancos
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+bank
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+banks
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+barrio
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=22
+	(2)
+barrio.tenemos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+basadas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+base
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+became
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+because
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=32
+	(3)
+before
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+beloved
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+beneficia
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+bienvenida
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+big
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=24
+	(2)
+bikes
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+bill
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+blica
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+blocked
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+blog
+	ignored (39)
+bloqueado
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+board
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+bold
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+bottom
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+box
+	ignored (5)
+bring
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=40
+	(4)
+bringing
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+brokers
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+brown
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	=24
+	(2)
+build
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+building
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+business
+	ignored (6)
+businesses
+	ignored (10)
+but
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=24
+	(2)
+buzzword
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+calendar
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+calidad
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+california
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=18
+	(1)
+cambiar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+cambio
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+cambios
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+came
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+campaign
+	ignored (24)
+can
+	ignored (37)
+candidates
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+capacidad
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+casa
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+caucus
+	ignored (17)
+centered
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+central
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+cerrara
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+challenge
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/in-the-news-1/index.html
+	3 www.jilliaforwardone.com/in-the-news-1/index.html
+	3 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	3 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	3 www.jilliaforwardone.com/in-the-news/index.html
+	3 www.jilliaforwardone.com/in-the-news/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=36
+	(3)
+challenges
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=36
+	(3)
+champion
+	ignored (20)
+championing
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+chance
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+change
+	ignored (21)
+change.solutions
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+cities
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=10
+	(1)
+cities-based
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+city
+	ignored (200)
+ciudad
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=36
+	(3)
+ciudades
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+class
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+clear
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+climate
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+closing
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+co-founders
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+co-housing
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+co-ops
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+coalition
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+cofundadores
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+colaboran
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+colas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+collaborate
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+collaborated
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+collection-type-index
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	=24
+	(2)
+collective
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+color
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=30
+	(3)
+columbia
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+come
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+comerciales
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+comes
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+commercial
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+committed
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+communications
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+communities
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=18
+	(1)
+communitiesprotecting
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+community
+	ignored (19)
+como
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=44
+	(4)
+compartir
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+completa
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+comprehensive
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+comunicaciones
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+comunidad
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+comunidades
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+comunitario
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+con
+	ignored (22)
+conce
+	ignored (18)
+concerns
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=22
+	(2)
+conoce
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+consejo
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	5 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=26
+	(2)
+consultant
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+consultora
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+contact
+	ignored (19)
+contenders
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+contra
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+convention
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+conversation
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+coraje
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+core
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+corporations
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+corredores
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+corridors
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+cosas
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+cosas.el
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+costs
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=12
+	(1)
+could
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+council
+	ignored (44)
+council.in
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+council.jillia
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+country
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+couples
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+courage
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+crear
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=8
+	(0)
+create
+	ignored (10)
+creating
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=14
+	(1)
+crecer
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=8
+	(0)
+critical
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+cual
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+cuando
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+cuenta
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+cultivar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+currently
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=10
+	(1)
+daecada.nuestro
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+daily
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+dance
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+dancer
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+dangerous
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+danza
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+dar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+date
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+days
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+de-escalation
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+deadline
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+dear
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+dec
+	ignored (17)
+decade.at
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+december
+	ignored (19)
+dedicado
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+dedicated
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+defender
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+defensores
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+degree
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+del
+	ignored (12)
+delante
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+delayed
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+demands
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+demasiada
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+democracy
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+depredadores
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+derechos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+deres
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+desafiar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+desarrolladores
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+desarrollo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+deserve
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	=12
+	(1)
+details
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+development
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+developments
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+developments.removing
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+dfl
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+direct
+	2 www.jilliaforwardone.com/media/index.html
+	=2
+	(0)
+disagree
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+disfrutae
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+disparities
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+display
+	ignored (5)
+distribuir
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+distribute
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+district
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+distrito
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+diverse
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+diverso
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+dog
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+donate
+	ignored (18)
+donating
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+donation
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=28
+	(3)
+donde
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+done.city
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+downtown
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+drive
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=30
+	(3)
+duluth
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=10
+	(1)
+durante
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+e9i
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+e9ll
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=24
+	(2)
+e9m
+	3 www.jilliaforwardone.com/blog/announcement.html
+	3 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=22
+	(2)
+e9re
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	=12
+	(1)
+e9s
+	ignored (5)
+e9t
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=34
+	(3)
+e9ve
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+earn
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+earned
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+earning
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+economic
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+economyfinding
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+education
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+effective
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+ejecuciones
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+elected
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=38
+	(4)
+election
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+electionsmonitor
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+electos
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+eliminate
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+eliminating
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+ella
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+elliot
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+email
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+empleados
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+employed
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+employment
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+empresas
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+encanta
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+encontrar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+endorsement
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+ends
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+enfrentamos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+enfrentan
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+enjoyed
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+enormous
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+ensure
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+entre
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+entusiasma
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+equality
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+equipo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+equity
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=10
+	(1)
+era
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+error-key
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+esa
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+escolar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+escuchado
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+escuchan
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+escuela
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+escuelas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+ese
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+espacios
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+esperar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+estado
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+estatal
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+este
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+estos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+estrategia
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+estudiantes
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+even
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	=12
+	(1)
+event
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=22
+	(2)
+ever
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=34
+	(3)
+everything
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+excessive
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+excited
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=20
+	(2)
+excites
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+exist
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+expand
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+experience
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	=30
+	(3)
+experiencia
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=8
+	(0)
+face
+	ignored (6)
+facing
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+fair
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+familia
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+familias
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=22
+	(2)
+families
+	ignored (7)
+family
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+farm
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=10
+	(1)
+farming
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+featured
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=2
+	(0)
+federal
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=18
+	(1)
+feel
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+felicia
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	=24
+	(2)
+felt
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+fight
+	ignored (7)
+fighting
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+fin
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+finance
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+find
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+fines
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+first
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+firsthand
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+fixed
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+font-size
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+food
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=12
+	(1)
+foods.working
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+foot
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+for
+	ignored (524)
+force
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+foreclosures
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	=30
+	(3)
+formae
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+forward
+	ignored (10)
+fought
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+frecuencia
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+frente
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+friends
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=40
+	(4)
+from
+	ignored (11)
+fueron
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+fuertemente
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+fuertes
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+funcionarios
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+funded
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+fundraiser
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+future
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=22
+	(2)
+futuro
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+gained
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+ganando
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+ganar
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+gardening
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+gemelas
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+gender
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+general
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+gente
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+get
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/contact/index.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=28
+	(3)
+getting
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+goal
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+goals
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+going
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+government
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+graduarme
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+graduating
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+grandes
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+grassroots
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+grassroots-led
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+greater
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+greatest
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+grew
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	=24
+	(2)
+gridlock
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+grow
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+growing
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+guante
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+hablado
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+hacer
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+hacerlo
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+hacia
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+hall
+	ignored (13)
+halljillia
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+han
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+handouts
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+have
+	ignored (20)
+health
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+healthy
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+hear
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+heard
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=32
+	(3)
+hecho
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+help
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+helped
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+her
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=10
+	(1)
+here
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=20
+	(2)
+high
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	=24
+	(2)
+high-quality
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+hillside
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+hip
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+hipotecarias
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+historias
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+hogares
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+hold
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+home
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+homegrown
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+homeowners
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+homes
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=20
+	(2)
+honored
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+hop
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+hope
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=36
+	(3)
+horticultura
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+hour
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=26
+	(2)
+hourfor
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+housing
+	ignored (17)
+how
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+https
+	2 index.html
+	=2
+	(0)
+ideas
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+igualdad
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+impedir
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+importaba
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+important
+	ignored (6)
+impossible
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+improvements
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+improving
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+include
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+includes
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+including
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+income
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+increase
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+increasing
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+information
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+ingresos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+injustas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+inline-block
+	ignored (5)
+innovative
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+inquiries
+	2 www.jilliaforwardone.com/media/index.html
+	=2
+	(0)
+insiders
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+inspires
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+instead
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+integrated
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+intentional
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+intereses
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+interests
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+intersections
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+into
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=10
+	(1)
+invest
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+investing
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+involved
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+issues
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=38
+	(4)
+jan
+	7 www.jilliaforwardone.com/in-the-news/index.html
+	7 www.jilliaforwardone.com/in-the-news/index.html
+	7 www.jilliaforwardone.com/in-the-news/index.html
+	7 www.jilliaforwardone.com/in-the-news/index.html
+	7 www.jilliaforwardone.com/in-the-news/index.html
+	7 www.jilliaforwardone.com/in-the-news/index.html
+	=42
+	(4)
+january
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=28
+	(3)
+jillia
+	ignored (790)
+jilliaforward1
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+jilliaforwardone.com.high-quality
+	2 www.jilliaforwardone.com/media/index.html
+	=2
+	(0)
+jilliaforwardone.com.press
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+jillialet
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+jilliap.s
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+jobs
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+join
+	ignored (34)
+joined
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+journal
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+joven
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+juntando
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+juntos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+just
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+justice
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=26
+	(2)
+justicia
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+keep
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=26
+	(2)
+keeps
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+kick
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+kick-off
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+kickoff
+	4 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	4 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	4 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=38
+	(4)
+kind
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+knew
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+know
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+knows
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+lacking
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+land
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+large
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+largest
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+las
+	ignored (23)
+last
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=10
+	(1)
+law
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+laws
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+lead
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	=12
+	(1)
+leader
+	ignored (9)
+leaders
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=38
+	(4)
+leadership
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	=12
+	(1)
+learn
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	3 www.jilliaforwardone.com/why-jillia/index.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=18
+	(1)
+learned
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+left
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+lek
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+lenders
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+less
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+let
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+level
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+ley
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+leyes
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+lgbtq
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+liderar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+liderato
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+life
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+like
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+listen
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=44
+	(4)
+live
+	ignored (5)
+lives
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+liveward
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+living
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=14
+	(1)
+llegar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+llevar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+local
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=24
+	(2)
+lofty
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+logan
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+look
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=26
+	(2)
+los
+	ignored (22)
+love
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=10
+	(1)
+low
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+ltimo
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+ltiples
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+luchamos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+luchando
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+luchar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+lucro
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+lugar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+made
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+madre
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+maintained
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+majority
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+make
+	ignored (5)
+making
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	=18
+	(1)
+mandatory
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+manera
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+mano
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+mantenido
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+market
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+market-rate
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+marriage
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+marshall
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+matrimonial
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+mattered
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+media
+	ignored (20)
+meet
+	ignored (25)
+meeting
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+mejoren
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+member
+	5 www.jilliaforwardone.com/why-jillia.html
+	5 www.jilliaforwardone.com/why-jillia.html
+	5 www.jilliaforwardone.com/why-jillia.html
+	5 www.jilliaforwardone.com/why-jillia.html
+	5 www.jilliaforwardone.com/why-jillia/index.html
+	5 www.jilliaforwardone.com/why-jillia/index.html
+	5 www.jilliaforwardone.com/why-jillia/index.html
+	5 www.jilliaforwardone.com/why-jillia/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=44
+	(4)
+member.i
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+member.they
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+members
+	ignored (12)
+mental
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+mes
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+met
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+meyer
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+mid-city
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+midnight
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+miembro
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=18
+	(1)
+miembros
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	5 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=22
+	(2)
+mientras
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+minimum
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=36
+	(3)
+minneapolis
+	ignored (29)
+minnesota
+	ignored (9)
+mis
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+mismo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+mixed
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+mobile-nav-toggle-label
+	ignored (5)
+mom
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+monica
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+more
+	ignored (19)
+most
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+move
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=16
+	(1)
+moved
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+mover
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+movimiento
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+mudae
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+multiple
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+municipal
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=14
+	(1)
+must
+	ignored (18)
+native
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+nativos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+navigate
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+nbsp
+	ignored (26)
+necesidades
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+necesita
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+necesitamos
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=8
+	(0)
+necesitamos.a
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+need
+	ignored (24)
+need.i
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+need.through
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=6
+	(0)
+needs
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+negociaciones
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+negotiations
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+neighborhood
+	ignored (6)
+neighborhoods
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	=30
+	(3)
+neighborhoodsjillia
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+neighbors
+	ignored (28)
+new
+	ignored (17)
+newer
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	=4
+	(0)
+news
+	ignored (102)
+next
+	ignored (5)
+night
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+nimo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+nivel
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+nonprofit
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+noreste
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=8
+	(0)
+northeast
+	ignored (6)
+northeaster
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+nos
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+nosotros
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+not
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=26
+	(2)
+now
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=40
+	(4)
+nuestra
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=42
+	(4)
+nuestras
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+nuestro
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=18
+	(1)
+nuestros
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+nuevo
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+nuevos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+nunca.merecemos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+obstacles
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+obtuve
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+obtuvieron
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+occupy
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+off
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+office
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+officers
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+official
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+officials
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+often
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+oil
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+older
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	=4
+	(0)
+one
+	ignored (15)
+onenow
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+only
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/index.html
+	=14
+	(1)
+open
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+opportunities
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+ordinance
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+organizaciones
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+organizations
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+organizing
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+other
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=8
+	(0)
+otros
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+our
+	ignored (361)
+ourselves
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+out
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=12
+	(1)
+outcome
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+outfront
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+over
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=28
+	(3)
+own
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+owned
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+owners
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+padding
+	ignored (7)
+padding-top
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+pagar
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+page
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	=24
+	(2)
+page-content
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	=24
+	(2)
+paid
+	ignored (5)
+para
+	ignored (30)
+pareja
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+parejas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+park
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+part
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+parte
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+participaron
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+participated
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+partner
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+partnership
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+pasaje
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+passage
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+passion
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+pay
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+peace
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+people
+	ignored (7)
+perform
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+perform.i
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+performing
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+permanent
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+permitir
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+permitirnos
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+perpetrators
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+perro
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+person
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+personal
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+pessenda
+	ignored (21)
+pessendap.s
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+pessendapo
+	ignored (5)
+pessendaworking
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+photos
+	2 www.jilliaforwardone.com/media/index.html
+	=2
+	(0)
+piecing
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+place
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=32
+	(3)
+planet
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+platform
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+please
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/media/index.html
+	=10
+	(1)
+podemos
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=8
+	(0)
+poder
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+police
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+policies
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=10
+	(1)
+policy
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+politics
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+pollutersrevitalizing
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+por
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=36
+	(3)
+porque
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+posed
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+position
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+positive
+	ignored (8)
+positivos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+postget
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	=4
+	(0)
+postjoin
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	=2
+	(0)
+postre
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	=2
+	(0)
+posts
+	ignored (5)
+power
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=28
+	(3)
+predatory
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+preocupa
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+prepared
+	ignored (5)
+president
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+prestamistas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+primera
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+prioritize
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+proactivamente
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+proactive
+	ignored (5)
+proactively
+	ignored (5)
+proactivo
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+problemas
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+problems
+	ignored (11)
+processesvote
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+produce
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+productos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+program
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+programa
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+progresista
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+progresistas
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+progreso
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=8
+	(0)
+progress
+	ignored (7)
+progressive
+	ignored (38)
+project
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+promise
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+propietarios
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+prosecute
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+prosperar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+protected
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=10
+	(1)
+protections
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+protest
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+protesta
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+providing
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+proyecto
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+pruitt
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	4 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	=24
+	(2)
+public
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+publicly
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+pursued
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+push
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+pushed
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+put
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=12
+	(1)
+quae
+	ignored (21)
+que
+	ignored (37)
+quedarse
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+questions
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+quieren
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+quiero
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+quo
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=24
+	(2)
+racial
+	ignored (5)
+raise
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+rea
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+reach
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+ready
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=26
+	(2)
+reality.mark
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+realized
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=6
+	(0)
+receive
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+reminded
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+rent
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+represent
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+representar
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+representative
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+require
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+requires
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+resident
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=20
+	(2)
+residentes
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	4 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=12
+	(1)
+residents
+	ignored (7)
+resistance
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+resolver
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+respond
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+responder
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+restaurantes
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+restaurants
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+result
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+resultado
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+ricos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+rights
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+rightsinvest
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+ring
+	ignored (5)
+rising
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+risk
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+romeo
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+running
+	ignored (7)
+safe
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+salario
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+same-sex
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+save
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+saw
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+say
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+schedulesto
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+scheduling.they
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+school
+	ignored (6)
+schools
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+script
+	ignored (337)
+seat
+	3 www.jilliaforwardone.com/in-the-news-1/index.html
+	3 www.jilliaforwardone.com/in-the-news-1/index.html
+	3 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	3 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	3 www.jilliaforwardone.com/in-the-news/index.html
+	3 www.jilliaforwardone.com/in-the-news/index.html
+	=18
+	(1)
+secretario
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+secretary
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+secundaria
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+secure
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+see
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+seeking
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+seen
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+seguir
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+seguras
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+sen
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	=18
+	(1)
+serve
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+served
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+server
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+servicesbuild
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+servido
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+servidor
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+set
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+settle
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+seven
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+sexo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+share
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=20
+	(2)
+shared
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+she
+	4 www.jilliaforwardone.com/index.html
+	4 www.jilliaforwardone.com/index.html
+	4 www.jilliaforwardone.com/index.html
+	4 www.jilliaforwardone.com/vision.html
+	4 www.jilliaforwardone.com/vision.html
+	4 www.jilliaforwardone.com/vision.html
+	4 www.jilliaforwardone.com/vision/index.html
+	4 www.jilliaforwardone.com/vision/index.html
+	4 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=40
+	(4)
+shift
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+should
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+show
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=26
+	(2)
+side
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+siendo
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+sign
+	ignored (5)
+significant
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=24
+	(2)
+significativos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+signing
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+sigue
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+sin
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+sino
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+small
+	ignored (11)
+sobre
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+social
+	2 www.jilliaforwardone.com/contact/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=8
+	(0)
+solidarity
+	ignored (5)
+soluciones.despuaes
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+solutions
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+solutions.after
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+solve
+	ignored (5)
+some
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=20
+	(2)
+soon
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+sostenible
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+sostenibles.trabajando
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+soy
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+spaces
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+spacesprioritizing
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+speak
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+squarespace
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+stable
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+stadiumjillia
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+staff
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+stand
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+started
+	2 www.jilliaforwardone.com/contact/index.html
+	=2
+	(0)
+state
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+statu
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+status
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+stay
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+stayed
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+steinman
+	ignored (37)
+step
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+stewardship
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+stop
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+stories
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+strategies
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+strategy
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+street
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=18
+	(1)
+streetscapes
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+strengthen
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+strong
+	4 www.jilliaforwardone.com/index.html
+	4 www.jilliaforwardone.com/index.html
+	4 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=28
+	(3)
+strongly
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+structures
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+students
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+successfully
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+suficiente
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+supe
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+support
+	ignored (16)
+supportive
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+sus
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+sustainable
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=8
+	(0)
+systems
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+table
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+table.together
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+tackle
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+tackling
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+tagged
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+take
+	ignored (5)
+talked
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=10
+	(1)
+talking
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+tambiaen
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+tax-payer
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+team
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+teatro
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+tenant
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+tenemos
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+text
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+than
+	ignored (5)
+that
+	ignored (45)
+the
+	ignored (723)
+theatre
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+theftkeep
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+their
+	ignored (9)
+them
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=8
+	(0)
+they
+	ignored (7)
+things
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+this
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+three
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+thrivesmall
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+thriving
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+through
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+thursday
+	ignored (6)
+tica
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+tiempo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+tierras
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+time
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=20
+	(2)
+tiny
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+today
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	=26
+	(2)
+todos
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+together
+	ignored (12)
+told
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+too
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=22
+	(2)
+top
+	ignored (5)
+toward
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+trabaja
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+trabajador
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+trabajadoras
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+trabajae
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+trabajando
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+trabajo
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+trabajos
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=4
+	(0)
+trainingdecriminalize
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+trainsinvesting
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+transportationhelp
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+travaes
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+trust
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+tulo
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+twin
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=18
+	(1)
+two
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	=6
+	(0)
+types
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+u.s
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+una
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+unen
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+unir
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+units
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=4
+	(0)
+unitsremoving
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+universidad
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+university
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+unjust
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+uno
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+updates
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+upon
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+urban
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	=42
+	(4)
+urbana
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=12
+	(1)
+urge
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+urgency
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=16
+	(1)
+use
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	=18
+	(1)
+valiosa
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+valores
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+valuable
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+values
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=40
+	(4)
+vecinos
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	3 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=6
+	(0)
+vecinos.colaborae
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+venes
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=6
+	(0)
+vice
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+vicepresidente
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+vida
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+vine
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+vision
+	ignored (27)
+visto
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+vive
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+vivido
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+vivir
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+voice
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=14
+	(1)
+voices
+	ignored (5)
+wage
+	ignored (7)
+waite
+	2 www.jilliaforwardone.com/index.html
+	=2
+	(0)
+want
+	ignored (18)
+ward
+	ignored (133)
+warehouse
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+was
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+webkit-user-select
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+welcome
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+were
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+what
+	4 www.jilliaforwardone.com/why-jillia.html
+	4 www.jilliaforwardone.com/why-jillia.html
+	4 www.jilliaforwardone.com/why-jillia.html
+	4 www.jilliaforwardone.com/why-jillia/index.html
+	4 www.jilliaforwardone.com/why-jillia/index.html
+	4 www.jilliaforwardone.com/why-jillia/index.html
+	=24
+	(2)
+when
+	ignored (10)
+where
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	4 www.jilliaforwardone.com/meet-jillia/index.html
+	=24
+	(2)
+which
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+while
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+who
+	ignored (12)
+why
+	ignored (24)
+will
+	ignored (85)
+win
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	=12
+	(1)
+windom
+	2 www.jilliaforwardone.com/in-the-news-1/index.html
+	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
+	2 www.jilliaforwardone.com/in-the-news/index.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=14
+	(1)
+wishing
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+with
+	ignored (73)
+women
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+womenhelp
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+work
+	ignored (14)
+worked
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+workers
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+working
+	ignored (5)
+workplace
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=22
+	(2)
+works
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+would
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=4
+	(0)
+www.jilliaforwardone.com
+	2 index.html
+	=2
+	(0)
+xima
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+ximos
+	2 www.jilliaforwardone.com/por-qu-jillia/index.html
+	=2
+	(0)
+yai
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=6
+	(0)
+year
+	ignored (17)
+years
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=6
+	(0)
+you
+	ignored (28)
+young
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+	=4
+	(0)
+your
+	ignored (16)
+youth
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	=30
+	(3)
+z-index
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
+	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-pow/__Twin.html
+	=6
+	(0)
+zona.en
+	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=2
+	(0)
+zoning
+	2 www.jilliaforwardone.com/meet-jillia.html
+	2 www.jilliaforwardone.com/meet-jillia/index.html
+ardone.com/blog/index51b4.html
+	3 www.jilliaforwardone.com/blog/index9767.html
+	3 www.jilliaforwardone.com/blog/index9767.html
+	3 www.jilliaforwardone.com/blog/indexaba0.html
+	3 www.jilliaforwardone.com/blog/indexaba0.html
+	3 www.jilliaforwardone.com/blog/indexbb73.html
+	3 www.jilliaforwardone.com/blog/indexbb73.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	3 www.jilliaforwardone.com/blog/indexecf7.html
+	=146
+aforwardone.com/blog/indexbb73.html
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=264
+ay-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=668
+tml
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
+	=1220

@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jacobfrey.org	TRUE	/	FALSE	1999999999	crumb	BMkrLnRyC5tNMTlkZjc2NzViMWFiMTkyNzY0MzMzYTgyZGQxNmI1
+jacobfrey.org	TRUE	/	FALSE	1999999999	ss_cid	3ad20d45-606c-4210-908b-e33a605e462f
+jacobfrey.org	TRUE	/	FALSE	1999999999	ss_cvisit	1485067170806
+jacobfrey.org	TRUE	/	FALSE	1999999999	ss_cpvisit	1485067170806
+

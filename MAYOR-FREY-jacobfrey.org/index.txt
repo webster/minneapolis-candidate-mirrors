@@ -1,0 +1,6078 @@
+ability
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+able
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+about
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=22
+	(3)
+access
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+accessible
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+accident
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+accomplished
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+accomplishing
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+accountable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+act
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=18
+	(2)
+action
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+action-oriented
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+activation
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+active
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+adding
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+addition
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+address
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=10
+	(1)
+affordable
+	ignored (23)
+after
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	=24
+	(3)
+against
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+agricultural
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+agriculture
+	ignored (5)
+agriculturewe
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+air
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+alabama
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+alive
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+all
+	ignored (7)
+all.working
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+allocations
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+allow
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+allowing
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+almost
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+also
+	ignored (11)
+always
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+amendments
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+america
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+america.public
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+american
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+amount
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+amp
+	ignored (7)
+and
+	ignored (1538)
+announce
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	=28
+	(4)
+announced
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+announcement
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=16
+	(2)
+announces
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=16
+	(2)
+announcing
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+annual
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+answer
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
+answering
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+any
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+approach
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+arbitrary
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+are
+	ignored (102)
+area
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+areas
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+around
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+arts
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+asking
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+associates
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+assuming
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+athere
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+attend
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=14
+	(2)
+attended
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+authored
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=30
+	(4)
+available
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+avenue
+	ignored (7)
+award
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+away
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+back
+	ignored (7)
+backgrounds
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+baker
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+balances
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+bar
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+barrier
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+base
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+based
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=18
+	(2)
+basic
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+basis.city
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+beacon
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+beat
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+because
+	ignored (6)
+become
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+been
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+begin
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=10
+	(1)
+behalf
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+behind
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+being
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+believe
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+believed
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+beloved
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+benefit
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+benson
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+better
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=20
+	(3)
+between
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+between.ending
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+big
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=10
+	(1)
+bio
+	ignored (19)
+board
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+boilerplates
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+bold
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=24
+	(3)
+boost
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+born
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+breaking
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+brewing
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	=30
+	(4)
+bright
+	ignored (11)
+bring
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+bringing
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+bucking
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+build
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+building
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+buildings
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+bully
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+business
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=16
+	(2)
+businesses
+	ignored (5)
+but
+	ignored (14)
+call
+	ignored (6)
+calorie
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+campaign
+	ignored (31)
+campaign.request
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+can
+	ignored (54)
+candidacy
+	ignored (8)
+candidate
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+cannot
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+canrise
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+care
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+career
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+caucus
+	ignored (24)
+cause
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+causes
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+cedar-riverside
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+chair
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+champion
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+championed
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=8
+	(1)
+championing
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+champions
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+change
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=24
+	(3)
+changed
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+check
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+cheering
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+chip
+	ignored (10)
+choice
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+cities
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+citizens
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+city
+	ignored (105)
+city-wide
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+city.urban
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+city316
+	ignored (6)
+clarke
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+class
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/issues/index.html
+	=32
+	(4)
+clean
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+clear
+	ignored (5)
+climate
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+close
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+co-authored
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+coalitions
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+code
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=32
+	(4)
+collaborated
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+collaboration
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+collaboratively
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+collected
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+collective
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+college
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+color
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+come
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+comfortable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+commend
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+commit
+	3 jacobfrey.org/caucus/index.html
+	3 jacobfrey.org/caucus/index.html
+	=6
+	(0)
+commitment
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	=12
+	(1)
+committee
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+commons
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+communicate
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+communication
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+communities
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=14
+	(2)
+community
+	ignored (19)
+community-based
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+community-minded
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=8
+	(1)
+companies
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+company
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=14
+	(2)
+company1300
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+compassionate
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+competed
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+competencies
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+concentrated
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+concern
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+concluded
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+connect
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=6
+	(0)
+connecting.hotel
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+conrad
+	ignored (43)
+consistent
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+constant
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+constantly
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+constituent
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=8
+	(1)
+constituents
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+content
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+continue
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+continued
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=14
+	(2)
+contract
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+contributes
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+contribution
+	2 jacobfrey.org/chip-in.html
+	2 jacobfrey.org/chip-in/index.html
+	2 jacobfrey.org/index.html
+	=6
+	(0)
+control
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+corporate
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+correspondence
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+cost
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+costs
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+could
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+council
+	ignored (5)
+councilmember
+	ignored (11)
+councilthe
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+count
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+countless
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+country
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+couple
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/chip-in.html
+	2 jacobfrey.org/chip-in/index.html
+	2 jacobfrey.org/index.html
+	=10
+	(1)
+courage
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+court
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	=2
+	(0)
+cover
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+cracking
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+crafted
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+crafting
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+create
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+created
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+creative
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/index.html
+	=32
+	(4)
+credential
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+credentialmedia
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+credentials
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	=30
+	(4)
+crime
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+criminal
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+crisis
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+critical
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+cum
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+cut
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+cycle
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+dangerous
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+day
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=12
+	(1)
+days
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+dean
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	=2
+	(0)
+death
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+decide
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+declare
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+declassified
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+decreased
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+decriminalized
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+deeply
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+defending
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+degree
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+delivered
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=8
+	(1)
+delivers
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+democracy
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+denied
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+depend
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+deprived
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+deserts
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+deserve
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+deserves
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+develop
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+developers
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+development
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=18
+	(2)
+did
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+differences
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+difficult
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+direction
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+directly.here
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+discrimination
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+disenfranchise
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+displacement
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+display
+	ignored (6)
+district
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+diverse
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+do.raising
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+dodge
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+does
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+doing
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+don
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+donald
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+donate
+	ignored (19)
+done
+	ignored (9)
+done.residential
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+door
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+down
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+downtown
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+draconian
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+during
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+e9i
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+e9m
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+e9s
+	ignored (6)
+e9t
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+e9the
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+e9ve
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=12
+	(1)
+e9we
+	ignored (9)
+each
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=10
+	(1)
+early
+	ignored (8)
+ease
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+easier
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+east
+	ignored (10)
+economic
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+efficient
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+election
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=22
+	(3)
+elections
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+elementary
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+elementary.minimum
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+email
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=10
+	(1)
+embrace
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+eminneapolis
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	=28
+	(4)
+emissions
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+emitted
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+employees
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+empower
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+empowered
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+empowering
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+enacted
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+encouraged
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+end
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+endangered
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+energy
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+engagement
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+enhance
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+enhanced
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+enhances
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+enough
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+ensure
+	ignored (5)
+entire
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+entirety
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+entrepreneurs
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+entrepreneurs.we
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+environment
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+environmental
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=28
+	(4)
+equity
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+especially
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+established
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+ethe
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+european
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+even
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+event
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	=2
+	(0)
+events
+	2 jacobfrey.org/events/index.html
+	2 jacobfrey.org/events/index7441.html
+	2 jacobfrey.org/events/index8f3e.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=18
+	(2)
+ever
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+every
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=22
+	(3)
+everyone
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=22
+	(3)
+example
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+exceptional
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+expand
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+expanded
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+expansion
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/issues/index.html
+	=14
+	(2)
+expected
+	ignored (5)
+experiencing
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=20
+	(3)
+extended
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+extent
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+faced
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+facilitated
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+facing
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+facts
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+faegre
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	=12
+	(1)
+fall
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+falling
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+false
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+families
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+family
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+farmers
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+farming.x-games
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+farms
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+fear
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+featured
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+feb
+	ignored (7)
+february
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/events/index.html
+	2 jacobfrey.org/events/index7441.html
+	2 jacobfrey.org/events/index8f3e.html
+	=8
+	(1)
+fees
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+fell
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=24
+	(3)
+few
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+fight
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+fighting
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+filled
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+fills
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+first
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=12
+	(1)
+fishman
+	ignored (11)
+fishman.register
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	=2
+	(0)
+fixed
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+flourish
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+food
+	ignored (6)
+food-secure
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+foods
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+footage
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+for
+	ignored (435)
+force
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+forms
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+fortunate
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+forward
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+foster
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+fought
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+found
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/index.html
+	=32
+	(4)
+foundation
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+founding
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+four
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+franchises
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+free
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+fresh
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+frey
+	ignored (93)
+freytonight
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+from
+	ignored (19)
+fruits
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+full
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=16
+	(2)
+fullest
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+fully
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+fund
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/issues/index.html
+	=14
+	(2)
+fundamental
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+funded
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+funding
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=14
+	(2)
+further
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+future
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+game
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+games
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+gap
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+garbage
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+gardens
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
+gay
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+get
+	ignored (12)
+gets
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+getting
+	ignored (5)
+give
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+gives
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+goal.early
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+going
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+government
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+graduated
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+graduating
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+graduation
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+grassroots
+	ignored (6)
+great
+	ignored (5)
+green
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=16
+	(2)
+greenest
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=16
+	(2)
+greet
+	ignored (5)
+grow
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+growing
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+growth
+	ignored (5)
+guarantee
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+gutted
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+had
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+half
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+hall
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+halunen
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+hand
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	=30
+	(4)
+happen
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+hard
+	ignored (5)
+hardship.small
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+harm
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+harness
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+has
+	ignored (16)
+have
+	ignored (30)
+head
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+healing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+health
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+healthy
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+hear
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+hectic
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+held
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+help
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+helping
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+hennepin
+	ignored (8)
+her
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+here
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=18
+	(2)
+hide
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+high
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+himself
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+his
+	ignored (16)
+historic
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+history.i
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+hold
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+holistic
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+home
+	ignored (16)
+homegrown
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+homeless
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+homelessness
+	ignored (5)
+homelessnessi
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+honored
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+hope
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=6
+	(0)
+horizon
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+hotel
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+hours
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+housing
+	ignored (16)
+housing.during
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+however
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+https
+	2 index.html
+	=2
+	(0)
+hundreds
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	=28
+	(4)
+hurt
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+idea
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+ideas
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+illegal
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+immediate
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	=28
+	(4)
+immediately
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+imperative
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+importance
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+important
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
+improved
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+improvements
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+in.pollution
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+incentives
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+incentivize
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+include
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+inclusivity
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+incorporated
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+increase
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=8
+	(1)
+increased
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+increases
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+increasing
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+incredibly
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+individual
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/chip-in.html
+	2 jacobfrey.org/chip-in/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=12
+	(1)
+individuals
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+influx
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+information
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+initiative
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+initiatives
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+inline-block
+	ignored (6)
+innovative
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+inns.milling
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+insecurity
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+intelligent
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+into
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+invest
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+investment
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+investments
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+ironically
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+isolation
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+issue
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
+issues
+	ignored (24)
+its
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+jacob
+	ignored (326)
+jacobfrey.orgpaid
+	ignored (6)
+jake
+	ignored (12)
+january
+	ignored (29)
+job
+	ignored (5)
+jobs
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+join
+	ignored (17)
+july
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+just
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+justice
+	ignored (7)
+justicea
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+kept
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+key
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+kim
+	ignored (11)
+kimmy
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	=2
+	(0)
+king
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+know
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+lack
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+landlords
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+landmark
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+landowners
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+last
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=20
+	(3)
+laude
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+laugh
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+laurels
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+law
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=16
+	(2)
+laws
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+lead
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+leader
+	ignored (5)
+leaders
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=14
+	(2)
+leadership
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=20
+	(3)
+leading
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+lear
+	ignored (12)
+lease
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+least
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+leave
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+led
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=8
+	(1)
+left
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+legal
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+legislature
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+lens
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+less
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=10
+	(1)
+lets
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+levels
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+life
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=8
+	(1)
+life.ride
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+like
+	ignored (5)
+lines
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+lip
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+list
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+listen
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+live
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=18
+	(2)
+lives
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+living
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+local
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=28
+	(4)
+locally
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+long
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+long-term
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+longer
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+look
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+looming
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+loop
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+loss
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+lot
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+lots
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/index.html
+	=20
+	(3)
+love
+	ignored (5)
+loving
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+low
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=16
+	(2)
+low-income
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+lower-income
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+luther
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+lyft
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+made
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+major
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+make
+	ignored (6)
+makes
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+making
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=16
+	(2)
+man
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	=30
+	(4)
+management
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+manner
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+many
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+marathon
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+marijuana
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+market
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+married
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+martin
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+mary
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+mask
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+massive
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+maximum
+	2 jacobfrey.org/chip-in.html
+	2 jacobfrey.org/chip-in/index.html
+	2 jacobfrey.org/index.html
+	=6
+	(0)
+mayor
+	ignored (35)
+mayor.along
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+meant
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+meat
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+media
+	ignored (19)
+meet
+	ignored (7)
+member
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/events/index.html
+	2 jacobfrey.org/events/index7441.html
+	2 jacobfrey.org/events/index8f3e.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=12
+	(1)
+members
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/issues/index.html
+	=14
+	(2)
+mended
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+met
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=8
+	(1)
+metals
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+mighty
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+milling
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+million
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+mine
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+minimum
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=16
+	(2)
+minneapolis
+	ignored (121)
+minneapolis.tenant
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+minneapolis.urban
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+minneapolisaffordable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+minneapolisfor
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+minutes
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+misdemeanor.commons
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+mission
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+mississippi
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+mitigate
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+mnmedia
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+mobile
+	3 jacobfrey.org/caucus/index.html
+	3 jacobfrey.org/caucus/index.html
+	3 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	3 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	3 jacobfrey.org/join.html
+	3 jacobfrey.org/join.html
+	3 jacobfrey.org/join/index.html
+	3 jacobfrey.org/join/index.html
+	=24
+	(3)
+mobile-nav-toggle-label
+	ignored (6)
+model
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+modern
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+modernization
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+modernize
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+modest
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+month
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+more
+	ignored (7)
+most
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+move
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+moved
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+moved.but
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+moves
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+much
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+multi-faceted
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+must
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+myself
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+name
+	ignored (12)
+narrowing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+national
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+naturally
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+nbsp
+	ignored (15)
+ndash
+	ignored (23)
+nearly
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+necessary
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+need
+	ignored (18)
+needed
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+needs
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+neighborhood
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=14
+	(2)
+neighborhoods
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+never
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=14
+	(2)
+new
+	ignored (11)
+next
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+night.in
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+nonprofit
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+north
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=8
+	(1)
+northeast
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+northern
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+not
+	ignored (37)
+nothing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+now
+	ignored (5)
+number
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+numbers
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+numerous
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+nutrition
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+nutritious
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+occupied
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+occurring
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+oceans
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+offender
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+offenses
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+office
+	ignored (5)
+officer
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+officers
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+often
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+old
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+once
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+one
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=20
+	(3)
+one.but
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+only
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+open
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=8
+	(1)
+open-ended
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+opening
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+openings
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=8
+	(1)
+operate
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+opportunity
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+optimism
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+order
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+ordinance
+	ignored (6)
+ordinance.affordable
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+organization
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+organizing
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+other
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/issues/index.html
+	=14
+	(2)
+others
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+our
+	ignored (147)
+ourselves
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+out
+	ignored (5)
+outdated
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+outreach
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+outside
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+over
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+overall
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+own
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+owned
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+paid
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+pan
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+park
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/issues/index.html
+	=26
+	(3)
+parking
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=16
+	(2)
+parks
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+part
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=14
+	(2)
+particular
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+partner
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+partnered
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+partnering
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+partners
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+partnership
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+parts
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+passed
+	ignored (9)
+passionate
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=6
+	(0)
+past
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=18
+	(2)
+pay
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+people
+	ignored (25)
+per
+	3 jacobfrey.org/chip-in.html
+	3 jacobfrey.org/chip-in.html
+	3 jacobfrey.org/chip-in/index.html
+	3 jacobfrey.org/chip-in/index.html
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	=18
+	(2)
+percentage
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+person
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+personally
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+phone
+	3 jacobfrey.org/caucus/index.html
+	3 jacobfrey.org/caucus/index.html
+	3 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	3 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	3 jacobfrey.org/join.html
+	3 jacobfrey.org/join.html
+	3 jacobfrey.org/join/index.html
+	3 jacobfrey.org/join/index.html
+	2 jacobfrey.org/issues/index.html
+	=26
+	(3)
+photo
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+place
+	ignored (25)
+places
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+platitudes
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+play
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+player
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+pledge
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+plowed
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+pm.rally
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+pm19
+	2 jacobfrey.org/events/index.html
+	2 jacobfrey.org/events/index7441.html
+	2 jacobfrey.org/events/index8f3e.html
+	=6
+	(0)
+pmdangerous
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+police
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+policies
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+policing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+policy
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+political
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+polling
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+pollutants
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+polluters
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+pollution
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=24
+	(3)
+poorest
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+population
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+position
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+possession
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+post-trauma
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+potential
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+potholes
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+poverty
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+power
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+powerful
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+practicing
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+pre-determined
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+precinct
+	2 jacobfrey.org/caucus/index.html
+	=2
+	(0)
+precincts
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+present
+	ignored (5)
+presidency
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+press
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+preventing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+previously
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+prices
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+prides
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+primary
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+private
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+privately-owned
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+problem
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+produce
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+professionally
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+programs
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+progress
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+progressive
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/issues/index.html
+	=26
+	(3)
+projects
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=10
+	(1)
+promised
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	=12
+	(1)
+promises
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=16
+	(2)
+promote
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+promotes
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+promoting
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+properties
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+prosper.repurposing
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+protect
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+protected
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+proud
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+proven
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+provide
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+providing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+public
+	ignored (10)
+pulpit
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+punishment
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+purposes
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+push
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+pushed
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+pushing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+quadrupled
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+quality
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+question
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+questions
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=14
+	(2)
+quite
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+r.t
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+race
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+races
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+raise
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+rally
+	ignored (8)
+ran
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+range
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+rather
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+ratio
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+reach
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=6
+	(0)
+reaches
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+reality
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=6
+	(0)
+realm
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+received
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	=12
+	(1)
+recent
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+recidivism
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+recipient
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+reckoned
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+recognition
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+recognize
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+recommendation.trail
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+record
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=20
+	(3)
+recounted
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+recruited
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+recruitment
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+reduced
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+reduces
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+reforms
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+refurbished
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+regardless
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+regional
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+registration
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=18
+	(2)
+reins
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+rejuvenate
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+relational
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+relations
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
+releasejanuary
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	=28
+	(4)
+releases
+	ignored (8)
+remember
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+remove
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+renewable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+rent
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+renters
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+reparations
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+replaced
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+representing
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=16
+	(2)
+represents
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+republican
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+repurpose
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+repurposed
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+request
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+required
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+requirements
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+requires
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+requiring
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+residential
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=12
+	(1)
+residents
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+resilient
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+resources
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+respect
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+respond
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+response
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+rest
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+restaurant
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+restaurants
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+resting
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+restorative
+	6 jacobfrey.org/issues/index.html
+	6 jacobfrey.org/issues/index.html
+	6 jacobfrey.org/issues/index.html
+	6 jacobfrey.org/issues/index.html
+	6 jacobfrey.org/issues/index.html
+	=30
+	(4)
+restriction
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+resulted
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+results
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=8
+	(1)
+retain
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+retaliatory
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+retention
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+return
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+rewarding
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+rid
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+ride
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+right
+	ignored (9)
+rise
+	ignored (7)
+river
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+roads
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+rob
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+row
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+rule
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+run
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=20
+	(3)
+running
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+rybak
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+saddled
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+safe
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=18
+	(2)
+safety
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
+said
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+sales
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+same
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+sarah
+	4 jacobfrey.org/bio.html
+	4 jacobfrey.org/bio.html
+	4 jacobfrey.org/bio.html
+	4 jacobfrey.org/bio/index.html
+	4 jacobfrey.org/bio/index.html
+	4 jacobfrey.org/bio/index.html
+	=24
+	(3)
+satellite
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+saw
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+say
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+scholarship
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+school
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=24
+	(3)
+schools
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+script
+	ignored (388)
+sector
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+secure
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+security
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+see
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+seeing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+seen
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+series
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+serve
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+service
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=16
+	(2)
+services
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+servicesthe
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+session
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+sessions
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+set
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+setting
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+settle
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+several
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+share
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=18
+	(2)
+shared
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+sharing
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+shelter
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+shoe
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+shootings
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+should
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+shoulder
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+showed
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+shutdown
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+shy
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+sick
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=12
+	(1)
+side
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+sidewalks
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+sign
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=6
+	(0)
+significantly
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+signing
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=6
+	(0)
+simply
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=26
+	(3)
+simultaneously
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+skew
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+slower
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+small
+	ignored (10)
+snow
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+social
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+socially-inclusive
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+solar
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+solutions
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+solve
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+somali
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+some
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+someone
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+soon
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=6
+	(0)
+source
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+southeast
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+space
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=22
+	(3)
+spaces
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+sports
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+spring
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+spur
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+square
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+staff
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+start
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+starts
+	ignored (6)
+state
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	=6
+	(0)
+statements
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+states
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+step
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+still
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+stood
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+storms
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+story
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=6
+	(0)
+strained
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+strategy
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+stream
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+street
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+streets
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+strength
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	=6
+	(0)
+stress
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+strong
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=22
+	(3)
+strongly
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+style
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+substantial
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+success
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=30
+	(4)
+successfully
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+suite
+	ignored (6)
+support
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=14
+	(2)
+supported
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+supporters
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index7441.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	3 jacobfrey.org/media-releases/index8f3e.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	=28
+	(4)
+supporting
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+sure
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=16
+	(2)
+surface
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	=16
+	(2)
+surprised
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+sustainability
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+sustainable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+sweeping
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+tackle
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+tackling
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+take
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=8
+	(1)
+taken
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+takes
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+talk
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+talked
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+talking
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+tasked
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+tax
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+team
+	ignored (13)
+tenants
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+terms
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+than
+	ignored (11)
+thank
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=6
+	(0)
+that
+	ignored (127)
+that.streamlining
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+the
+	ignored (1188)
+their
+	ignored (19)
+them
+	ignored (5)
+them.a
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+themselves
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+then
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+there
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=12
+	(1)
+these
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+they
+	ignored (20)
+thing
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+things
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	4 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=30
+	(4)
+third
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+this
+	ignored (41)
+those
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	=14
+	(2)
+thrive
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+thriving
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=18
+	(2)
+through
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=16
+	(2)
+throughout
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+thursday
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/events/index.html
+	2 jacobfrey.org/events/index7441.html
+	2 jacobfrey.org/events/index8f3e.html
+	=8
+	(1)
+time
+	ignored (6)
+timely
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+together
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+together.i
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+tonight
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+too
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=18
+	(2)
+took
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+tools
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=8
+	(1)
+top
+	ignored (6)
+towards
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+town
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+toxic
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+track
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+trail
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+transformed
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+transforms
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+translators
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+transparency
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+trump
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+trust
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/issues/index.html
+	=14
+	(2)
+tuesday
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+turmoil
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+twin
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+tying
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+uber
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+under
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+understanding
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+undue
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+unduly
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+united
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	=2
+	(0)
+units
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+university
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+unless
+	2 jacobfrey.org/index.html
+	=2
+	(0)
+until
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=6
+	(0)
+uplift
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+upstarts
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+upticks
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+urban
+	ignored (9)
+usa
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+use
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+used
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+using
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+vacant
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=16
+	(2)
+valuable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+variety
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+vast
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+vegetables
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+very
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+vibrancy
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+victim
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+victories
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+victory
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+villanova
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+violence
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+violence.small
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+violent
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+virginia
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+visible
+	ignored (5)
+vision
+	ignored (20)
+visionary
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+vocs
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+voluntarily
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+volunteer
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	=4
+	(0)
+vote
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+voted
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+voter
+	ignored (6)
+voters
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+voting
+	ignored (10)
+wage
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	=24
+	(3)
+walkable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+want
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=8
+	(1)
+ward
+	ignored (7)
+was
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=18
+	(2)
+way
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/index.html
+	=8
+	(1)
+wayside.constituent
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+wealthier
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+weather
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+webster
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+welcoming
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+well
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+were
+	ignored (6)
+when
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=24
+	(3)
+where
+	ignored (18)
+which
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio.html
+	3 jacobfrey.org/bio/index.html
+	3 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=16
+	(2)
+while
+	ignored (5)
+white
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+who
+	ignored (9)
+whole
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+why
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+wide
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+will
+	ignored (46)
+william
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+with
+	ignored (181)
+with.this
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+within
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+without
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+won
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
+work
+	ignored (7)
+worked
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	3 jacobfrey.org/we-get-things-done/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=26
+	(3)
+workers
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+workplace
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=4
+	(0)
+works
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
+	=10
+	(1)
+world
+	ignored (5)
+would
+	2 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=12
+	(1)
+x-games
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+	=4
+	(0)
+year
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=10
+	(1)
+years
+	ignored (6)
+you
+	ignored (33)
+younger
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+your
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/issues/index.html
+	=4
+	(0)
+youth
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+zbikowski
+	ignored (43)
+zip
+	2 jacobfrey.org/caucus/index.html
+	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
+	2 jacobfrey.org/index.html
+	2 jacobfrey.org/join.html
+	2 jacobfrey.org/join/index.html
+	2 jacobfrey.org/media-releases.html
+	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	2 jacobfrey.org/media-releases/index.html
+	2 jacobfrey.org/media-releases/index7441.html
+	2 jacobfrey.org/media-releases/index8f3e.html
+	=20
+	(3)
+zoning
+	2 jacobfrey.org/we-get-things-done.html
+	2 jacobfrey.org/we-get-things-done/index.html
+leases.html
+	7 jacobfrey.org/media-releases.html
+	7 jacobfrey.org/media-releases.html
+	7 jacobfrey.org/media-releases.html
+	7 jacobfrey.org/media-releases.html
+	7 jacobfrey.org/media-releases.html
+	7 jacobfrey.org/media-releases/index.html
+	7 jacobfrey.org/media-releases/index.html
+	7 jacobfrey.org/media-releases/index.html
+	7 jacobfrey.org/media-releases/index.html
+	7 jacobfrey.org/media-releases/index.html
+	7 jacobfrey.org/media-releases/index.html
+	7 jacobfrey.org/media-releases/index7441.html
+	7 jacobfrey.org/media-releases/index7441.html
+	7 jacobfrey.org/media-releases/index7441.html
+	7 jacobfrey.org/media-releases/index7441.html
+	7 jacobfrey.org/media-releases/index7441.html
+	7 jacobfrey.org/media-releases/index7441.html
+	5 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	5 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	5 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	5 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	5 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	5 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	5 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	5 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
+	3 jacobfrey.org/events/index8f3e.html
+	3 jacobfrey.org/events/index8f3e.html
+	=286
+ey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	4 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	4 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
+	3 jacobfrey.org/caucus/index.html
+	3 jacobfrey.org/caucus/index.html
+	3 jacobfrey.org/events/index.html
+	3 jacobfrey.org/events/index.html
+	3 jacobfrey.org/events/index7441.html
+	3 jacobfrey.org/events/index7441.html
+	3 jacobfrey.org/events/index8f3e.html
+	3 jacobfrey.org/events/index8f3e.html
+	3 jacobfrey.org/join.html
+	3 jacobfrey.org/join.html
+	3 jacobfrey.org/join/index.html
+	3 jacobfrey.org/join/index.html
+	2 jacobfrey.org/chip-in.html
+	2 jacobfrey.org/chip-in/index.html
+	=1180

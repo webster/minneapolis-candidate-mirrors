@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.camgordon.org	TRUE	/	FALSE	1999999999	SESS611121d148ec66f4df0a8c3052c3e8a0	e8bf612a1a8626b435803002271a801f
+

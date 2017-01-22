@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zacharywefel.ngpvanhost.com	TRUE	/	FALSE	1999999999	__bm-hap_koW4UCiZGdn7pN	S1
+.ngpvanhost.com	TRUE	/	FALSE	1999999999	visid_incap_202125	SpUn3zmbQbORhgQ1uHtgTnbYhFgAAAAAQUIPAAAAAACT506bXQtOCtQuVVhus5YV
+.ngpvanhost.com	TRUE	/	FALSE	1999999999	incap_ses_197_202125	f/9BOInHYU5dKXuk+eO7AnfYhFgAAAAAgd3e5ogPM9nGUEdU45yHwA==
+

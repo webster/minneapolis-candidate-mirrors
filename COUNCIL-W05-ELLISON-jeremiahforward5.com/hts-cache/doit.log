@@ -1,0 +1,8 @@
+http://jeremiahforward5.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W05-ELLISON-jeremiahforward5.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q
+File generated automatically on Sun, 22 Jan 2017 16:11:53, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

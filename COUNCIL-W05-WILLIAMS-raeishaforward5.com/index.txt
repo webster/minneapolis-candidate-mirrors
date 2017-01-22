@@ -1,0 +1,301 @@
+a3612
+	ignored (13)
+accountability
+	ignored (6)
+acommunity
+	ignored (6)
+advocate
+	ignored (6)
+aeducation
+	ignored (6)
+affordable
+	ignored (20)
+ain
+	ignored (6)
+all
+	ignored (20)
+america
+	ignored (13)
+analytics
+	ignored (13)
+and
+	ignored (314)
+arts
+	ignored (6)
+asite
+	ignored (13)
+awe
+	ignored (6)
+based
+	ignored (6)
+behalf
+	ignored (6)
+best
+	ignored (6)
+box
+	ignored (13)
+build
+	ignored (6)
+businesses
+	ignored (6)
+campaign
+	ignored (6)
+change
+	ignored (6)
+city
+	ignored (6)
+co-ops
+	ignored (6)
+coffees
+	ignored (6)
+commit
+	ignored (6)
+commitment
+	ignored (6)
+committed
+	ignored (6)
+communities
+	ignored (20)
+community
+	ignored (545)
+continue
+	ignored (20)
+corporate
+	ignored (6)
+council
+	ignored (6)
+create
+	ignored (20)
+creating
+	ignored (6)
+data
+	ignored (13)
+dear
+	ignored (6)
+develop
+	ignored (6)
+development
+	ignored (20)
+donate
+	ignored (27)
+e9ward
+	ignored (6)
+economic
+	ignored (20)
+education
+	ignored (6)
+encouragement
+	ignored (6)
+encourages
+	ignored (6)
+endorse
+	ignored (6)
+engagement
+	ignored (6)
+equity
+	ignored (6)
+establish
+	ignored (6)
+ever
+	ignored (6)
+excellence
+	ignored (6)
+excited
+	ignored (6)
+facebook
+	ignored (13)
+for
+	ignored (272)
+friends
+	ignored (13)
+funding
+	ignored (6)
+genterfication
+	ignored (6)
+get
+	ignored (6)
+getting
+	ignored (6)
+google
+	ignored (13)
+has
+	ignored (6)
+highest
+	ignored (6)
+hold
+	ignored (6)
+home
+	ignored (13)
+homeownership
+	ignored (69)
+horizon
+	ignored (6)
+hosting
+	ignored (6)
+hour
+	ignored (6)
+hours
+	ignored (6)
+housing
+	ignored (41)
+http
+	ignored (6)
+increase
+	ignored (6)
+involved
+	ignored (6)
+know
+	ignored (6)
+lead
+	ignored (6)
+life
+	ignored (6)
+linkedin
+	ignored (13)
+means
+	ignored (13)
+minimum
+	ignored (6)
+minneapolis
+	ignored (48)
+minnesota
+	ignored (13)
+monthly
+	ignored (6)
+music
+	ignored (6)
+need
+	ignored (6)
+neighbors
+	ignored (6)
+north
+	ignored (6)
+northside
+	ignored (6)
+not
+	ignored (6)
+occurring
+	ignored (6)
+office
+	ignored (6)
+once
+	ignored (6)
+open
+	ignored (6)
+opportunities
+	ignored (6)
+organizations.i
+	ignored (6)
+our
+	ignored (146)
+p.o
+	ignored (13)
+partnerships
+	ignored (6)
+pledge
+	ignored (6)
+pride
+	ignored (6)
+program
+	ignored (6)
+proud
+	ignored (6)
+public
+	ignored (6)
+quality
+	ignored (6)
+raeisha
+	ignored (48)
+raeshawilliams.com
+	ignored (13)
+raise
+	ignored (6)
+residents
+	ignored (20)
+responsibility
+	ignored (6)
+revitalization
+	ignored (6)
+run
+	ignored (6)
+safe
+	ignored (20)
+safety
+	ignored (20)
+schools
+	ignored (6)
+script
+	ignored (923)
+see
+	ignored (6)
+seen.in
+	ignored (6)
+share
+	ignored (13)
+solidarity
+	ignored (6)
+states
+	ignored (13)
+support
+	ignored (6)
+take
+	ignored (6)
+tel
+	ignored (13)
+that
+	ignored (76)
+the
+	ignored (195)
+thriving
+	ignored (20)
+through
+	ignored (41)
+time
+	ignored (6)
+together
+	ignored (6)
+transformation
+	ignored (6)
+twitter
+	ignored (13)
+united
+	ignored (13)
+uses
+	ignored (13)
+very
+	ignored (6)
+voice
+	ignored (6)
+volunteer
+	ignored (6)
+wage
+	ignored (6)
+ward
+	ignored (468)
+week
+	ignored (6)
+what
+	ignored (13)
+will
+	ignored (251)
+williams
+	ignored (48)
+win
+	ignored (6)
+with
+	ignored (27)
+work
+	ignored (41)
+you
+	ignored (6)
+your
+	4 raeishaforward5.com/index.html
+	4 raeishaforward5.com/index.html
+	4 raeishaforward5.com/index.html
+	2 raeishaforward5.com/volunteer.html
+ex.html
+	=72
+ndex.html
+	12 raeishaforward5.com/index.html
+	2 raeishaforward5.com/volunteer.html
+	=134

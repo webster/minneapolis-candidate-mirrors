@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.ericamauter.org	TRUE	/	FALSE	1999999999	wfvt_201191552	5884dc5663af9
+www.ericamauter.org	TRUE	/	FALSE	1999999999	wfvt_2830069836	5884dc579b847
+

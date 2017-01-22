@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kevinreich.com	TRUE	/pages/	FALSE	1999999999	_wp_session	11d693a989b539f30740b0baf14e7122%7C%7C1485102904%7C%7C1485102544
+www.kevinreich.com	TRUE	/pages/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

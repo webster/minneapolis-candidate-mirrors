@@ -1,0 +1,2969 @@
+about
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+absence
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+access
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+accessible
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+accomplishments
+	ignored (7)
+accountability
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+across
+	ignored (11)
+action
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+active
+	ignored (17)
+ada
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+additional
+	ignored (11)
+address
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+addressing
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+adequate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+advance
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+advantage
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+advocated
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+advocating
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+affordable
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+after
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+aftermath
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+against
+	ignored (65)
+age
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+agenda
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+agriculture
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+aircraft
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+airlines
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+airplane
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+airport
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+all
+	ignored (7)
+allow
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+allowed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+allowing
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+along
+	ignored (7)
+amazing
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+amendment
+	ignored (33)
+amenities
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+american
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+amounts
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+and
+	ignored (3579)
+andrew
+	ignored (11)
+animal
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+animals
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+annually
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+answers
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+antiquated
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+any
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+appointed
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+appointment
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+apprenticeship
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+are
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+area
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+areas
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+around
+	ignored (11)
+association
+	ignored (7)
+associations
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+attended
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+attention
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+authored
+	ignored (78)
+authoring
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+authority
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+available
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+ave
+	ignored (17)
+avenue
+	ignored (11)
+awareness
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+background
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+background-color
+	ignored (11)
+ban
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+barriers
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+been
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+before
+	ignored (7)
+being
+	ignored (7)
+better
+	ignored (25)
+bias
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+bicycle
+	ignored (17)
+bill
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+billboard
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+block
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+blog
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+board
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+body
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+border-color
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+break
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+break-up
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+breaking
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+bridge
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+bring
+	ignored (7)
+brought
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+budget
+	ignored (108)
+budgets
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+burner
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+business
+	ignored (42)
+businesses
+	ignored (42)
+bylaws
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+calendar
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+call
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+called
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+calling
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cameras
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+campaign
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+campaigned
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cap
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+capitol
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+carcinogenic
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+care
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+case
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cell
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+center
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ceremonies
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+change
+	ignored (25)
+changes
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+checklists
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+chief
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+christmas
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cities
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+city
+	ignored (143)
+city-wide
+	ignored (7)
+clark
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+clean
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cleaning
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+close
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+closely
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cms
+	ignored (42)
+co-author
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+co-authored
+	ignored (33)
+co-authoring
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+co-authorship
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+co-founding
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+co-hosted
+	ignored (7)
+coldwater
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+collaboration
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+color
+	ignored (42)
+commercial
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+committee
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+communities
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+community
+	ignored (7)
+completed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+completing
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+compliance
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+comprehensive
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+compromise
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+concerns
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+congress
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+connecting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+consistantly
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+constituent
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+construction
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+contact
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+containers
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+continue
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+contract
+	ignored (11)
+contractors
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+control
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+convention
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+corridor
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+could
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+council
+	ignored (25)
+countless
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+county
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+create
+	ignored (25)
+creek
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+crime
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cross-jurisdiction
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+currently
+	ignored (17)
+customer
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+cutting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+d.c
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+dakota
+	ignored (7)
+data
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+day
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+deal
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+death
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+decades-long
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+deconstruction
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+decriminalize
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+dedicated
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+defended
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+deficit
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+delays
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+delegate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+demolition
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+department
+	ignored (7)
+despite
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+develop
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+development
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+dfl
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+directive
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+directives
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+director
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+disparities
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+disproportionate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+disrepair
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+diversion
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+doj
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+dollars
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+donate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+doors
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+downtown
+	ignored (7)
+dry
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+due
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+during
+	ignored (7)
+e8f3f8
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+early
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+earn
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+easily
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+east
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+education
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+effort
+	ignored (125)
+efforts
+	ignored (11)
+elect
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+election
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+eligible
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+eliminate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+eliminating
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+emergency
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+employees
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+employment
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+enabling
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+encourage
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+encouraging
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+endorsed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+energy
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+enforce
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+enforcement
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+ensure
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+entering
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+environment
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+environmental
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+environmentally-harmful
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+equity
+	ignored (25)
+establishing
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+even
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+events
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+every
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+everything
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+examine
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+excellent
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+exile
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+expand
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+expansion
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+experiences
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+expired
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+explore
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+extended
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+exterior
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+facility
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fallen
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fast-track
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+federal
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fee
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fees
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+ferguson
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fff
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+fiber
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+finally
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+finance
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+financial
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fire
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+firefighters
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+first
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+fleet
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fly
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+focus
+	ignored (7)
+follow-up
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+for
+	ignored (1401)
+force
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ford
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+forgiveness
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+forming
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+forum
+	ignored (11)
+forward
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+fossil
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fought
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+four
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+friendlier
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+from
+	ignored (25)
+fuel
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+fund
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+funding
+	ignored (65)
+funds
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+further
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+gardens
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+gender-neutral
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+get
+	ignored (11)
+getting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+government
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+great
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+greater
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+green
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+grids
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+grille
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+had
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+happen
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+happy
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+harmful
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+has
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+have
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+health
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+healthy
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+help
+	ignored (7)
+helped
+	ignored (25)
+helping
+	ignored (17)
+hennepin
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+herc
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+here
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+hesitate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+hiawatha
+	ignored (25)
+high
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+highland
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+highlights
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+highway
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+hiring
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+historic
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+holiday
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+homegrown
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+homes
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+honor
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+hope
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+hosted
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+hosting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+hours
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+housing
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+hover
+	ignored (11)
+http
+	2 index.html
+	=2
+	(1)
+hundred
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+idea
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+identified
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+identify
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ilhan
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+impact
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+implemented
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+implicit
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+improve
+	ignored (17)
+improvements
+	ignored (17)
+improving
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+in-house
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+incentives
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+included
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+including
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+increase
+	ignored (17)
+increased
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+incubators
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+indefinitely
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+independent
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+indigenous
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+individuals
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+infrastructure
+	ignored (11)
+infringe
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+initiatives
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+installed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+internet
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+into
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+introduced
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+investigation
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+investigations
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+investigative
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+isps
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+issues
+	ignored (7)
+jamar
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+jobs
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+johnson
+	ignored (7)
+joint
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+justice
+	ignored (17)
+kick-off
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+kids
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+knocked
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+korbel
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+labor
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+laid
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+lake
+	ignored (7)
+lanes
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+largest
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+later
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+launch
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+launching
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+law
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+laws
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+leading
+	ignored (17)
+leave
+	ignored (11)
+led
+	ignored (125)
+legal
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+legalize
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+legislative
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+legislator
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+legislators
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+leveraging
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+lgbt
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+license
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+lifting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+light
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+lighting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+litter
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+lobbied
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+logistics
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+logo
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+long-deteriorating
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+long-time
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+loophole
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+lower
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+lurking
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+mailer
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+maintain
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+make
+	ignored (11)
+making
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+management
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+marijuana
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+market
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+master
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+may
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+mayor
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+medical
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+meeting
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+meetings
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+member
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+members
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+mental
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+mentor
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+metropolitan
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+microloans
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+million
+	ignored (7)
+millions
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+minneapolis
+	ignored (65)
+minnehaha
+	ignored (11)
+miscellaneous
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+mitigation
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+model
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+money
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+more
+	ignored (65)
+mpd
+	ignored (7)
+mpls
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+mps
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+msp
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+multiple
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+municipalities
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+name
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+nation
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+nav
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+navbar-default
+	ignored (33)
+navbar-nav
+	ignored (25)
+navigate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+navigation
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ncr
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+near
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+nearly
+	ignored (7)
+neighborhood
+	ignored (11)
+neighborhoods
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+neighbors
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+new
+	ignored (17)
+newsletter
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+nfl
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+noise
+	ignored (7)
+nokomis
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+non-union
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+none
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+north
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+northrop
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+northside
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+not
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+november
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+now
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+number
+	ignored (25)
+office
+	ignored (17)
+officer
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+officers
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+omar
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+one
+	ignored (53)
+one-page
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+online
+	ignored (7)
+only
+	ignored (25)
+open
+	ignored (7)
+opening
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+opportunities
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+opposed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+optic
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ordinance
+	ignored (33)
+ordinances
+	ignored (11)
+organics
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+organizations
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+organized
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+other
+	ignored (11)
+others
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+our
+	ignored (17)
+out
+	ignored (17)
+outcome
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+outdated
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+over
+	ignored (25)
+page
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+paid
+	ignored (17)
+palmisano
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+parental
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+park
+	ignored (7)
+parking
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+parkway
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+part
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pass
+	ignored (11)
+passed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+past
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pave
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+paved
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pedestrian
+	ignored (7)
+penn
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+people
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+peoples
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+perc
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+perc-free
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+performance
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+performing
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+permanently
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+permits
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pesticides
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+phillips
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pilot
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pipeline
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+plan
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+plans
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+plant
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+please
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+police
+	ignored (33)
+policies
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+policy
+	ignored (11)
+pollinators
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pollution
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+portal
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+posession
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+positions
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+positive
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+post
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+posted
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+precinct
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+precincts
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+prepared
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+preservation
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+preservationists
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+proactive
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+procedural
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+process
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+processes
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+program
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+prohibiting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+project
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+promote
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+proposal
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+proposed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+protests
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+provide
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+provided
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+providing
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+public
+	ignored (17)
+publicly
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+pushed
+	ignored (11)
+quality
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+questions
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+quick
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+quieter
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+racial
+	ignored (33)
+railroad
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ray
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+re-election
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+reappointment
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+recommendations
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+reconstruction
+	ignored (17)
+record
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+recycling
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+red
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+redevelopment
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+redevevelopment
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+reduce
+	ignored (11)
+reduced
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+reform
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+related
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+relationships
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+removal
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+renovate
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+repair
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+repeal
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+repealing
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+reports
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+representative
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+requested
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+require
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+requirements
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+residents
+	ignored (11)
+resolution
+	ignored (25)
+resolved
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+resources
+	ignored (11)
+responsive
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+restorative
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+restore
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+restrict
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+restrictions
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+restrooms
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+resulted
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+resulting
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+return
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+returning
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+revenue
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+rewrite
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+riverview
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+road
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+roll
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+rolling
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+rollout
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+rollover
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+roosevelt
+	ignored (11)
+route
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+running
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+sac
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+sacred
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+safety
+	ignored (17)
+same
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+saturday
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+saved
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+saving
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+savings
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+school
+	ignored (11)
+schools
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+script
+	ignored (78)
+scrutinized
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+secure
+	ignored (7)
+secured
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+securing
+	ignored (7)
+see
+	ignored (65)
+sena
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+senator
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+seniors
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+service
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+services
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+serving
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+sets
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+several
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+share
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+shared
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+sheriff
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+sick
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+sidewalk
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+sidewalks
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+silver
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+since
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+single-stall
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+site
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+six
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+skirt
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+small
+	ignored (17)
+snelling
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+snow
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+socially
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+solve
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+somali
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+spaces
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+specific
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+speed
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+spending
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+spitting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+split
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+spoke
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+springs
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+staff
+	ignored (17)
+standish-ericsson
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+start
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+started
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+starting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+state
+	ignored (11)
+statements
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+station
+	ignored (7)
+stay
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+stewardship
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+stormwater
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+street
+	ignored (33)
+streetlight
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+streets
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+strong
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+students
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+study
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+subcommittee
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+subsidize
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+successfully
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+such
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+support
+	ignored (7)
+supported
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+system
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+systems
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+take
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+tape
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+target
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+task
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+taxpayers
+	ignored (7)
+team
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+teams
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+temporary
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ten-fold
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+testifying
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+text
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+text-decoration
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+than
+	ignored (25)
+thank
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+that
+	ignored (17)
+the
+	ignored (1902)
+their
+	ignored (11)
+them
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+these
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+they
+	ignored (7)
+this
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+thousand
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+thousands
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+three
+	ignored (17)
+three-dozen
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+tif
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+time
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+times
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+timings
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+together
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+toggle
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+torres
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+tracks
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+trail
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+training
+	ignored (11)
+transgender
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+transit
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+transit-oriented
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+transparency
+	ignored (7)
+transparent
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+trash
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+trees
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+triple
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+two
+	ignored (7)
+ultimately
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+unanimously
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+unconstitutional
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+under
+	ignored (78)
+unisys
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+units
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+unprecendented
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+upcoming
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+urban
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+use
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+utility
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+vehicles
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+via
+	ignored (7)
+videos
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+volunteers
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+vote
+	ignored (53)
+voter
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+voting
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+wagenius
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+wait
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+waived
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+ward
+	ignored (92)
+was
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+washington
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+waste
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+watch
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+water
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+way
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+website
+	ignored (11)
+welcome
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+which
+	ignored (11)
+who
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+wider
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+will
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+winter
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+with
+	ignored (250)
+without
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+work
+	ignored (11)
+worked
+	ignored (53)
+workers
+	ignored (7)
+workgroup
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+working
+	ignored (53)
+works
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+xcel
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+yang
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+yard
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+yards
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+year
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+years
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+you
+	ignored (7)
+your
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html
+	=6
+	(3)
+youth
+	ignored (7)
+youtube
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+zero
+	2 www.andrewmpls.com/index.html
+	=2
+	(1)
+zones
+	3 www.andrewmpls.com/index.html
+	3 www.andrewmpls.com/index.html

@@ -1,0 +1,3966 @@
+about
+	ignored (27)
+access
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+accessory
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+accomplished
+	2 www.votelisabender.com/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+accomplishments
+	ignored (25)
+across
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	=24
+	(4)
+act
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+action
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+active
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+add
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+added
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	=24
+	(4)
+addiction
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+additional
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+address
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+adopted
+	ignored (5)
+adoption
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+advance
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+advances
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+advancing
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+adversity
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+advocate
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+advocating
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+affect
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+affordable
+	ignored (29)
+afraid
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=4
+	(0)
+against
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+aggressive
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+ago
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+agressive
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+air
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+all
+	ignored (32)
+allow
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+alone
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+along
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+also
+	ignored (12)
+alternatives
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+am11
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=10
+	(2)
+amp
+	2 www.votelisabender.com/media.html
+	2 www.votelisabender.com/media/index.html
+	=4
+	(0)
+and
+	ignored (1451)
+annual
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+april
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+are
+	ignored (18)
+around
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+attack
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+attend
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+author
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+authored
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+auto
+	ignored (6)
+ave
+	2 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	2 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/index2779.html
+	=6
+	(1)
+avenue
+	ignored (5)
+awareness
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+bachelor
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+back
+	ignored (25)
+backed
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+background-color
+	ignored (20)
+ban
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+bank
+	3 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	3 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index2779.html
+	3 www.votelisabender.com/events/index2779.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	=20
+	(4)
+banking
+	ignored (7)
+beating
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+because
+	3 www.votelisabender.com/index.html
+	3 www.votelisabender.com/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=10
+	(2)
+been
+	ignored (17)
+begin
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+believes
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+bender
+	ignored (41)
+benderpo
+	ignored (7)
+berkeley
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+better
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	=24
+	(4)
+between
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+bicycle
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	=6
+	(1)
+bicycling
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+big
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=6
+	(1)
+bike
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+bikes
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+bikeway
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+bikeways
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+biking
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+bins
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+bio
+	ignored (24)
+biology
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+block
+	ignored (8)
+blocks
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+body-worn
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+bold
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+bottleneck
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+box
+	ignored (7)
+breast
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+bring
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+budget
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+budgetary
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+budgets
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+build
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+building
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+buildings
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+built
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+burning
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+bus
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+businesses
+	ignored (9)
+but
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+calhoun
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+came
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+cameras
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+campaign
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	2 www.votelisabender.com/index.html
+	=6
+	(1)
+campaigning
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+can
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+cancer
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+canvass
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	=4
+	(0)
+car
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+care
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+cars
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+caucus
+	ignored (25)
+caucuses
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+causes
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+cemetery
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+centerpoint
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+chair
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+champion
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=18
+	(3)
+championed
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+chance
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+change
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+changing
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+child
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+children
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+choices
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+cities
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+city
+	ignored (141)
+city-owned
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+citywide
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+civil
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+classes
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+clean
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=16
+	(3)
+click
+	2 www.votelisabender.com/bio/index.html
+	2 www.votelisabender.com/get-involved-1/index.html
+	=4
+	(0)
+co-author
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+co-founding
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+coalition
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+coauthored
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+collaborative
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+colleagues
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=4
+	(0)
+color
+	ignored (14)
+comfortable
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+coming
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+commit
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+commitee
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+commiting
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+commitment
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+committee
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+commmittee
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+common
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+communities
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+community
+	ignored (15)
+complete
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+completed
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+composting
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+congress
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+consideration
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+consistent
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+constituents
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+constrained
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+construction
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+contact
+	ignored (16)
+contactmedia
+	ignored (7)
+continue
+	ignored (28)
+continues
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+continuing
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+convenience
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+coordinator
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+copy
+	ignored (7)
+corner
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+corners
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+corridors
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+could
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+council
+	ignored (18)
+councilor
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+country
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+craft
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+create
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+creating
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+crimes
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+criminalized
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+curbside
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+current
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+cuts
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+cycle
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+daughters
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+day
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+day-to-day
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+days
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=6
+	(1)
+deal
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+decade
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+decades
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+decisions
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+declared
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+decriminalization
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+dedicated
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+degree
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	=6
+	(1)
+deliver
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+delivering
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+department
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+design
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+designation
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+designed
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+determine
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+develop
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+development
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+dfl
+	3 www.votelisabender.com/index.html
+	3 www.votelisabender.com/index.html
+	2 www.votelisabender.com/about/index.html
+	=8
+	(1)
+did
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+directed
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	4 www.votelisabender.com/accomplishments/index.html
+	=24
+	(4)
+direction
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+displaced
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+displacement
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+display
+	ignored (6)
+disproportionately
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+district
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+diversifying
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+does
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+doesn
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+domestic
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+donate
+	ignored (24)
+donatecaucuscontactmediafacebooktwitter
+	ignored (7)
+door
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=6
+	(1)
+doors
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+driving
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+dupont
+	ignored (6)
+during
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+dwelling
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+e-cigarettes
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+earn
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+earned
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+earning
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+easier
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=16
+	(3)
+east
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+economic
+	ignored (7)
+effective
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=8
+	(1)
+effectiveness
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+either
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+elected
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+elections
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+email
+	4 www.votelisabender.com/contact.html
+	4 www.votelisabender.com/contact.html
+	4 www.votelisabender.com/contact.html
+	4 www.votelisabender.com/contact/index.html
+	4 www.votelisabender.com/contact/index.html
+	4 www.votelisabender.com/contact/index.html
+	=24
+	(4)
+emissions
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+encourage
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+endorsement
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=4
+	(0)
+ends
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+energy
+	ignored (7)
+engagement
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+engineering
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+enough
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+ensure
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+ensures
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+entering
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+environment
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+environmental
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+equitable
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+equity
+	ignored (9)
+established
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+even
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+evening
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+event
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+events
+	ignored (37)
+ever
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/index.html
+	=14
+	(2)
+every
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+everyone
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+everything
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+existing
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+expand
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+expanded
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+expanding
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+expansion
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+experience
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+extend
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+face
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+fair
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+fairness
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+families
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+family
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+far
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+farm
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+faster
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+federal
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+ffffff
+	ignored (6)
+fight
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+fighting
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+finalized
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+find
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+finding
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+first
+	ignored (18)
+first-in-the-nation
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+fixed
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+flats
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+flavored
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+focused
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+foods
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+foot
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+for
+	ignored (624)
+forced
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+form
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+forty
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+fought
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+four
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+francisco
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+from
+	5 www.votelisabender.com/about/index.html
+	5 www.votelisabender.com/about/index.html
+	5 www.votelisabender.com/about/index.html
+	5 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=22
+	(4)
+full
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+fund
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+funding
+	ignored (12)
+gaps
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+garbage
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+gas
+	ignored (7)
+gave
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+get
+	ignored (43)
+getting
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+give
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+gives
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+goal
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+goals
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+good
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+governing
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+government
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+granny
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+great
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+greenhouse
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+greening
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+ground
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+growing
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+grows
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+growth
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+guiding
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+hall
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=18
+	(3)
+has
+	ignored (35)
+hate
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+have
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/index.html
+	=14
+	(2)
+header--bottom
+	ignored (6)
+header-nav
+	ignored (6)
+header-nav-folder
+	ignored (6)
+header-nav-item
+	ignored (6)
+health
+	ignored (24)
+healthy
+	ignored (5)
+held
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+help
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	2 www.votelisabender.com/events/index2779.html
+	2 www.votelisabender.com/index.html
+	=16
+	(3)
+helped
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+hennepin-lyndale
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+her
+	4 www.votelisabender.com/about/index.html
+	4 www.votelisabender.com/about/index.html
+	4 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/index.html
+	3 www.votelisabender.com/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=22
+	(4)
+herc
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+here
+	2 www.votelisabender.com/bio/index.html
+	2 www.votelisabender.com/get-involved-1/index.html
+	2 www.votelisabender.com/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=10
+	(2)
+high
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+higher
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+hill
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+historic
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+holistic
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+homeless
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+homeownership
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+homes
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+honeybees
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+host
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+housing
+	ignored (39)
+how
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+https
+	2 index.html
+	=2
+	(0)
+husband
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+ice
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+ideas
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+immigrant
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+important
+	ignored (109)
+improve
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+improving
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+including
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=16
+	(3)
+inclusionary
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+income
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+increase
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+incumbent
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+indigenous
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+indoor
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+inform
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+infrastructure
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+inquiries
+	2 www.votelisabender.com/media.html
+	2 www.votelisabender.com/media/index.html
+	=4
+	(0)
+install
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+institutions
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+into
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+investments
+	ignored (8)
+involved
+	ignored (24)
+isn
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+issues
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=16
+	(3)
+jan
+	ignored (5)
+january
+	ignored (13)
+jobs
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+join
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	2 www.votelisabender.com/events/index2779.html
+	2 www.votelisabender.com/index.html
+	=14
+	(2)
+justice
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+keep
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+kids
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+kind
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+knocking
+	ignored (12)
+knows
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+kocking
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=4
+	(0)
+lake
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+lanes
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+last
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+latest
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+law
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+laws
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+lead
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+leader
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=16
+	(3)
+leaders
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+leading
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+legalized
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+let
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+levels
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+life
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+like
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+lisa
+	ignored (409)
+live
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+lived
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+lives
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+locally
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+looking
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+losing
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+low-wage
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+lower-income
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+lowest
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+lowry
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+lurking
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+made
+	ignored (8)
+major
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+majority
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+make
+	ignored (29)
+makes
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+making
+	ignored (10)
+many
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+map
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+market-rate
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+master
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+materials
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+matter
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+matters
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+mdash
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+mean
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+means
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+media
+	ignored (14)
+meet
+	ignored (5)
+member
+	ignored (6)
+members
+	ignored (5)
+mental
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+message
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	2 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	2 www.votelisabender.com/events/index2779.html
+	=16
+	(3)
+metastatic
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+michael
+	2 www.votelisabender.com/media.html
+	2 www.votelisabender.com/media/index.html
+	=4
+	(0)
+miles
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+minimum
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+minneapolis
+	ignored (80)
+minnesota
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	=6
+	(1)
+mixed-income
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+month
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+more
+	ignored (32)
+most
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+moved
+	2 www.votelisabender.com/bio/index.html
+	2 www.votelisabender.com/get-involved-1/index.html
+	=4
+	(0)
+moving
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+moz-osx-font-smoothing
+	ignored (6)
+much
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+multifamily
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+multiple
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+name
+	ignored (8)
+nation-leading
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+nbsp
+	ignored (65)
+ndash
+	ignored (7)
+near
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+need
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+needs
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=10
+	(2)
+neighborhood
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+neighborhoods
+	ignored (13)
+neighbors
+	ignored (57)
+network
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+never
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+new
+	ignored (7)
+news
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+nicollet
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+nicollet-central
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+not
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=16
+	(3)
+now
+	2 www.votelisabender.com/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+october
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+off-street
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+office
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+officer
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+one
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+only
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+open
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+opportunity
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+options
+	ignored (8)
+ordinance
+	ignored (7)
+ordinances
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+other
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+our
+	ignored (237)
+out
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+outdated
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+over
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+own
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+owned
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+package
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+padding-bottom
+	ignored (6)
+page
+	2 www.votelisabender.com/bio/index.html
+	2 www.votelisabender.com/get-involved-1/index.html
+	=4
+	(0)
+paid
+	ignored (9)
+parent
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+parking
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+parklet
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+parklets
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+parks
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+part-time
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+particularly
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+parties
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+partnership
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+passing
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+past
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+pedestrian
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+pedestrian-oriented
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+people
+	ignored (14)
+phasing
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+phone
+	3 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	3 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index2779.html
+	3 www.votelisabender.com/events/index2779.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	=20
+	(4)
+pick
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+pilot
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+plan
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+planet
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+planning
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+please
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	2 www.votelisabender.com/media.html
+	2 www.votelisabender.com/media/index.html
+	=8
+	(1)
+pm18
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/index2779.html
+	=8
+	(1)
+police
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+policies
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=16
+	(3)
+policy
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=16
+	(3)
+poor
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+population
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+positions
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+potential
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+precinct
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+predictability
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+prepared
+	ignored (7)
+preserve
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+press
+	2 www.votelisabender.com/media.html
+	2 www.votelisabender.com/media/index.html
+	=4
+	(0)
+pressure
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+prevent
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+prevention
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+prioritize
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+prioritized
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+prioritizes
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+priority
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+process
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+program
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+programs
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+progress
+	ignored (6)
+progressive
+	ignored (8)
+project
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+projects
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+promises
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+proponent
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+proposed
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+protected
+	ignored (8)
+protecting
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+protections
+	ignored (5)
+proud
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+provide
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+public
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+quickly
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+racial
+	ignored (12)
+raising
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+ran
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+rates
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+re-elected
+	ignored (6)
+re-election
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+read
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+ready
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+real
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+realities
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+reality
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+reduce
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+reducing
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+reduction
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+reflect
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+regional
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+regulations
+	ignored (8)
+related
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+religious
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+relying
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+removal
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+rental
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+renters
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+rents
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+reopening
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+repealing
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+represent
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+require
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+requirements
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+requiring
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+residents
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+resources
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+restorative
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+restore
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+restoring
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+restructuring
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+result
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+retain
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+revised
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+rich
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+right
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+rights
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+rising
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+rosenow
+	2 www.votelisabender.com/media.html
+	2 www.votelisabender.com/media/index.html
+	=4
+	(0)
+routes
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+rsquo
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+rules
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+running
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+ryan
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+safe
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=14
+	(2)
+safely
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+safer
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=10
+	(2)
+safety
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+san
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+saturday
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+say
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+schedules
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+school
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+schools
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+script
+	ignored (363)
+second
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+see
+	2 www.votelisabender.com/index.html
+	2 www.votelisabender.com/search.html
+	=4
+	(0)
+send
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+serve
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+service
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+services
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+share
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+shared
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+sharing
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+she
+	ignored (15)
+shelters
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+shrinking
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+sick
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+side
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+side-by-side
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+sidewalk
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+sign
+	3 www.votelisabender.com/index.html
+	3 www.votelisabender.com/index.html
+	=6
+	(1)
+signals
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+since
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+small
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+snow
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+solve
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+some
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=14
+	(2)
+soon
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+south
+	ignored (5)
+space
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+spanish
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+special
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+specifically
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+spent
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+spitting
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+spread
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	2 www.votelisabender.com/events/index2779.html
+	=12
+	(2)
+stabilize
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+staff
+	ignored (16)
+stance
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+stand
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=4
+	(0)
+stand-out
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+standards
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+standing
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+stands
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+state
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=10
+	(2)
+states
+	4 www.votelisabender.com/events/index.html
+	4 www.votelisabender.com/events/index.html
+	4 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=22
+	(4)
+stations
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+stops
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+store
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+stores
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+strategies
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+street
+	ignored (14)
+streetcar
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+streets
+	ignored (16)
+strengthened
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+strong
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+subject
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+subpixel-antialiased
+	ignored (6)
+support
+	ignored (10)
+supported
+	ignored (22)
+supporter
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+supporting
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=10
+	(2)
+supports
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+sure
+	ignored (17)
+survivor
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+sustainability
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+sustainabily
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+sustainable
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+system
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+take
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=16
+	(3)
+taking
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+tenacity
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+term
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=4
+	(0)
+than
+	ignored (8)
+thank
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+that
+	ignored (101)
+the
+	ignored (776)
+their
+	ignored (5)
+them
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+these
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+this
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+threats
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+three
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=8
+	(1)
+through
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=16
+	(3)
+time
+	ignored (9)
+times
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+tirelessly
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+tobacco
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+today
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+took
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+tough
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	=6
+	(1)
+toward
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+toxins
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+transformational
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+transit
+	ignored (12)
+transportation
+	ignored (5)
+trend
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+trust
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+tuesday
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+tweak-header-primary-nav-hover-style-spotlight
+	ignored (6)
+two
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=6
+	(1)
+two-way
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+united
+	4 www.votelisabender.com/events/index.html
+	4 www.votelisabender.com/events/index.html
+	4 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/14/knocking-for-progress.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	2 www.votelisabender.com/events/2017/1/28/knocking-for-progress.html
+	2 www.votelisabender.com/events/indexb322.html
+	2 www.votelisabender.com/events/indexf01e.html
+	=22
+	(4)
+units
+	ignored (8)
+university
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+updated
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+usage
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+users
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+utilities
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+vacancy
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+values
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=22
+	(4)
+veaccomplishedin
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+violence
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+vision
+	ignored (37)
+vocal
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+voice
+	2 www.votelisabender.com/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+voices
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+volunteer
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=4
+	(0)
+vote
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	=6
+	(1)
+votelisabender.com
+	2 www.votelisabender.com/contact.html
+	2 www.votelisabender.com/contact/index.html
+	=4
+	(0)
+votes
+	ignored (7)
+vulnerable
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+wage
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+wages
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+walk
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	2 www.votelisabender.com/about/index.html
+	=14
+	(2)
+walking
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=16
+	(3)
+wanted
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+wants
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+ward
+	ignored (6)
+was
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=6
+	(1)
+ways
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+wealth
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+webkit-font-smoothing
+	ignored (6)
+wednesday
+	3 www.votelisabender.com/events/index.html
+	3 www.votelisabender.com/events/index.html
+	2 www.votelisabender.com/events/2017/1/18/banking-votes.html
+	2 www.votelisabender.com/events/2017/1/25/banking-for-votes.html
+	2 www.votelisabender.com/events/index2779.html
+	=12
+	(2)
+week
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+welcome
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+well
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+were
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+what
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=14
+	(2)
+when
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+where
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+whether
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+which
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	4 www.votelisabender.com/vision/index.html
+	=24
+	(4)
+while
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+whites
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=4
+	(0)
+who
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+will
+	ignored (29)
+win
+	3 www.votelisabender.com/index.html
+	3 www.votelisabender.com/index.html
+	=6
+	(1)
+with
+	ignored (21)
+work
+	ignored (14)
+workers
+	ignored (8)
+working
+	3 www.votelisabender.com/about/index.html
+	3 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=16
+	(3)
+workplace
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision.html
+	3 www.votelisabender.com/vision/index.html
+	3 www.votelisabender.com/vision/index.html
+	=12
+	(2)
+works
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments.html
+	3 www.votelisabender.com/accomplishments/index.html
+	3 www.votelisabender.com/accomplishments/index.html
+	=12
+	(2)
+writing
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+xcel
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+years
+	3 www.votelisabender.com/index.html
+	3 www.votelisabender.com/index.html
+	2 www.votelisabender.com/about/index.html
+	=8
+	(1)
+yearslisa
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	=4
+	(0)
+yes
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+you
+	3 www.votelisabender.com/contact.html
+	3 www.votelisabender.com/contact.html
+	3 www.votelisabender.com/contact/index.html
+	3 www.votelisabender.com/contact/index.html
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/index.html
+	=18
+	(3)
+young
+	2 www.votelisabender.com/about/index.html
+	=2
+	(0)
+your
+	2 www.votelisabender.com/about/index.html
+	2 www.votelisabender.com/index.html
+	=4
+	(0)
+youth
+	2 www.votelisabender.com/accomplishments.html
+	2 www.votelisabender.com/accomplishments/index.html
+	2 www.votelisabender.com/vision.html
+	2 www.votelisabender.com/vision/index.html
+	=8
+	(1)
+youtube
+	2 www.votelisabender.com/index.html
+	=2
+	(0)
+zoning
+	5 www.votelisabender.com/accomplishments.html
+	5 www.votelisabender.com/accomplishments.html
+	5 www.votelisabender.com/accomplishments.html
+	5 www.votelisabender.com/accomplishments.html
+	5 www.votelisabender.com/accomplishments/index.html
+	5 www.votelisabender.com/accomplishments/index.html
+	5 www.votelisabender.com/accomplishments/index.html
+	5 www.votelisabender.com/accomplishments/index.html

@@ -1,0 +1,6329 @@
+a.length
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+a.pagination-next
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+a.type
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+a.webkitrequestanimationframe
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+aas
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+abdi
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+about
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+absolute
+	ignored (11)
+account
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+accountability
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+acitizenship
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+actions
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+active
+	ignored (7)
+active-testimonial
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+add_to_cart_button
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+added
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+addition
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+address
+	ignored (11)
+adisability
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+admin-bar
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+administration
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+adonate
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+advancing
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+advisory
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+advocacy
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+advocate
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+advocated
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+affecting
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+affordable
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+after
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+age
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+agenda
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+agriculture
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+aid
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+airport
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+airports
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ajax-loader
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+ajohn
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+alert-icon
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+ales
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ales6031
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+align
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+alignment
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+all
+	ignored (8)
+alliance
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+along
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+also
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+amcoffee
+	ignored (17)
+american
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+amp
+	ignored (17)
+and
+	ignored (1026)
+animate
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+animation
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+anne
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+another
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+any
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+apaul
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+apeter
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+appended
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+appointed
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+are
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+area
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+args
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+aria-haspopup
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+article.post
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+artisan
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+ascott
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+association
+	ignored (8)
+astreet
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ataxes
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+athe
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ato
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+attorney
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+attracting
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+audit
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+author
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+auto
+	ignored (67)
+autohidemode
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+autoplay
+	ignored (8)
+avada-checkout
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+avada-checkout-error
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avada-myaccount-data
+	ignored (183)
+avada-myaccount-nav
+	ignored (8)
+avada-myaccount-nav.avada-woocommerce-pre26
+	ignored (5)
+avada-noscroll
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+avada-rev-arrows
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avada-select
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avada-select-parent
+	ignored (17)
+avada-shipping-calculator-form
+	ignored (5)
+avada-skin-rev
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avada-skin-rev-nav
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avada_coupon_code
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avada_myaccount_user
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.carousel_speed
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.counter_box_speed
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.flex_smoothheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.header_padding_top
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.header_position
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+avadavars.header_sticky_type2_layout
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.infinite_finished_msg
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.isotope_type
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.mobile_menu_design
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+avadavars.page_smoothheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.related_posts_speed
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.slideshow_speed
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+avadavars.smooth_scrolling
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.sticky_header_shrinkage
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+avadavars.typography_factor
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+avadavars.typography_sensitivity
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+ave
+	ignored (67)
+avenue
+	ignored (6)
+avenues
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+aviation
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+b.img
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+b.left
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+b.length0
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+b.length1
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+b.top
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bachelor
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+background
+	ignored (12)
+background-image
+	ignored (8)
+background-repeat
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+backgroundimage
+	ignored (5)
+backgroundposition
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+backgroundrepeat
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+backgroundsize
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+barb
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+barcolor
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+base
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+based
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+bbp-login-form
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bbp_destination_topic
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bbp_forum_id
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bbp_stick_topic_select
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bbp_topic_status_select
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+beach
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+been
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+before
+	ignored (14)
+below
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/index.html
+	=22
+	(4)
+bender
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+benson
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+berry
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+betsy
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+better
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+bg-align
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bg-height
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+bg-image
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bg-parallax-parent
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bg-parallax.video
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bg-repeat
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+bg-url
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+bg-width
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+bicyclists
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+biggest
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+bike
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+billing_country
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+billing_country_field
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+billing_state
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+billing_state_field
+	ignored (30)
+blank
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+block
+	ignored (8)
+blog
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+bloomington
+	ignored (11)
+bmp
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+board
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+body
+	ignored (160)
+body.admin-bar
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+body.rtl
+	ignored (11)
+border
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+border-bottom-style
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+border-bottom-width
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+border-color
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+border-width
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+both
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+bottom
+	ignored (53)
+box-shadow
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+boxed
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+breads
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+breads4600
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+breadsweekly
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+bridge
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+bs.scrollspy
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+budget
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+business
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+businesses
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+button
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/index.html
+	=22
+	(4)
+button-icon-divider-left
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+button-icon-divider-right
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+button-large
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+button-medium
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+button-small
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+button-xlarge
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+c-f
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+c.length
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+calc_shipping_country
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+calc_shipping_state
+	ignored (8)
+calendargooglecal
+	ignored (21)
+call
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+callsoffice
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+campaign
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+capacities
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+capacity
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+caret
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+caribou
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+carousel
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+cart
+	ignored (11)
+cart-collaterals
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+cart-contents
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+cart-loading
+	ignored (11)
+catalog-ordering
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+catholic
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+center
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+centervertically
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+chair
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+challenges
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+championed
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+chance
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+change
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+checked
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+checks
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+chicago
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+children
+	ignored (30)
+chosen-container
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+chzn-done
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+circular
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+city
+	ignored (21)
+civil
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+claims
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+class
+	ignored (26)
+classes
+	ignored (14)
+classic
+	ignored (11)
+classname
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+click
+	ignored (108)
+close
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+co-chair
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+coffee
+	ignored (26)
+coffee4606
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+coffee4956
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+coffeeweekly
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+col-1
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+col-2
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+col-sm-0
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+col-sm-1
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-10
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-11
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-12
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-2
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-3
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-4
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-5
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-6
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-7
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-8
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-sm-9
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+col-span-12
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+colleagues
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+college
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+color
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=8
+	(1)
+columns
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+come
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+coming
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+command
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+comment-reply-title
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+comment-respond
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+comment-text
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+comment_container
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+comments
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+commission
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+commissioners
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+committed
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+committee
+	ignored (14)
+committees
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+communications
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+communities
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+community
+	ignored (8)
+complete
+	ignored (22)
+completing
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+concentration
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+conferences
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+constituent
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+constituents
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+consultant
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+content
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+content-boxes-clean-vertical
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+continue
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+continue-checkout
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+contribution
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+contributions
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+controlled
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+corporations
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+council
+	ignored (30)
+counter-circle
+	ignored (35)
+county
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+couple
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+coupon
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+coupon_code
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+cover
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+cramer
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+created
+	ignored (6)
+creek
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+creighton
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+critical
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+crossfade-images
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+cst
+	ignored (21)
+current
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+current-li
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+current-menu-ancestor
+	ignored (8)
+current-menu-item
+	ignored (8)
+current-menu-parent
+	ignored (8)
+current_page_item
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+currently
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+currentsize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+currentvisible
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+cursorborder
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+cursorborderradius
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+cursorcolor
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+cursoropacitymax
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+cursoropacitymin
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+cursorwidth
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+d-f
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+d-k
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+d.length
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+dan
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+data-autoplay
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+data-bg-height
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-bg-width
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-columns
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-countdown
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-currentsize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-empty-column
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-filledcolor
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-filter
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+data-fontsize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-imagesize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-inline-fontsize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-inline-lineheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-itemmargin
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-itemwidth
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-lineheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-logo-height
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-logo-width
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-loop
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-metacontent
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-name
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-opacity
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-percent
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+data-rel
+	ignored (8)
+data-scale
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-scrollfx
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-scrollitems
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-size
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-speed
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-strokesize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-touchscroll
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+data-unfilledcolor
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+database
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+day
+	2 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=4
+	(0)
+decades
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+dedicated
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+deductible
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+degree
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+delimiter
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+deliver
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+delivered
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+demo_store
+	ignored (8)
+democratic
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+departments
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+depaul
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+details
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+details.so
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+detailsrsvp
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+development
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+dfl
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+diamond
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+dibble
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+digital-downloads
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+direction
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+directly
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+director
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+display
+	ignored (26)
+district
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+div
+	ignored (26)
+div.pagination
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+div.panel
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+donate
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+donation
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+done
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+door
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+doparallax
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+dore
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+down
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+downloads
+	ignored (5)
+dpac
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+duration
+	ignored (53)
+during
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+duties
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+dynamic
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+e-newsletter
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+e.prototype
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+e9s
+	ignored (14)
+e9ve
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+earned
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+easeinexpo
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+easeoutcubic
+	ignored (35)
+easeoutexpo
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+easeoutquad
+	ignored (14)
+easing
+	ignored (41)
+easypiechart
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+economic
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+edit-account-form
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+edit-account-heading
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+edit_address_heading
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+editor
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+education
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+efforts
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ei-slider
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+elected
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+election
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+elections
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+eleventh
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+elizabeth
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+else
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+email
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+emergency
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+employees
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+employment
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+empty-column
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+enabled
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+end
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+endoffset
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+ensuring
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+entries
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+environment
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+environmental
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+equitable
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+equity
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+errorcallback
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+especially
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+estimate
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+even
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+event
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=8
+	(1)
+events
+	ignored (18)
+every
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+everyday
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+excludedelements
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+executive
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+exhibits
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+expanding
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+expansion
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+expectations
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+experienced
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+experiences
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+f.map
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+f.markers
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+faa
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+face
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+facebook
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+facebooktwitter
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+facilities
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+fade
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fading_blur
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fallhost
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+false
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+families
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+family
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+far
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+february
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+federal
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+ffffff
+	ignored (8)
+field
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+filled
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+filter
+	ignored (21)
+finance
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+find
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+finishedmsg
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+first
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+first_slide_width
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fixed
+	ignored (17)
+fixed-width-slider
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+flex-control-nav
+	ignored (160)
+flex-direction-nav
+	ignored (22)
+flex-next
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+flex-prev
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+flexslider
+	ignored (11)
+flight
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+flip-box-back
+	ignored (8)
+flip-box-back-inner
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+flip-box-front
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+flip-box-front-inner
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+focus
+	ignored (5)
+font-size
+	ignored (31)
+fontsize
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+food
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+for
+	ignored (83)
+force
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+form
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+form.checkout
+	ignored (8)
+formatter
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+former
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+forward
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+foundation
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+frank
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+frey
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+freystate
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+from
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=14
+	(2)
+froogaloop2.min.js
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+full-video
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+full_screen
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fullwidth-faded
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+func
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+function
+	ignored (35)
+fund
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+fusion-active
+	ignored (8)
+fusion-alert
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-apply-coupon
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-archive-description
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-author-social
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-bg-parallax
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-bg-parallax.video
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-blog-layout-grid
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-blog-layout-timeline
+	ignored (11)
+fusion-blog-shortcode
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-border-below-title
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-builder-row
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-button
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-button-icon-divider
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+fusion-button-text
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+fusion-button.button-1
+	ignored (53)
+fusion-caret
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-carousel
+	ignored (5)
+fusion-carousel-item
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-carousel-item-wrapper
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-carousel-nav
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-carousel-positioner
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-carousel-swipe
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-carousel-wrapper
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-clean-product-image-wrapper
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-collapse-month
+	ignored (14)
+fusion-column-content-centered
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-column-wrapper
+	ignored (26)
+fusion-countdown-counter-wrapper
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-custom-menu-item-contents
+	ignored (26)
+fusion-dropdown-menu
+	ignored (8)
+fusion-equal-height-columns
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-events-meta
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-events-shortcode
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-faq-post
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-faq-shortcode
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-faqs-wrapper
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-filter
+	ignored (5)
+fusion-filter.fusion-active
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-filters
+	ignored (21)
+fusion-flexslider
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-flexslider-loading
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-flyout-active
+	ignored (8)
+fusion-flyout-menu
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-flyout-menu-active
+	ignored (5)
+fusion-flyout-menu-icons
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-flyout-menu-toggle
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-flyout-search
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-flyout-search-active
+	ignored (5)
+fusion-flyout-search-toggle
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-footer-copyright-area
+	ignored (8)
+fusion-footer-widget-area
+	ignored (11)
+fusion-fullwidth.fusion-equal-height-columns
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-fullwidth.video-background
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-header
+	ignored (292)
+fusion-header-shadow
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-header-sticky-height
+	ignored (128)
+fusion-header-v2
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-header-v3
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-header-v4
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-header-v5
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-header-v6
+	ignored (21)
+fusion-header-v7
+	ignored (5)
+fusion-header-wrapper
+	ignored (108)
+fusion-hidden
+	ignored (11)
+fusion-icon-bars
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-icon-bubbles
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-icon-check-square-o
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-icon-search
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-icon-spinner
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-image-carousel
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-image-hovers
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-image-wrapper
+	ignored (5)
+fusion-is-sticky
+	ignored (47)
+fusion-item-in-cart
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-last-menu-item
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-layout-column
+	ignored (11)
+fusion-lightbox-link
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-load-more-button
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-loading-container
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-logo
+	ignored (35)
+fusion-logo-2x
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-main-menu
+	ignored (67)
+fusion-main-menu-cart
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-main-menu-icon
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-main-menu-search
+	ignored (14)
+fusion-main-menu-search-open
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-megamenu-bullet
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-megamenu-holder
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-megamenu-menu
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-megamenu-title
+	ignored (5)
+fusion-megamenu-widgets-container
+	ignored (5)
+fusion-megamenu-wrapper
+	ignored (11)
+fusion-menu
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-menu-cart
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-menu-login-box
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-middle-logo-menu
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-middle-logo-menu-logo
+	ignored (8)
+fusion-middle-logo-ul
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-mobile-current-nav-item
+	ignored (8)
+fusion-mobile-menu-design-classic
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-mobile-menu-icons
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-mobile-menu-sep
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-mobile-nav-holder
+	ignored (60)
+fusion-mobile-nav-item
+	ignored (14)
+fusion-mobile-selector
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-mobile-sticky-nav-holder
+	ignored (14)
+fusion-modal
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-nav-next
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-nav-prev
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-navbar-nav
+	ignored (14)
+fusion-one-page-text-link
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-open-submenu
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-page-load-link
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-page-title-bar
+	ignored (8)
+fusion-page-title-wrapper
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-parallax-fixed
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-placeholder-image
+	ignored (8)
+fusion-portfolio
+	ignored (26)
+fusion-portfolio-content-wrapper
+	ignored (14)
+fusion-portfolio-gallery-hidden
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-portfolio-one
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-portfolio-paging-load-more-button
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-portfolio-post
+	ignored (47)
+fusion-portfolio-wrapper
+	ignored (26)
+fusion-post-slideshow
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-post-timeline
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-posts-container-infinite
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-read-more
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-read-more-button
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+fusion-rollover-gallery
+	ignored (11)
+fusion-row
+	ignored (17)
+fusion-secondary-header
+	ignored (14)
+fusion-secondary-main-menu
+	ignored (67)
+fusion-secondary-menu
+	ignored (41)
+fusion-secondary-menu-search
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-sharing-box
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-slider-6
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+fusion-slider-container
+	ignored (17)
+fusion-slider-loading
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-social-networks
+	ignored (21)
+fusion-standard-logo
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-sticky-header-wrapper
+	ignored (11)
+fusion-sticky-logo-1x
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-sticky-logo-2x
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-sticky-menu
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+fusion-sticky-shadow
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-tabs
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-timeline-date
+	ignored (21)
+fusion-timeline-icon
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-title
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-tribe-has-featured-image
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-update-cart
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-video
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+fusion-vimeo
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-woo-featured-products-slider
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusion-youtube
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+fusionimageparallax
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+g.length
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+gallery
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+gender
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+get
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+gf_browser_ie
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+gform_post_conditional_logic
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+gform_wrapper
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+gif
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+glidden
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+gmt-offset
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+gmtoffset
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+goodman
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+government
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+gravity-select-parent
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+greater
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+green
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+greene
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+grounds
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+grounds813
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+groundsweekly
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+grow
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+growing
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+h.length-1
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+hard-working
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+has
+	3 johnmquincy.org/author/jquincy/index.html
+	3 johnmquincy.org/author/jquincy/index.html
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=12
+	(2)
+have
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+having
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+hayden
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+head
+	ignored (5)
+header-sticky.sticky-header
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+header-wrapper
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+headerheight
+	ignored (11)
+headerparentheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+heading
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/index.html
+	=8
+	(1)
+heading-link
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+height
+	ignored (1311)
+help
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+hennepin
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+hidden
+	ignored (8)
+hide
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+his
+	ignored (5)
+hodges
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+home
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+homeabout
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+homelessness
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+horizrailenabled
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+hornsteincounty
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+hot
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+hour
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+house
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+housing
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+hover
+	ignored (9)
+how
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+href
+	ignored (30)
+html
+	ignored (35)
+http
+	2 index.html
+	=2
+	(0)
+https
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+i-35
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+identity
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+iframe
+	ignored (522)
+ilightbox
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+image
+	ignored (5)
+images
+	ignored (8)
+imagesize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+img
+	ignored (67)
+img.ajax-loader
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+img.emoji
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+img.wp-smiley
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+imgwidth
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+impact
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+impacts
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+important
+	ignored (71)
+improve
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+improving
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+include
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+including
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+increased
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+individual
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+infinite
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+information
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+infrastructure
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+inherit
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+init
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+initial_desktop_header_height
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+initial_sticky_header_shrinkage
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+initiatives
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+inline
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+inline-fontsize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+inline-lineheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+input
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/index.html
+	=22
+	(4)
+insure
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+interests
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+internal
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+investment
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+investments
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+involved
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	2 johnmquincy.org/author/jquincy/index.html
+	=22
+	(4)
+involvedhomeabout
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+involvement
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+is-active
+	ignored (14)
+ismobile
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+isoriginleft
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+isotope
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+issues
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+itemmargin
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+items
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+itemselector
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+itemwidth
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+its
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+jacob
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+jacobson
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+january
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+jean
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+jeff
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+jfif
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+joe
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+john
+	ignored (31)
+johnmquincy.org
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+johnprioritiesdonateeventsget
+	3 johnmquincy.org/author/jquincy/index.html
+	3 johnmquincy.org/author/jquincy/index.html
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=12
+	(2)
+johnson
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+joint
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+jpe
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+jpeg
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+jpg
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+jquery
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+jquincy
+	4 johnmquincy.org/author/jquincy/index.html
+	4 johnmquincy.org/author/jquincy/index.html
+	4 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=14
+	(2)
+kevin
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+kids
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+kitchen
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+kitchen5406
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+kitchenweekly
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+knockdistribute
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+lake
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+lakewood
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+lanes
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+last
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+last-child
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+launch
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+layoutmode
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+lead
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+leader
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+leading
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+led
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+left
+	ignored (323)
+legal
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+legislative
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+legislature
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+length
+	ignored (426)
+level
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+li.current
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+li.menu-item-has-children
+	ignored (11)
+li.page_item_has_children
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+life
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+light
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+lightbox
+	ignored (5)
+lightbox-link
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+limits
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+line
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+line-height
+	ignored (54)
+linea
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+linecap
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+lineheight
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+lines
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+linewidth
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+link
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+link-area-box
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+link-area-box-hover
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+link-area-link-icon
+	ignored (14)
+link-area-link-icon-hover
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+link-target
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+link-type-button
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+lisa
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+list
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+literaturemake
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+lives
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+load
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+loading
+	2 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=4
+	(0)
+local
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+locationberry
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+locationcaribou
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+locationhot
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+locationnokomis
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+locationsister
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+locationsovereign
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+locationstarbucks5351
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+locationsun
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+locationwild
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+login-box
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+logo-height
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+logo_height
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+long-term
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+looks
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+loopscroll
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+loopscrolltime
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+lyndale
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+made
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+mailingshost
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+main
+	ignored (17)
+main-nav-search
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+main-nav-search-form
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+main-nav-search-link
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+main_menu_height
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+maintain
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+major
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+majority
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+make
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+making
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+management
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+many
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+march
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+margin
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=16
+	(3)
+margin-bottom
+	ignored (8)
+margin-left
+	ignored (17)
+margin-right
+	ignored (8)
+margin-top
+	ignored (41)
+marion
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+market
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+marketing
+	ignored (5)
+master
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+max
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+max-device-width
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+max-height
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+max-width
+	ignored (356)
+may
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+mayor
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+mclaughlin
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+mead
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+means
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+media
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+media_query_test_2
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+media_query_test_4
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+meet
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+member
+	ignored (17)
+members
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+menu
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+menu-item
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+menu-text
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+menu_and_logo
+	ignored (5)
+menu_only
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+message
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+metacontent
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+metropolitan
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+middle
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+miles
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+min
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+min-device-width
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+min-height
+	ignored (26)
+min-width
+	ignored (8)
+mind
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+minheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+minimize
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+minneapolis
+	ignored (221)
+minnesota
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+mobile-current-nav-item
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+mobile-enabled
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+mobile-menu-expanded
+	ignored (21)
+mobile-menu-item
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+mobile-nav
+	ignored (21)
+mobile-nav-holder
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+mobile-nav-item
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+mobile-selector
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+mobile-topnav
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+mobile-topnav-holder
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+mobile_video_image
+	ignored (5)
+mobiledevice
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+mobileenabled
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+modern
+	ignored (8)
+month
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+monthly
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+more
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	2 johnmquincy.org/author/jquincy/index.html
+	=22
+	(4)
+mousescrollstep
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+move
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+moving
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+moz-transform
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+mp4
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+mps
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ms-filter
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+ms-transform
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+msg
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+msp
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+multi-modal
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+municipal
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+mute
+	ignored (5)
+my_account_orders
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+myaccount_address
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+name
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+nation-wide
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+national
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+natural
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+nav-holder
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+navigation
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+navselector
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+needs
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+neighborhood
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+neighborhoods
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+neighbors
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	2 johnmquincy.org/author/jquincy/index.html
+	=22
+	(4)
+network
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+new
+	ignored (54)
+next
+	2 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=4
+	(0)
+nextselector
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+nexttext
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+nicollet
+	ignored (5)
+nielsen
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+no-overflow-y
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+no-repeat
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+noise
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+nokomis
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+nokomis-minnesota
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+none
+	ignored (22)
+noswipe
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+not
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	2 johnmquincy.org/author/jquincy/index.html
+	=8
+	(1)
+null
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+numerous
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+o-transform
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+oakland
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	2 johnmquincy.org/author/jquincy/index.html
+	=8
+	(1)
+occupation
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+office
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+officers
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+offset
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+ogg
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+old
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+omaha
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+omit-weeks
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+omitweeks
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+oncreate
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+one
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+online
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+only
+	ignored (307)
+onmouse
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+onsale
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+onstatechange
+	ignored (17)
+ontouch
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+ontouchstart
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+opacity
+	ignored (149)
+open
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+open-submenu
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+opera
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+operations
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+opportunities
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+opportunity
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+options
+	2 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=4
+	(0)
+order-dropdown
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+order-status
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+order_review
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+order_review_heading
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+orderby
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+orders
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+organics
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+organizations
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+orientation
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/index.html
+	=22
+	(4)
+orientationchange
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+originalsize
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+other
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+others
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+our
+	ignored (26)
+out
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+over
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+overflow
+	ignored (47)
+overlay-full.layout-text-left
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+overlay-link
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+oversee
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+oversight
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+padding
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=10
+	(1)
+padding-bottom
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+padding-top
+	ignored (8)
+paddingbottom
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+paddingleft
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+paddingright
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+paddingtop
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+page
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+page_item_has_children.current_page_item
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+pages
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+paid
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+palmisano
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+parallax
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+parallax-inner
+	ignored (8)
+parent
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+parentelement
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+parish
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+park
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+parks
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+party
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+partyjohn
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+patricia
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+pause
+	ignored (17)
+pauseonhover
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+pausevideo
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+payable
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+pedestrians
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+performs
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+periodical
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+person
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+phone
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+picturesize
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+pillsbury
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+placeholder
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+placing
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+plate
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+plate5204
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+plateweekly
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+play
+	ignored (8)
+playprogress
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+please
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+plugin
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+plugin_fusion_maps
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+pmre-election
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+png
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+pointerevents
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+policy
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+political
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+population
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+popup
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+portland
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+position
+	ignored (128)
+positions
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+post
+	ignored (5)
+post-content
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+posts
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+posts-container
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+prepared
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+preservenativescrolling
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+president
+	ignored (5)
+prettyphoto
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+prev
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+preview1
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+preview2
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+preview3
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+preview4
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+previously
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+prevtext
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+prior
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+priorities
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+product
+	ignored (5)
+product-addon
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+product-images
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+product-type-variable
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+products
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+products-1
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+products-2
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+products-3
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+products-4
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+products-5
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+products-6
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+professional
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+progid
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+progress
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+project
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+promise
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+property
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+proud
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+provide
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+providing
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+pta
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+public
+	ignored (5)
+publishing
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+push
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+qty
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+queue
+	ignored (35)
+quincy
+	ignored (139)
+race
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ray
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+re-lined
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ready
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+rebuild
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+reconstructed
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+recycling
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+reducing
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+refresh
+	ignored (26)
+refreshinterval
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+regardless
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+regional
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+regulatory
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+reich
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+rel
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+related-posts
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+related.products
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+relationships
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+relative
+	ignored (14)
+religious
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+remained
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+removeorig
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+renewed
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+repeat
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+representatives
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+represents
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+research
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+residents
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+resizable
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+resize
+	ignored (149)
+resource
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+resources
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+responsive
+	2 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=4
+	(0)
+resurfaced
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+retrieve
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+return
+	ignored (183)
+return-1
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+reviews
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+right
+	ignored (67)
+rights
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+risks
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+river
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+robust
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+rotate
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+round
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+route
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+rsvp
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+rtl
+	ignored (14)
+rules
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+rybak
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+safe
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+safety
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+sam
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+saturdays
+	ignored (17)
+scale
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+scalecolor
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+scalelength
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+school
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+schools
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+science
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sciences
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+scott
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+screen
+	ignored (356)
+script
+	ignored (122)
+scroll
+	ignored (41)
+scrolled_header_height-d
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+scrolled_header_height-e
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+scrollfx
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+scrollitems
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+scrollspeed
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+scrolltop
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+search-box-open
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+search-link
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+sec
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+seeking
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+select
+	ignored (47)
+select-arrow
+	ignored (11)
+select.country_select
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+select.state_select
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+select2-container
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+self
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+senators
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+send
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sent
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+serve
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+serves
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+service
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+services
+	ignored (5)
+serving
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+setup
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+setvolume
+	ignored (5)
+sh-mobile-nav-holder
+	ignored (53)
+shape
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+share-box
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+shelter
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+shifted
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+shipping_country
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+shipping_country_field
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+shipping_state
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+shipping_state_field
+	ignored (21)
+shop_table
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+shortcode-map
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+show
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+sick
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+side-header
+	ignored (53)
+side-header-left
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+side-header-right
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+side-header-sticky
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+side-header-wrapper
+	ignored (14)
+side-nav
+	ignored (11)
+side-nav-left
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+side-nav-right
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+sidebar
+	ignored (8)
+sign
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+significant
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+since
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+single
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+single-sort
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+single_variation_wrap
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+sister
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+site
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+size
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+sizes
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+slide-content
+	ignored (21)
+slide-content-container
+	ignored (21)
+slide-content-left
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+slide-content-right
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+slide-excerpt
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+slider
+	ignored (5)
+slider_height
+	ignored (8)
+slider_width
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+sliders-container
+	ignored (11)
+slides
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+slideshow
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+slideshowspeed
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+slidingbar-area
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+slow
+	ignored (11)
+sludge
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sludge4557
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sludgeweekly
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+small
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+smoothheight
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+social
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/index.html
+	=8
+	(1)
+social-icon
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+social_links_shortcode
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+society
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+solid
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+solutions
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+sons
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+soon
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sort-count
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+sound
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+south
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+sovereign
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+space
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+span
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+spanning
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+speak
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+speed
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+spent
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+src
+	ignored (21)
+srcset
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+starbucks
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+starbucksweekly
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+start
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+state
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+static
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+status
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+step
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+steve
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sticky-header
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+stickytrigger.length
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+stickytrigger_position
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+still
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+street
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+streets
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+strict
+	ignored (8)
+studies
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+style
+	ignored (118)
+sub-menu
+	ignored (35)
+subcategory-products
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+subject
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+suggestions
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sun
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+supervising
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+support
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+supporter
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sure
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+sustainable
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+svg
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+sweet
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+swipe
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tab-link
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tab_content
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+table.variations
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+tabs-horizontal
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+tabs-original-vertical
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+tabs-vertical
+	ignored (8)
+tabs-widget
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+target
+	ignored (14)
+targetdate
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+task
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+tax
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+taxation
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+teacher
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+term
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+text-align
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+textarea
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+textarea-comment
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+tfs-slider
+	ignored (5)
+th.order-actions
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+than
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+thank
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+that
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+the
+	ignored (523)
+their
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+themselves
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+there
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+they
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+this
+	ignored (9)
+this.settings.ypos
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+thissen
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+through
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+throw
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+tif
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+tiff
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+tiled-gallery
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+time
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+timeout
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+timeoutduration
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+timer
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+times
+	ignored (11)
+title
+	ignored (8)
+title-heading-left
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+title-heading-right
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+together
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+tooltip-shortcode
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+top
+	ignored (118)
+top-b-c
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+top-e
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+torres
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+touchmove
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+touchscroll
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tp-leftarrow
+	ignored (53)
+tp-rightarrow
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+trackcolor
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+trail
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+transform
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+transformsenabled
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+transit
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+treasurer
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	2 johnmquincy.org/author/jquincy/index.html
+	=14
+	(2)
+tribe-events
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tribe-events-event-image
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+tribe-events-footer
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tribe-events-nav-next
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tribe-events-nav-previous
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tribe-events-page-title
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+tribe-events-sub-nav
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+tribe-ticket-quantity
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+true
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+type
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+type-post
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+typeerror
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+typeof
+	ignored (53)
+typo_factor
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+typo_sensitivity
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+ua-edge
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+ua-ie
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+ua-ie-8
+	ignored (5)
+ul.tabs
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+unbind
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+undefined
+	ignored (30)
+underline
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+understand
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+university
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+unshift
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+upsells.products
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+use
+	ignored (8)
+usecss
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+value
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+values
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+var
+	ignored (2584)
+variable
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+variation
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+variations
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+variations-table
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+variations_form
+	ignored (8)
+variety
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+vc_editor
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+velocity
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+vertical
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+vertical-align
+	2 johnmquincy.org/author/jquincy/index.html
+	2 johnmquincy.org/index.html
+	=4
+	(0)
+veteran
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+vice
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	5 johnmquincy.org/index.html
+	=20
+	(3)
+video
+	ignored (11)
+video-shortcode
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+viewportheight
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+visibility
+	ignored (8)
+visible
+	ignored (221)
+visit
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+void
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+volunteer
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+vote
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+wagenius
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+walks
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ward
+	ignored (5)
+warsame
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+was
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+water
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+ways
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+webkit-transform
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+webm
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+welcome
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+well
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+whole
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+widget_archive
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+widget_categories
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+widget_layered_nav
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+width
+	ignored (111)
+wife
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+wild
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+will
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+window
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+window._fusionimageparallaximages
+	ignored (5)
+window.header_parent_height
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+window.original_logo_height
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+window.wrapperposition
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+with
+	ignored (128)
+woo-tabs-horizontal
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woo_store_notice
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+woocommerce
+	ignored (14)
+woocommerce-billing-fields
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce-checkout
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce-checkout-nav
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+woocommerce-content-box.avada-checkout
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce-error
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+woocommerce-invalid
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce-shipping-fields
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce-tabs
+	ignored (5)
+woocommerce-variation-availability
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce-variation-description
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce-variation-price
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+woocommerce.single-product
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+woocommerce.widget_product_categories
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+wooslider
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+work
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+worked
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	4 johnmquincy.org/index.html
+	=12
+	(2)
+workforce
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+working
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+wpadminbar
+	ignored (30)
+wpadminbarheight
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	3 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=6
+	(1)
+wpcf7-form
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	5 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=20
+	(3)
+wpcf7-mail-sent-ng
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7-mail-sent-ok
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7-response-output
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7-response-output.fusion-alert
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7-select
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7-select-parent
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7-submit
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpcf7-validation-errors
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wpfc_sermon_sorting
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=2
+	(0)
+wrapper
+	ignored (14)
+xe61f
+	ignored (47)
+xf104
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+xf105
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	4 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=12
+	(2)
+yard
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+year
+	2 johnmquincy.org/index.html
+	2 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	=4
+	(0)
+years
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+yes
+	ignored (31)
+yet
+	2 johnmquincy.org/author/jquincy/index.html
+	=2
+	(0)
+you
+	3 johnmquincy.org/index.html
+	3 johnmquincy.org/index.html
+	=6
+	(1)
+your
+	ignored (11)
+youth
+	2 johnmquincy.org/index.html
+	=2
+	(0)
+z-index
+	ignored (5)
+zindex
+	6 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	6 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	6 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	6 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	6 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+Avada/assets/js/main.min066b.js
+	13 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	13 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	13 johnmquincy.org/wp-content/themes/Avada/assets/js/main.min066b.js
+	2 johnmquincy.org/index.html
+	=158

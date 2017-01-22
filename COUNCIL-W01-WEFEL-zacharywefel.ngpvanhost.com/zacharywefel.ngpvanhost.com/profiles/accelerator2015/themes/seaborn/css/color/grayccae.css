@@ -1,0 +1,60 @@
+.primary {
+	background-color:#C1C1C1;
+	color:#fff;
+}
+.secondary {
+	background-color:#494646;
+	color:#fff;
+}
+.tertiary {
+	background-color:#656565;
+	color:#fff;
+}
+.quaternary {
+	background-color:#f2ebdf;
+	color:#fff;
+}
+.quinary {
+	background-color:#828282;
+	color:#fff;
+}
+.primary a,
+.secondary a,
+.tertiary a,
+.quinary a,
+.quaternary a,
+.senary a  {
+	color:#fff;
+}
+
+/*** multiStep **********/
+body.placeholder .multistep-layout #edit-contributioninformation .form-item.form-item-SelectAmount label.label-amount.checked {
+	background-color: #494646;
+}
+body.placeholder  .multistep-layout #edit-contributioninformation .form-item.form-item-SelectAmount label.label-amount {
+	background-color: #818181;
+}
+body.placeholder  ol.steps li a.active .step-number,
+body.placeholder .step-prevNext div.next .ngp-btn {
+	background-color: #818181;
+	color: #fff;
+}
+body.placeholder a#prevStep {
+	color: #989898;
+}
+
+/*** NGP FORM **********/
+body.placeholder .nv-template-accelerator fieldset legend {
+	background-color: #C7C7C7;
+}
+body.placeholder .group-ngpaction h4.field-name-field-ngp-form-label {
+	background-color: #F2EBDF;
+	color: #817A72;
+}
+body.placeholder .group-ngpaction .nv-template-accelerator input.form-submit, body.placeholder .group-ngpaction .nv-template-accelerator button {
+	background-color: #F2EBDF;
+	color: #B0ABA5;
+}
+.submitted {
+	color: #111;
+}

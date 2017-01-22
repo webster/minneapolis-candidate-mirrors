@@ -1,0 +1,28 @@
+HTTrack3.48-23 launched on Sun, 22 Jan 2017 16:22:30 at http://johnmquincy.org/
+(httrack http://johnmquincy.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W11-QUINCY-johnmquincy.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:23:28	Error: 	"Not Found" (404) at link johnmquincy.org/feed/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/re-election-launch-party/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-nokomis-beach-coffee/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-sovereign-grounds/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-sun-street-breads/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-hot-plate/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-berry-sweet-kitchen/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-sister-sludge/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-caribou-coffee/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-hot-plate-2/ (from johnmquincy.org/)
+16:25:12	Error: 	"Not Found" (404) at link johnmquincy.org/events/coffee-with-quincy-starbucks/ (from johnmquincy.org/)
+16:25:19	Error: 	"Not Found" (404) at link johnmquincy.org/wp-content/plugins/post-carousel/assets/css/grabbing.png (from johnmquincy.org/wp-content/plugins/post-carousel/assets/css/owl.carousel.css)
+16:25:19	Error: 	"Not Found" (404) at link johnmquincy.org/wp-content/themes/Avada/assets/css/assets/images/ajax-loader.gif (from johnmquincy.org/wp-content/themes/Avada/assets/css/style.min.css?ver=5.0.6)
+16:26:57	Error: 	"Not Found" (404) at link johnmquincy.org/Popover requires tooltip.js (from johnmquincy.org/wp-content/themes/Avada/assets/js/main.min.js?ver=5.0.6)
+16:26:57	Error: 	"Not Found" (404) at link johnmquincy.org/video/ (from johnmquincy.org/wp-content/themes/Avada/assets/js/main.min.js?ver=5.0.6)
+16:26:57	Error: 	"Not Found" (404) at link johnmquincy.org/image/ (from johnmquincy.org/wp-content/themes/Avada/assets/js/main.min.js?ver=5.0.6)
+16:26:57	Error: 	"Not Found" (404) at link johnmquincy.org/+this.settings.image+ (from johnmquincy.org/wp-content/themes/Avada/assets/js/main.min.js?ver=5.0.6)
+
+HTTrack Website Copier/3.48-23 mirror complete in 4 minutes 27 seconds : 237 links scanned, 220 files written (7773261 bytes overall) [6489799 bytes received at 24306 bytes/sec], 2180839 bytes transferred using HTTP compression in 51 files, ratio 21%, 15.8 requests per connection
+(17 errors, 0 warnings, 0 messages)

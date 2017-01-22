@@ -1,0 +1,6178 @@
+abatement
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+ability
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+able
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=4
+	(0)
+about
+	ignored (34)
+abundant
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+abuse
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+accept
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	=12
+	(2)
+access
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+accomplished
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+accomplishments
+	ignored (14)
+accordance
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+achieve
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+acted
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	=6
+	(1)
+action
+	ignored (5)
+active
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+activist
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+activities
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+ada
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+addition
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+additional
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+address
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/contact.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=10
+	(1)
+adds
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+administered
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+administrator
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+admirable
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+adolescence
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+adopted
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+adopting
+	ignored (22)
+adoption
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+advisory
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+advocated
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+aeon
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+affordable
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+afl-cio
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/minneapolis-regional-labor-federation-endorses-cam-0.html
+	=4
+	(0)
+afscme
+	ignored (8)
+after
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=4
+	(0)
+aftermath
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+afterschool
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+against
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+agency
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+aggressive
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+agreements
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+agriculture
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+alabama
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+alaska
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+alcohol
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+all
+	ignored (13)
+alliance
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=18
+	(3)
+allow
+	ignored (5)
+allowable
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+allowing
+	ignored (15)
+allows
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+also
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+alternate
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+ambulatory
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+amendments
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/accomplishments.html
+	=8
+	(1)
+american
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=6
+	(1)
+americas
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+among
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+amount
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+amp
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=4
+	(0)
+and
+	ignored (1210)
+andrew
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+announcements
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+annually
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+antiquated
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+anyone
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+apartment
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+apartments
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+applying
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+appointed
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+appointments
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+approach
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+approaches
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+archive
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+are
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/voter-information.html
+	=16
+	(2)
+area
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=8
+	(1)
+areas
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+arizona
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+arkansas
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+armed
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	=12
+	(2)
+arsenic
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+art
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+article
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	2 www.camgordon.org/news.html
+	=8
+	(1)
+ash
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+aside
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+assistance
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+associate
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+association
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+attorney
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+augsburg
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+author
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+authoring
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+authority
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+ave
+	ignored (12)
+avenue
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+bachelor
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+background
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+backgrounds
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+bag
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+bags
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+ballot
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+bands
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+bank
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+baseball
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+because
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+been
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+before
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+begin
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+beginning
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+being
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=10
+	(1)
+believer
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=4
+	(0)
+below
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+bessemer
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+best
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+better
+	ignored (8)
+between
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+bicycle
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+bicyclists
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+bike
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+bikeway
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+bikeways
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=26
+	(4)
+biking
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+bill
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+bird-safe
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+blog
+	ignored (17)
+blue
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+blueprint
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+board
+	ignored (7)
+body
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+borer
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+both
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+boulevards
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+brewery
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+bridge
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+bring
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+bringing
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=22
+	(3)
+broadening
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+budget
+	ignored (5)
+buffered
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+build
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=6
+	(1)
+builder
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+building
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/accomplishments.html
+	=14
+	(2)
+buildings
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+builds
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+business
+	ignored (9)
+businesses
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=22
+	(3)
+but
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+cafae
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+california
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+call
+	2 www.camgordon.org/contact.html
+	=2
+	(0)
+called
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+calling
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+calls
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+cam
+	ignored (351)
+came
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+cameras
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+campaign
+	ignored (36)
+camps
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+can
+	3 www.camgordon.org/contact.html
+	3 www.camgordon.org/contact.html
+	3 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	3 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/voter-information.html
+	=20
+	(3)
+candidate
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=4
+	(0)
+candidates
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+canopy
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+capacity
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+capital
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+carbon
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+care
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=10
+	(1)
+career
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+carol
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+carolina
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	=6
+	(1)
+cart
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+cases
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+catherine
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	=20
+	(3)
+cause
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+cedar
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+cedar-riverside
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+celebrate
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+center
+	ignored (5)
+centerpoint
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+certification
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+chair
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=22
+	(3)
+chairs
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+challenges
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=4
+	(0)
+change
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+changed
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+chapter
+	ignored (6)
+chickens
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+child
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+childhood
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=22
+	(3)
+children
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=14
+	(2)
+choice
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/voter-information.html
+	=8
+	(1)
+choices
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+chooses
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+chute
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+chutes
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+cider
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+cigarillos
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+cigars
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+cities
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+citizens
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+city
+	ignored (133)
+city-owned
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+citywide
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+civic
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+civil
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+civilian
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+claims
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+clarified
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+clark
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+classes
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+clean
+	3 www.camgordon.org/index.html
+	3 www.camgordon.org/index.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	=26
+	(4)
+cleaners
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+cleaning
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+cleanup
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+click
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	=12
+	(2)
+climate
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+clinic
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+close
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+club
+	ignored (7)
+co-chair
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+co-founder
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+co-op
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+co-owner
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+co-responder
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+coach
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+coalition
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+code
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=6
+	(1)
+college
+	ignored (7)
+colorado
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+columbia
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+combo
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+come
+	5 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	5 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	5 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	5 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=26
+	(4)
+commercial
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=24
+	(4)
+commission
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+committee
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	=22
+	(3)
+committees
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+common
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+communications
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+communicator
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+communities
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+community
+	ignored (31)
+community-based
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/priorities.html
+	=12
+	(2)
+como
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+companies
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+company
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+complete
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+completed
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+compost
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+compostable
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+composting
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+concerns
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+conducting
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+congress
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+congressional
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/green-party-endorses-cam-0.html
+	=4
+	(0)
+connect
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+connecticut
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+connections
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+consensus
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+conservation
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+contact
+	ignored (8)
+contamination
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/accomplishments.html
+	=8
+	(1)
+continuing
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+contribute
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	=6
+	(1)
+contributed
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+contribution
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	=12
+	(2)
+contributions
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+control
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+convention
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+conversion
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+cookies
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+cooperative
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+cooperatively
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+cooperatives
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+coops
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	=10
+	(1)
+coordinating
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+coordinator
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+corridor
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+costs
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=4
+	(0)
+council
+	ignored (152)
+councilmember
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+country
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=4
+	(0)
+county
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=4
+	(0)
+craft
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+create
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	=4
+	(0)
+created
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+creating
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=20
+	(3)
+crises
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+crisis
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+cultural
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+current
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+cycling
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+daily
+	4 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	4 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	4 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	2 www.camgordon.org/about-cam.html
+	=20
+	(3)
+dakota
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+dan
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+day
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/voter-information.html
+	=4
+	(0)
+deal
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+decisions
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=6
+	(1)
+declared
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+declares
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+dedicated
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+deductible
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+defines
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+degree
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+delaware
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+democracy
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/priorities.html
+	=10
+	(1)
+democratic
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+demographic
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+department
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+described
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+detailed
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+developing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+development
+	ignored (9)
+dfl
+	4 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	4 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	4 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=12
+	(2)
+different
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+diner
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+dinkytown
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+directing
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+directly
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+director
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+directors
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+disabilities
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+disclose
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+discuss
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+discussion
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	=18
+	(3)
+disparities
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+distinction
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+distributed
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+district
+	ignored (19)
+districts
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+diverse
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+diversion
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+divesting
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+divestment
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+does
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	2 www.camgordon.org/donateefe9.html
+	=8
+	(1)
+domestic
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+donate
+	ignored (8)
+donations
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	=6
+	(1)
+done
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+donor
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+doorknocking
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+draws
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+drinking
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+driver
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+drivers
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+dropping
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+drugs
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+dry
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+duplex
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+e-cigarettes
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+e9cam
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+e9i
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+e9rule
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+e9s
+	ignored (12)
+e9standing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+early
+	ignored (5)
+earned
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+easier
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+east
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+easy
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+ecological
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+economic
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+economics
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/priorities.html
+	=12
+	(2)
+economy
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+edge
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+edition
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+editor
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=22
+	(3)
+educating
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+education
+	ignored (15)
+educational
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+educator
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+effective
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=8
+	(1)
+effectively
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=4
+	(0)
+effort
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+efforts
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+eight
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+elected
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	=20
+	(3)
+election
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=22
+	(3)
+elections
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/about-cam.html
+	=8
+	(1)
+electrical
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+electronic
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+elementary
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+email
+	3 www.camgordon.org/contact.html
+	3 www.camgordon.org/contact.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/index.html
+	=12
+	(2)
+emerald
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+emergency
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+emission
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+emissions
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+employees
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=4
+	(0)
+employer
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+employment
+	4 www.camgordon.org/priorities.html
+	4 www.camgordon.org/priorities.html
+	4 www.camgordon.org/priorities.html
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=18
+	(3)
+empowers
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+encourage
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+end
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+endorsed
+	ignored (12)
+endorsement
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+endorsements
+	ignored (6)
+endorses
+	ignored (7)
+energy
+	ignored (7)
+enforceable
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+engagement
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	=8
+	(1)
+english
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+ensuring
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+entertainment
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+environment
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+environmental
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+equitable
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+equity
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+especially
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+establish
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+established
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+establishes
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+establishing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+ethical
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	=4
+	(0)
+ethics
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+europe
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+evaluating
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+evaluation
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+even
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=4
+	(0)
+event
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+every
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+exactly
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+excellent
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+except
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+executive
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=6
+	(1)
+existing
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/accomplishments.html
+	=8
+	(1)
+expanded
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+expands
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+expansion
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+experience
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+experiences
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+experiencing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+explain
+	ignored (5)
+explains
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+explanation
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+explore
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+extensive
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+external
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+extraction
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+facilitated
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+facilities
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+facing
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=6
+	(1)
+fairvote
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/voter-information.html
+	=8
+	(1)
+families
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+family
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+fantastic
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+farmers
+	5 www.camgordon.org/accomplishments.html
+	5 www.camgordon.org/accomplishments.html
+	5 www.camgordon.org/accomplishments.html
+	5 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=26
+	(4)
+farms
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+farmstands
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+favor
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+federation
+	ignored (13)
+fee
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+fees
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+fighting
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+fill
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=4
+	(0)
+finance
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+financial
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+find
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/priorities.html
+	=14
+	(2)
+finder
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+finished
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+first
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=12
+	(2)
+five
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	2 www.camgordon.org/priorities.html
+	=6
+	(1)
+flavored
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+flexibility
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/accomplishments.html
+	=14
+	(2)
+florida
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+focused
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+following
+	ignored (6)
+food
+	ignored (10)
+for
+	ignored (440)
+forage
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+force
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+forces
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	=12
+	(2)
+forestry
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+form
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/contact.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=16
+	(2)
+formation
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+forming
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+forms
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=6
+	(1)
+forum
+	ignored (5)
+forward
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+fossil
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+fought
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+founding
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+framework
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+franchise
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+franklin
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+free
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+frequencies
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+fresh
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+fries
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+from
+	ignored (55)
+fruit
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+fuel
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+funding
+	ignored (13)
+future
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=10
+	(1)
+garbage
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+garden
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+gardens
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+garwood
+	2 www.camgordon.org/contact.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=4
+	(0)
+gathering
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+gender-neutral
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+gentrification
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+georgia
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+get
+	ignored (11)
+getting
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+give
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+giveaways
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+gives
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+giving
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+glendale
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+goal
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+goals
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+good
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+goose
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+gordon
+	ignored (80)
+graduate
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+graduated
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+grant
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+grassroots
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+great
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+greater
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+green
+	ignored (25)
+green-endorsed
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+greens
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+greenway
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+grill
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+grocery
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+groundwater
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+group
+	ignored (5)
+growing
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=14
+	(2)
+growth
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+guam
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+guide
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=14
+	(2)
+guidelines
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+guiding
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+had
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+hall
+	ignored (6)
+hampshire
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+happy
+	2 www.camgordon.org/contact.html
+	=2
+	(0)
+harmony
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+has
+	ignored (24)
+have
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=28
+	(4)
+having
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+hawaii
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+head
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+health
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	=16
+	(2)
+health-based
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+healthy
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+hear
+	2 www.camgordon.org/contact.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=4
+	(0)
+heat
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+height
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+held
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+help
+	ignored (6)
+helped
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=18
+	(3)
+helping
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+here
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=26
+	(4)
+heritage
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+hi-lo
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+high
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/donateefe9.html
+	=6
+	(1)
+highly
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+him
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+himalayan
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+himself
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+hiring
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+his
+	ignored (50)
+historic
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+holding
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+holds
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+home
+	ignored (6)
+homegrown
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+homeless
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+homes
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+honeybees
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+hope
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+hospital
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+host
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+hosting
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+hour
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+hours
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+house
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=10
+	(1)
+housing
+	ignored (6)
+how
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+http
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	2 index.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=16
+	(2)
+hvidston
+	ignored (6)
+idaho
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+identified
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+illinois
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+implement
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+implementation
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+implements
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+import
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	=12
+	(2)
+importance
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+important
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+inadequate
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+inches
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+include
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=10
+	(1)
+included
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+including
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	=22
+	(3)
+inclusive
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+income
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+increases
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+increasing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+independence
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+independent
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+indiana
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+indigenous
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+individuals
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+indoor
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+infancy
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+info
+	ignored (6)
+inform
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+information
+	ignored (5)
+informed
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+infrastructure
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+inhibited
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+initiative
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+initiatives
+	3 www.camgordon.org/index.html
+	3 www.camgordon.org/index.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=16
+	(2)
+innovation
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=8
+	(1)
+inspected
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+installation
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+institutional
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+institutions
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+intentional
+	ignored (5)
+interest
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+interested
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+intergenerational
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+international
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+interview
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+into
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+investing
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+involved
+	ignored (8)
+involvement
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+iowa
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+island
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+islands
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	4 www.camgordon.org/donateefe9.html
+	=12
+	(2)
+issue
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=4
+	(0)
+issues
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=4
+	(0)
+its
+	ignored (5)
+jamar
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+jersey
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+job
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=6
+	(1)
+johnson
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+jola
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+journalist
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+judgments
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+june
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+just
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/voter-information.html
+	=8
+	(1)
+justice
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/priorities.html
+	=10
+	(1)
+kansas
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+keep
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+kentucky
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+kick
+	ignored (6)
+know
+	2 www.camgordon.org/contact.html
+	=2
+	(0)
+known
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+labor
+	ignored (14)
+lair
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+lake
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=8
+	(1)
+land
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+landlords
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+landscape
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+lane
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+lanes
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+language
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+larger
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+last
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=4
+	(0)
+late
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+latest
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+lavender
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+lead
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	=12
+	(2)
+leader
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+leading
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+learn
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	=4
+	(0)
+learner
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+least
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+led
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/accomplishments.html
+	=22
+	(3)
+legal
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+let
+	2 www.camgordon.org/contact.html
+	=2
+	(0)
+letters
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+level
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+levels
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+libraries
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+license
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/voter-information.html
+	=4
+	(0)
+licensing
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+licensure
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+life
+	ignored (6)
+light
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+lights
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+like
+	ignored (7)
+limited
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+limits
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+list
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+listener
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+lit
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+little
+	ignored (5)
+lived
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+lives
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+lobby
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+lobbyists
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+local
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=16
+	(2)
+local-food
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+locally
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+longfellow
+	4 www.camgordon.org/news.html
+	4 www.camgordon.org/news.html
+	4 www.camgordon.org/news.html
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=28
+	(4)
+losing
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+loss
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=6
+	(1)
+lot
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+louisiana
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+low
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+low-cost
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+low-heat
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+made
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=10
+	(1)
+maine
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+maintaining
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+maintenance
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+major
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=8
+	(1)
+make
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/priorities.html
+	3 www.camgordon.org/priorities.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=26
+	(4)
+makes
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+making
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=8
+	(1)
+manage
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+managed
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+mandate
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+many
+	ignored (5)
+map
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+mariana
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+marijuana
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+market
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/accomplishments.html
+	=14
+	(2)
+markets
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=14
+	(2)
+maryland
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+massachusetts
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+master
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+matching
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+matthews
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	=20
+	(3)
+maximum
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+mayor
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+mayoral
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+mcconnell
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+meaningful
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+measurements
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+meet
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+member
+	ignored (18)
+members
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+membership
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+mental
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+message
+	2 www.camgordon.org/contact.html
+	=2
+	(0)
+metals
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+method
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+mexico
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+michigan
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+mid
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+miles
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+million
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+mind
+	2 www.camgordon.org/contact.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+mini
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+minimum
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+minneapolis
+	ignored (181)
+minnehaha
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+minnesota
+	ignored (66)
+minor
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	=4
+	(0)
+minority-owned
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+misdemeanor
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+mississippi
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+missouri
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+mobile
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+model
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+modeling
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+monday
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+montana
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+montessori
+	ignored (15)
+montessorian
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+montessorians
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+months
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+more
+	ignored (57)
+most
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+motion
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+moving
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+mpls
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+much
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+mudslide
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+multifamily
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+municipal
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=6
+	(1)
+music
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+musician
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+namaste
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+name
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/contact.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=10
+	(1)
+nation-leading
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+nationally
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+natural
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+nbsp
+	ignored (5)
+ncr
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+near
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+nebraska
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+need
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+needed
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+neighbor
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+neighborhood
+	ignored (16)
+neighborhoods
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/priorities.html
+	=24
+	(4)
+neighbors
+	ignored (7)
+network
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+nevada
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+never
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+new
+	ignored (56)
+news
+	ignored (8)
+newsletters
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+newspaper
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+nieters
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+no-heat
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+noise
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+nonviolence
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=8
+	(1)
+north
+	ignored (9)
+northern
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+not
+	ignored (6)
+notably
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+notes
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+notification
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+november
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/voter-information.html
+	=4
+	(0)
+now
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+nrp
+	ignored (7)
+number
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	=10
+	(1)
+oak
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+occupancy
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+occur
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+occurs
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+october
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+off
+	ignored (6)
+offer
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+office
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	4 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=22
+	(3)
+officeholders
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+officer
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+officers
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+officials
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+ohio
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+oklahoma
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+old
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+one
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=6
+	(1)
+online
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+only
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+open
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+opening
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+operated
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+operator
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+opponent
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+opportunities
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+opportunity
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+opposed
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+order
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+ordinance
+	ignored (24)
+ordinances
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+oregon
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+organizations
+	ignored (8)
+organized
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=6
+	(1)
+organizer
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=14
+	(2)
+other
+	ignored (5)
+others
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+our
+	ignored (7)
+out
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=16
+	(2)
+outlying
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+outreach
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+over
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	=4
+	(0)
+oversight
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+own
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+owned
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+owner
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+pacific
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+package
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+packaging
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+page
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	=6
+	(1)
+paid
+	ignored (7)
+pairs
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+paper
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+parents
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+park
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=22
+	(3)
+parking
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+parks
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+parkway
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+part
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=4
+	(0)
+participation
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+partnership
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=20
+	(3)
+parts
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+party
+	ignored (25)
+pass
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+passed
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=6
+	(1)
+passes
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	=10
+	(1)
+passing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+past
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=18
+	(3)
+paying
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+pdf
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+peaceful
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+penalties
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+pennsylvania
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+people
+	ignored (21)
+peppers
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+perchloroethylene
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+performed
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+performer
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+permanent
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+perspectives
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+phase
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+phase-out
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+phone
+	4 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	4 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	4 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=12
+	(2)
+pipeline
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+place
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	2 www.camgordon.org/priorities.html
+	2 www.camgordon.org/voter-information.html
+	=8
+	(1)
+places
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+plan
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	=14
+	(2)
+planning
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+plantings
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+plastic
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+played
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+please
+	3 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	3 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+police
+	ignored (9)
+policies
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+policy
+	ignored (12)
+political
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=14
+	(2)
+pollinator-friendly
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+polling
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+pollution
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+poorest
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+positions
+	ignored (5)
+possible
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+poverty
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+power
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=6
+	(1)
+powerful
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+practices
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	=4
+	(0)
+precinct
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+preference
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+prekindergarten
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+premises
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+preserve
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+president
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+prevent
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=10
+	(1)
+prevention
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+prevents
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+previously
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+price
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+primary
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+principles
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+priorities
+	ignored (9)
+prioritizes
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+private
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+proactive
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+problem
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	=4
+	(0)
+process
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+processing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+produce
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+production
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+products
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+professional
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+professionally
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+professionals
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+proficiency
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+profile
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+program
+	ignored (12)
+programs
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=26
+	(4)
+progressive
+	3 www.camgordon.org/index.html
+	3 www.camgordon.org/index.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=22
+	(3)
+prohibited
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+prohibiting
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+prohibits
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+projects
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+promotes
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+properties
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+proportional
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+proposed
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+prospect
+	ignored (5)
+protect
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+protected
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=20
+	(3)
+protecting
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+protections
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+protests
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+proven
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+provide
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+provides
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+providing
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+psychenauts
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+public
+	ignored (12)
+publications
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+published
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=16
+	(2)
+puerto
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+purposeful
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+pursuit
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+pushed
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+pushing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+put
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+qualify
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+quick
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+quote
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+quoted
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+r.t
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+race
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=4
+	(0)
+racer
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+racial
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=6
+	(1)
+racism
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+racist
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+raise
+	3 www.camgordon.org/priorities.html
+	3 www.camgordon.org/priorities.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+raised
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+ramsey
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+rank
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+ranked
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/voter-information.html
+	=8
+	(1)
+rather
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+ratios
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+rcv
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+re-decking
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+re-elected
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+reach
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+read
+	ignored (10)
+realize
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+receive
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+recognition
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+recognized
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+recommit
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+reconstructing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+record
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+recyclable
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+recycle
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+recycling
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=24
+	(4)
+red
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+redefine
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+redevelopment
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+redraft
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+reduce
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=4
+	(0)
+reducing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+reduction
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+reelected
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+reelection
+	ignored (21)
+reform
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+reforming
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+reforms
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+refund
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+regional
+	ignored (11)
+register
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/voter-information.html
+	=4
+	(0)
+registered
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+registration
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/voter-information.html
+	=4
+	(0)
+regulations
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+regulatory
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+related
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+relaxing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+removing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+rental
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+renting
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+repair
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+repealing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+reporter
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+reporting
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+reporting.phone
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+reports
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+representation
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+representative
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+representatives
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+representing
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+required
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+requirements
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+requires
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	=12
+	(2)
+requiring
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	5 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=20
+	(3)
+research
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+residents
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+resolution
+	ignored (7)
+resources
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+respond
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+responded
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+responding
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+response
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+responsible
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+responsive
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=8
+	(1)
+restaurant
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+restaurants
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+restrooms
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+retailers
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+revenue
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+review
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+revising
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+revitalization
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	=20
+	(3)
+revoke
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+rhode
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+rich
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+rico
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+rideshare
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+right
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+rights
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+rise
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+river
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=18
+	(3)
+riverside
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+rnc
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+robin
+	2 www.camgordon.org/contact.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=4
+	(0)
+rock
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+role
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+roundtable
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	4 www.camgordon.org/news/roundtable-discussion-trees.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	=18
+	(3)
+rules
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+running
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=8
+	(1)
+ruth
+	ignored (6)
+rybak
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+safe
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+safety
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+sales
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+same-day
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+samoa
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+sarah
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+say
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=4
+	(0)
+saying
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+school
+	ignored (7)
+schools
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+science
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+scrapping
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+script
+	ignored (25)
+second
+	ignored (21)
+secondary
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+secretary
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/about-cam.html
+	=8
+	(1)
+section
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+secure
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+see
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+seed
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+seiu
+	ignored (16)
+select
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/voter-information.html
+	=4
+	(0)
+sell
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+send
+	2 www.camgordon.org/contact.html
+	=2
+	(0)
+serve
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+served
+	ignored (12)
+serves
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+service
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+serving
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+set
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+setting
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+several
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+seward
+	ignored (27)
+share
+	ignored (8)
+shared
+	3 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	3 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+sharing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+shelters
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+shooting
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+shoring
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+shorter
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+shortly
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+should
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+show
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+showing
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+shown
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+sick
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+sidewalk
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+sidewalks
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+sierra
+	ignored (7)
+sight
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+sign
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/index.html
+	=8
+	(1)
+significant
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+significantly
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+signing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+simplifying
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+since
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=26
+	(4)
+siting
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+six
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+skills
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+skyways
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+small
+	ignored (8)
+smoking
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+soccer
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+social
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+soil
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+solar
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+solver
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+solves
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+some
+	ignored (7)
+song
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+sonora
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+south
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	=6
+	(1)
+southeast
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+space
+	ignored (5)
+speech
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+spitting
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+sports
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+spur
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+stadium
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=14
+	(2)
+staff
+	ignored (8)
+stake
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+standards
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+standing
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+staple
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+star
+	ignored (6)
+start
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+state
+	ignored (19)
+states
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+stay
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+steering
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+stiffened
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+stock
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+stopped
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+stops
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+stores
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=12
+	(2)
+stories
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+storm
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+strategies
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+street
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=14
+	(2)
+streets
+	ignored (5)
+strengthened
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+strong
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=10
+	(1)
+structures
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+students
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+study
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+studying
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+subject
+	2 www.camgordon.org/contact.html
+	=2
+	(0)
+subscribe
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+substantially
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+successful
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+such
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+summer
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+support
+	ignored (9)
+supported
+	ignored (5)
+supporting
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+supports
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+surly
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+sustainability
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/priorities.html
+	=8
+	(1)
+sustainable
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+swinging
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+system
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=4
+	(0)
+systems
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+t-rex
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+tackling
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+takeaction
+	ignored (6)
+taking
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	=8
+	(1)
+talented
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+talk
+	ignored (6)
+target
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+targeted
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=6
+	(1)
+task
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+taught
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+tax
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+taxes
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+taxi
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+tce
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+tcf
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+teacher
+	ignored (5)
+teaching
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+team
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=6
+	(1)
+technical
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+tenant
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+tenants
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+tennessee
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+term
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+texas
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+than
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=4
+	(0)
+that
+	ignored (31)
+the
+	ignored (1546)
+their
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/voter-information.html
+	=12
+	(2)
+them
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+there
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+these
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+think
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	3 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=6
+	(1)
+this
+	ignored (16)
+those
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+though
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+threats
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+three
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+through
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	4 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=20
+	(3)
+throwing
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+tie
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+timberland
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+time
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+tobacco
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+tobacco-only
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+today
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+together
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=22
+	(3)
+tool
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+top
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+touch
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+towers
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+towerside
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+town
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+toxin
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+track
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+tracking
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+trail
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+transit
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+transitions
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+transparent
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+transportation
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+treasurer
+	ignored (6)
+tree
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news/roundtable-discussion-trees.html
+	3 www.camgordon.org/news/roundtable-discussion-trees.html
+	=12
+	(2)
+trees
+	ignored (12)
+triclosan
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+trucks
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+true
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=4
+	(0)
+tuesday
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+turbines
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+twin
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+two
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+type
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=2
+	(0)
+types
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+u-area
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+ultimate
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+unanimously
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/green-party-endorses-cam-0.html
+	=4
+	(0)
+underage
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+undergraduate
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+understands
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+unit
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+united
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	=4
+	(0)
+university
+	ignored (7)
+unnecessary
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+unpaid
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+unsubscribe
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+updates
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+urban
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=20
+	(3)
+use
+	ignored (11)
+used
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+using
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+utah
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+utility
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/voter-information.html
+	=4
+	(0)
+value
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+values
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+variety
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+vegetables
+	2 www.camgordon.org/accomplishments.html
+	=2
+	(0)
+vendors
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+vermont
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+vice
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+victories
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=2
+	(0)
+vikings
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+violence
+	ignored (5)
+virgin
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+virginia
+	3 www.camgordon.org/donateefe9.html
+	3 www.camgordon.org/donateefe9.html
+	=6
+	(1)
+vision
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+visit
+	ignored (5)
+vitally
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+voice
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=10
+	(1)
+volunteer
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	3 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=12
+	(2)
+vote
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/about-cam.html
+	=8
+	(1)
+voter
+	ignored (9)
+voters
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+votes
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	3 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	=10
+	(1)
+voting
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/voter-information.html
+	=10
+	(1)
+vouch
+	2 www.camgordon.org/voter-information.html
+	=2
+	(0)
+wage
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+walking
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+want
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=6
+	(1)
+ward
+	ignored (63)
+was
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	=12
+	(2)
+washington
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=4
+	(0)
+waste
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+water
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+watering
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/roundtable-discussion-trees.html
+	=4
+	(0)
+way
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+ways
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+wealth
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=2
+	(0)
+website
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	=6
+	(1)
+welcome
+	2 www.camgordon.org/index.html
+	=2
+	(0)
+welcoming
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+well
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	5 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	=22
+	(3)
+went
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+were
+	2 www.camgordon.org/news/cam-votes-progressive-city-budget.html
+	=2
+	(0)
+west
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/donateefe9.html
+	=20
+	(3)
+what
+	ignored (21)
+whatever
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+where
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/voter-information.html
+	=10
+	(1)
+whether
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+which
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=10
+	(1)
+while
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=8
+	(1)
+who
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	3 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/voter-information.html
+	=18
+	(3)
+whole
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+why
+	2 www.camgordon.org/news/mn-daily-cams-reelection-campaign.html
+	=2
+	(0)
+widely
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+will
+	ignored (8)
+win
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/council-passes-cams-intentional-community-ordinance.html
+	=6
+	(1)
+wind
+	3 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/accomplishments.html
+	=6
+	(1)
+winery
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=6
+	(1)
+winning
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+winter
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+wisconsin
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+wisdom
+	2 www.camgordon.org/priorities.html
+	=2
+	(0)
+with
+	ignored (59)
+within
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=6
+	(1)
+work
+	ignored (9)
+worked
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+worker
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+workers
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=6
+	(1)
+working
+	ignored (8)
+world
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	4 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/afscme-endorses-cam.html
+	=16
+	(2)
+writer
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	=6
+	(1)
+writing
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=2
+	(0)
+wyoming
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+xcel
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+year
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/voter-information.html
+	=10
+	(1)
+years
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/index.html
+	2 www.camgordon.org/news.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	2 www.camgordon.org/news/seiu-endorses-cam-0.html
+	=12
+	(2)
+york
+	2 www.camgordon.org/donateefe9.html
+	=2
+	(0)
+you
+	ignored (18)
+young
+	2 www.camgordon.org/about-cam.html
+	=2
+	(0)
+your
+	4 www.camgordon.org/contact.html
+	4 www.camgordon.org/contact.html
+	4 www.camgordon.org/contact.html
+	3 www.camgordon.org/voter-information.html
+	3 www.camgordon.org/voter-information.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/news/kick-cams-reelection-campaign.html
+	=24
+	(4)
+youth
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	4 www.camgordon.org/accomplishments.html
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/about-cam.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	3 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	2 www.camgordon.org/priorities.html
+	=26
+	(4)
+zip
+	2 www.camgordon.org/donateefe9.html
+	2 www.camgordon.org/get-involved-sign-help-campaign-team.html
+	=4
+	(0)
+zone
+	2 www.camgordon.org/news/cams-accomplishments-2014-2016.html
+	=2
+	(0)
+zoning
+	2 www.camgordon.org/about-cam.html
+	2 www.camgordon.org/accomplishments.html

@@ -1,0 +1,545 @@
+/* GLOBAL ********************************* */
+/* ----- Body ------------------------ */
+html {}
+body {
+	font-family: 'Montserrat', sans-serif;
+	height: 100%;
+}
+
+
+/* ----- Text ------------------------ */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	margin-top: 0;
+	text-transform:uppercase;
+}
+h2 {
+	font-size: 18px;
+}
+h3 {
+	font-size: 16px;
+}
+a:hover {
+	opacity:.8;
+	text-decoration:none;
+}
+/* ----- Links ----------------------- */
+/* ----- Lists ----------------------- */
+
+/* ----- Tables ---------------------- */
+/* ----- Forms ----------------------- */
+
+/* HEADER ********************************* */
+/* ----- Header Region --------------- */
+/* ----- Search Box ------------------ */
+/* ----- Logo ------------------------ */
+/* ----- Site Title and Slogan ------- */
+header.header .container{
+	position: relative;
+}
+header a.logo {
+	display:block;
+	padding:25px;
+	width: auto;
+}		
+header a.logo img {
+	width: auto;
+}
+
+/* NAVIGATION ***************************** */
+/* ----- Main Navigation ------------- */
+div.navigation {
+	z-index: 222;
+}
+.navbar-nav>li>a {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 700;
+	text-transform:uppercase;
+}
+/* ----- Secondary Navigation -------- */
+/* ----- Breadcrumbs ----------------- */
+/* ----- First Sidebar Menu Blocks --- */
+/* ----- Second Sidebar Menu Blocks -- */
+/* ----- Admin Menu ------------------ */
+/* ----- Pager Nav ------------------- */
+/* ----- REPONSIVE NAVIGATION -------- */
+
+/* CONTENT ********************************** */
+body.no-sidebars #content {
+	margin: 0;
+	width: 100%;
+}
+figure {
+	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+	-webkit-margin-start: 0;
+	-webkit-margin-end: 0;
+	margin:0;
+}
+figure.field-name-field-primary-image {
+	margin-bottom:2px;
+}
+figure img {
+	width: 100%;
+}
+a.btn {
+	margin-top: 5px;
+}
+a.btn.contribute {
+	margin-top: 0;
+}
+.more-link {
+	text-align: left;
+}
+/* VIEWS ********************************** */
+.view ul li.col-sm-3:first-child,
+.block ul li.col-sm-3:first-child,
+.block-views ul li.col-sm-3:first-child,
+.view ul li.col-sm-4:first-child,
+.block ul li.col-sm-4:first-child,
+.block-views ul li.col-sm-4:first-child {
+	padding-left: 0;
+}
+.view ul li.col-sm-3:last-child,
+.block ul li.col-sm-3:last-child,
+.block-views ul li.col-sm-3:last-child ,
+.view ul li.col-sm-4:last-child,
+.block ul li.col-sm-4:last-child,
+.block-views ul li.col-sm-4:last-child {
+	padding-right: 0;
+}
+/* ----- Search Results -------------- */
+
+/* CONTAINERS ***************************** */
+.main-container.nvregion {
+	padding: 20px 0;
+}
+.main-container .container {
+	position:relative;
+}
+body.not-front .main-container .container {
+	background: rgba(214,214,214,.7);
+	color:black;
+	padding: 10px;
+}
+
+.hero {
+	background-position:50% 100%;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.ngp>section.col-sm-12 {
+	padding-right: 0;
+	padding-left: 0;
+}
+/* OBERON ***************************** */
+.panel-default>.panel-heading+.panel-collapse .panel-body {
+	border:0;
+	padding:0;
+}
+body.placeholder .group-accelerator {
+	padding:0;
+	margin-bottom:20px;
+}
+body.placeholder fieldset.group-ngpaction {
+	background-color:transparent;
+	border:0;
+	clear: both;
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 0;
+	width:100%;
+}
+body.placeholder div.group-contrib,
+body.placeholder div.group-signup {
+	padding:0;
+}
+body.placeholder .group-ngpaction h3,
+body.placeholder .group-ngpaction h4 {
+	color:#817a72;
+}
+body.placeholder fieldset.group-ngpaction legend,
+body.placeholder .group-ngpaction div.markup-FastAction,
+body.placeholder .group-ngpaction div.markup-UpdateMyProfile,
+body.placeholder .group-ngpaction .ngp-form div.markup-HeaderHtml,
+body.placeholder .group-ngpaction .ngp-form div.markup-FooterHtml,
+body.placeholder .group-ngpaction .nv-template-accelerator .fieldset-wrapper label,
+body.placeholder .group-ngpaction .ngp-form legend {
+	display:none;
+}
+body.placeholder .group-ngpaction .ngp-form.nv-template-accelerator fieldset {
+	margin: 0;
+}
+body.placeholder  .group-ngpaction .nv-template-accelerator .fieldset-wrapper>.form-item {
+	padding: 0;
+}
+body.placeholder  .nv-template-accelerator fieldset input {
+	border-radius: 0;
+	color:#444;
+}
+body.placeholder  .group-ngpaction .nv-template-accelerator .fieldset-wrapper {
+	padding-top: 0;
+}
+body.placeholder .group-ngpaction fieldset#edit-contactinformation {
+	padding: 0;
+}
+.group-ngpaction .ngp-col fieldset input, .group-ngpaction .ngp-col fieldset select {
+		margin-left: 0;
+		padding-left: 15px;
+}
+body.placeholder .group-ngpaction .nv-template-accelerator button,
+body.placeholder .group-ngpaction .nv-template-accelerator input.form-submit {
+	background-image:none;
+	border:0;
+	border-radius:0;
+	clear: both;
+	display: block;
+	font-size: 1em;
+	height: auto;
+	min-height: 2.5em;
+	margin:0 auto;
+	padding:0;
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+}
+body.html .nv-template-accelerator input.form-submit {
+	background-image:none;
+	border:0;
+	clear: both;
+	display: block;
+	font-size: 1em;
+	height: auto;
+	min-height: 2.5em;
+	padding:20px;
+	min-width:320px;
+}
+body.placeholder .group-ngpaction .nv-template-accelerator button:hover,
+body.placeholder .group-ngpaction .nv-template-accelerator input.form-submit:hover {
+	opacity:.98;
+}
+body.placeholder .group-ngpaction  .field-name-field-contribute {
+	margin-bottom:0;
+}
+body.placeholder .group-ngpaction  a.contribute {
+	border-radius:0;
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 85px;
+	height: 85px;
+	padding: 0;
+	text-shadow:none;
+	text-transform: uppercase;
+	width:100%;
+}
+body.placeholder .group-ngpaction .content.thankYou {
+	background: #ccc;
+	color: #000;
+	padding: 10px;
+	text-align: left;
+}
+
+/* ----- CONTRIBUTION FORM ----------------------- */
+#content div.fastAction  a.profile-link.toggle-menu img {
+	width:auto;
+}
+.multistep-layout {
+	background: #fff;
+}
+body .multistep-layout header.span {
+	display:none;
+}
+body .multistep-layout {
+	max-width: 600px;
+}
+/* Quicksignup 	*********************************** */
+
+
+/* Contribution Forms ***************************** */
+#content div.fastAction  a.profile-link.toggle-menu img {
+	width:auto;
+}
+.multistep-layout {
+	background: #fff;
+}
+
+/* ----- Blocks ---------------------- */
+section.social {
+	float:none;
+	margin:0 auto;
+}
+/* ----- Wells ----------------------- */
+/* ----- Callouts and Blockquotes ---- */
+
+/* ----- Pullquote Text -------------- */
+
+/* POSTCARD LAYOUTS ********************** */
+
+/* IMAGES ******************************** */
+
+
+/* KICKER ********************************* */
+.kicker {
+	text-align:center;
+}
+/* FOOTER ********************************* */
+footer.footer {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAJElEQVQIW2NkYGD4D8SMQAwHMA6KBLIKuASKNphR6IIgc/8DAACiBQXgDbYOAAAAAElFTkSuQmCC);
+	background-repeat:repeat;
+	margin-top: 0;
+	padding: 40px 0 0 0;
+}
+footer .block {
+	text-align: left;
+}
+
+/* HELPER CLASSES ************************ */
+/* ----- Style ----------------------- */
+/* ----- Positioning ----------------- */
+/* ----- Sizing ---------------------- */
+
+/* GENERAL OVERRIDES ********************* */
+/* ----- Bootstrap Overrides --------- */
+/* ----- Field Collection Overrides -- */
+/* ----- Field Label Overrides ------- */
+.nvregion .container {
+	padding-right: 0;
+	padding-left: 0;
+}
+/* ADMINISTRATION ************************ */
+/* ----- Admin ----------------------- */
+/* ----- User Block ------------------ */
+
+/* MEDIA QUERIES ************************* */
+/* ----- Responsive ------------------ */
+/* ----- Print ----------------------- */
+
+@media (max-device-width: 480px) and (orientation: landscape) {}
+
+@media screen and (max-width: 599px){
+	body.placeholder .group-ngpaction fieldset#edit-contactinformation,
+	body.placeholder .group-ngpaction > div.field.field-name-field-contribute,
+	body.placeholder .group-ngpaction .nv-template-accelerator div.ngp-form-submit {
+		padding: 0;
+	}
+	body.placeholder .nv-template-accelerator .fieldset-wrapper .form-item {
+		float: none;
+		width: 100%;
+	}	
+}
+@media screen and (min-width: 600px){
+
+}
+
+@media (min-width: 561px) and (max-width: 767px){
+	body.placeholder .group-ngpaction .nv-template-accelerator .fieldset-wrapper>.form-item-EmailAddress {
+		float:left;
+		width:59%;
+	}
+	body.placeholder .group-ngpaction .nv-template-accelerator .fieldset-wrapper>.form-item-PostalCode {
+		float:right;
+		width:40%;
+	}
+}
+
+
+@media screen and (max-width: 767px){
+	header.header {
+		margin-top: 5px;
+		padding:0;
+	}
+	header a.logo {
+		display: block;
+		margin: 0 auto;
+	}
+	header a.logo img {
+		padding: 0;
+		width: 100%;
+	}
+	.nvregion,
+	.main-container.nvregion,
+	.container.nvregion {
+		padding:15px;
+		text-align:center;
+	}
+	body.placeholder div.group-contrib,
+	body.placeholder div.group-signup {
+		margin-bottom:10px;
+	}
+	body.placeholder .group-ngpaction h4.field-name-field-ngp-form-label {
+		margin:0;
+		padding: 5px 0;
+		text-align: center;
+	}	
+	body.placeholder .nv-template-accelerator .fieldset-wrapper>.form-item {
+		margin:5px 0;
+	}
+	body.placeholder .group-ngpaction .nv-template-accelerator button,
+	body.placeholder .group-ngpaction .nv-template-accelerator input.form-submit {
+		font-family: 'Oswald', sans-serif;
+		min-height: 2.5em;
+	}
+	body.placeholder .group-ngpaction .nv-template-accelerator button:before {
+		content: "Submit";
+		font-family: 'Oswald', sans-serif;
+		text-shadow: 0 1px 0 #000;
+		margin:0;
+		font-size: 18px;
+		width: auto;
+	}
+	body.placeholder nav.bigslide .navbar .nav>li>a {
+		font-family: 'Oswald', sans-serif;
+		text-align: left;
+		width: 100%;
+	}
+	.backstretch,
+	body.placeholder	nav.bigslide [class^="icon-"]:before, 
+	body.placeholder	nav.bigslide [class*=" icon-"]:before {
+		display:none;
+	}
+	footer .block {
+		text-align: center;
+	}
+}
+@media (min-width: 768px) {
+	.main-container.nvregion {
+		min-height: 445px;
+		padding-bottom: 75px;
+		position: initial;
+		z-index:3;
+	}
+	.navbar-header {
+		float: none;
+	}
+	.navbar-nav>li>a {
+		text-align: center;
+	}
+	body.placeholder .group-accelerator {
+		width:50%;
+	}
+	
+	xfieldset.group-ngpaction.inviewport {
+		position: absolute;
+		bottom: -100px;
+		z-index: 99999;
+	}
+	xfieldset.group-ngpaction.below {
+		position:fixed;
+	}
+	body.placeholder .group-ngpaction h4.field-name-field-ngp-form-label {
+		display: block;
+		float: left;
+		font-size: 15px;
+		line-height: 85px;
+		height: 85px;
+		margin: 0;
+		text-align: center;
+		width: 26%;	
+	}
+	body.placeholder .content-body .field-name-field-ngp-form-id {
+		float: left;
+		width: 74%;
+		margin-bottom: 0;
+	}
+	body.placeholder .group-ngpaction .ngp-form.nv-template-accelerator div.ngp-col, 
+	body.placeholder .group-ngpaction .ngp-form.nv-template-accelerator div.ngp-col-1 {
+		float: left;
+		padding-left: 0;
+		padding-right: 0;
+		width: 55%;
+	}
+	body.placeholder .group-ngpaction .nv-template-accelerator  div.ngp-form-submit {
+		float: left;
+		padding-right: 0;
+		width: 19%;
+	}
+	body.placeholder  .group-ngpaction .nv-template-accelerator .fieldset-wrapper>.form-item-EmailAddress {
+		width: 62%;
+	}
+	body.placeholder  .group-ngpaction .nv-template-accelerator .fieldset-wrapper>.form-item-PostalCode {
+		width: 38%;
+	}	
+	body.placeholder .group-ngpaction .nv-template-accelerator fieldset input,
+	body.placeholder .group-ngpaction .nv-template-accelerator button,
+	body.placeholder .group-ngpaction .nv-template-accelerator .ngp-col fieldset select,
+	body.placeholder .group-ngpaction .nv-template-accelerator input.form-submit  {
+		line-height: 85px;
+		height: 85px;
+		margin-left: 0;
+	}
+	body.placeholder .group-ngpaction .nv-template-accelerator button,
+	body.placeholder .group-ngpaction .nv-template-accelerator input.form-submit {
+		background-image:url(../images/envelope.png);
+		background-repeat:no-repeat;
+		background-position:center top;
+		text-indent:-9999px;
+	}
+	body.placeholder .group-ngpaction .nv-template-accelerator button {
+		border-radius: 0;
+		font-family: fontawesome;
+		font-size: 27px;
+	}
+	.navbar-nav>li>a.social{
+		display: block;
+		width: 50px;
+		height: 50px;
+		overflow: hidden;
+		font-size: 30px;
+		font-weight: normal;
+		margin: 0 auto;
+		padding:0;
+	}
+	body.placeholder [class^="icon-"]:before, body.placeholder [class*=" icon-"]:before {
+		background-image: none;
+		background-position: 0 0;
+		background-repeat: repeat;
+		display: block;
+		speak: none;
+		padding:0;
+		margin: 10px 0 0 0;
+		height: 50px;
+		line-height: 50px;
+		width: 50px;
+		vertical-align: middle;
+		text-decoration: inherit;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	body.placeholder fieldset.group-ngpaction.below {
+		width:750px;
+	}
+	ul.navbar-nav {
+		clear: both;
+		float: none;
+		display: table;
+		 table-layout: fixed;
+		width: 100%;
+	}
+	ul.navbar-nav>li.leaf {
+		float: none;
+		display: table-cell;
+		width: 100%;
+	}	
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+
+}
+
+@media (min-width: 992px) {
+	footer.footer {
+		min-height: 230px;
+	}
+	body.placeholder fieldset.group-ngpaction.below {
+		width:970px;
+	}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 1200px) {
+	body.placeholder fieldset.group-ngpaction.below {
+		width:1170px;
+	}
+}

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+raeishaforward5.com	TRUE	/	FALSE	1999999999	PHPSESSID	61816kheqbfn3ee7ji59gq79t0
+raeishaforward5.com	TRUE	/	FALSE	1999999999	locale	en-us
+

@@ -1,4 +1,4 @@
-HTTrack3.48-23 launched on Sun, 22 Jan 2017 16:53:51 at http://raeishaforward5.com/
+HTTrack3.48-23 launched on Sun, 22 Jan 2017 17:11:12 at http://raeishaforward5.com/
 (httrack http://raeishaforward5.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W05-WILLIAMS-raeishaforward5.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q )
 
 Information, Warnings and Errors reported for this mirror:
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.48-23 mirror complete in 2 seconds : 2 links scanned, 2 files written (60686 bytes overall), 2 files updated [12744 bytes received at 6372 bytes/sec], 60686 bytes transferred using HTTP compression in 2 files, ratio 19%, 2.0 requests per connection
+HTTrack Website Copier/3.48-23 mirror complete in 2 seconds : 2 links scanned, 2 files written (60686 bytes overall), 2 files updated [12746 bytes received at 6373 bytes/sec], 60686 bytes transferred using HTTP compression in 2 files, ratio 19%, 2.0 requests per connection
 (No errors, 0 warnings, 0 messages)

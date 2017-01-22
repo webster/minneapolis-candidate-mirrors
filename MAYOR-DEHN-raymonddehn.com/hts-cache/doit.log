@@ -1,5 +1,5 @@
-https://www.raymonddehn.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-DEHN-raymonddehn.com/ -%I -F Mozilla/5.0 -%F " "
-File generated automatically on Sun, 22 Jan 2017 06:42:39, do NOT edit
+https://www.raymonddehn.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-DEHN-raymonddehn.com/ -%I -F Mozilla/5.0 -%F " " -q
+File generated automatically on Sun, 22 Jan 2017 06:49:59, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

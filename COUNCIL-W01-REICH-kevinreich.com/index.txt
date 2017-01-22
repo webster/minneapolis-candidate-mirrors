@@ -346,7 +346,7 @@ anchors
 	=2
 	(0)
 and
-	ignored (588)
+	ignored (587)
 anew
 	3 www.kevinreich.com/pages/building-community/edison-jackson-square-park/index.html
 	3 www.kevinreich.com/pages/building-community/edison-jackson-square-park/index.html
@@ -1133,6 +1133,7 @@ civil
 	=2
 	(0)
 click
+	2 www.kevinreich.com/pages
 	2 www.kevinreich.com/pages/building-community/public-safety/index.html
 	2 www.kevinreich.com/pages/going-green/bicycling/index.html
 	2 www.kevinreich.com/pages/going-green/green-campus/index.html
@@ -1143,7 +1144,7 @@ click
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/creative-business-openings/index.html
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/new-theater-offerings/index.html
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/property-redevelopment/index.html
-	=20
+	=22
 	(3)
 clients
 	2 www.kevinreich.com/pages/encouraging-entrepreneurs/promoting-a-creative-economy/creative-business-openings/index.html
@@ -2538,7 +2539,7 @@ hard
 	=2
 	(0)
 has
-	ignored (11)
+	ignored (12)
 have
 	3 www.kevinreich.com/pages/building-community/road-repair-maintenance/index.html
 	3 www.kevinreich.com/pages/building-community/road-repair-maintenance/index.html
@@ -2603,6 +2604,7 @@ hennepin
 	=2
 	(0)
 here
+	2 www.kevinreich.com/pages
 	2 www.kevinreich.com/pages/building-community/public-safety/index.html
 	2 www.kevinreich.com/pages/going-green/bicycling/index.html
 	2 www.kevinreich.com/pages/going-green/green-campus/index.html
@@ -2614,7 +2616,7 @@ here
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/creative-business-openings/index.html
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/new-theater-offerings/index.html
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/property-redevelopment/index.html
-	=22
+	=24
 	(3)
 high
 	ignored (7)
@@ -3530,7 +3532,7 @@ million
 	=4
 	(0)
 minneapolis
-	ignored (34)
+	ignored (33)
 minnesota
 	2 www.kevinreich.com/pages/about/index.html
 	=2
@@ -3605,6 +3607,7 @@ mountain
 	=2
 	(0)
 moved
+	2 www.kevinreich.com/pages
 	2 www.kevinreich.com/pages/about/index.html
 	2 www.kevinreich.com/pages/building-community/public-safety/index.html
 	2 www.kevinreich.com/pages/encouraging-entrepreneurs/small-business-legislation/index.html
@@ -3617,8 +3620,8 @@ moved
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/creative-business-openings/index.html
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/new-theater-offerings/index.html
 	2 www.kevinreich.com/pages/promoting-a-creative-economy/property-redevelopment/index.html
-	=24
-	(3)
+	=26
+	(4)
 moving
 	2 www.kevinreich.com/pages/building-community/open-forums/index.html
 	2 www.kevinreich.com/pages/public-safety/index.html
@@ -5490,7 +5493,7 @@ text
 that
 	ignored (11)
 the
-	ignored (1081)
+	ignored (1080)
 theater
 	ignored (12)
 theatre

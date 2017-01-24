@@ -1,4 +1,4 @@
-HTTrack3.48-23 launched on Sun, 22 Jan 2017 17:09:46 at http://stevefletcher.org/
+HTTrack3.48-23 launched on Tue, 24 Jan 2017 19:42:18 at http://stevefletcher.org/
 (httrack http://stevefletcher.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W03-FLETCHER-stevefletcher.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,14 +6,14 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-17:09:49	Error: 	"Not Found" (404) at link stevefletcher.org/demo-multipage-index.html (from stevefletcher.org/)
-17:09:53	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.eot (from stevefletcher.org/css/bootstrap.min.css)
-17:09:54	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.eot? (from stevefletcher.org/css/bootstrap.min.css)
-17:09:54	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.woff2 (from stevefletcher.org/css/bootstrap.min.css)
-17:09:54	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.woff (from stevefletcher.org/css/bootstrap.min.css)
-17:09:54	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.ttf (from stevefletcher.org/css/bootstrap.min.css)
-17:09:54	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.svg (from stevefletcher.org/css/bootstrap.min.css)
-17:09:55	Warning: 	File not parsed, looks like binary: stevefletcher.org/fonts/fontawesome-webfont.woff2?v=4.3.0
+19:42:21	Error: 	"Not Found" (404) at link stevefletcher.org/demo-multipage-index.html (from stevefletcher.org/)
+19:42:25	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.eot (from stevefletcher.org/css/bootstrap.min.css)
+19:42:25	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.eot? (from stevefletcher.org/css/bootstrap.min.css)
+19:42:25	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.woff2 (from stevefletcher.org/css/bootstrap.min.css)
+19:42:26	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.woff (from stevefletcher.org/css/bootstrap.min.css)
+19:42:26	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.ttf (from stevefletcher.org/css/bootstrap.min.css)
+19:42:26	Error: 	"Not Found" (404) at link stevefletcher.org/fonts/glyphicons-halflings-regular.svg (from stevefletcher.org/css/bootstrap.min.css)
+19:42:26	Warning: 	File not parsed, looks like binary: stevefletcher.org/fonts/fontawesome-webfont.woff2?v=4.3.0
 
-HTTrack Website Copier/3.48-23 mirror complete in 11 seconds : 68 links scanned, 61 files written (6877800 bytes overall), no files updated [29847 bytes received at 2713 bytes/sec], 22.6 requests per connection
+HTTrack Website Copier/3.48-23 mirror complete in 11 seconds : 68 links scanned, 61 files written (6877732 bytes overall), 2 files updated [95959 bytes received at 8723 bytes/sec], 17.0 requests per connection
 (7 errors, 1 warnings, 0 messages)

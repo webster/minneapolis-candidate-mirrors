@@ -58,7 +58,7 @@ anaiowakansaskentuckylouisianamainemarshall
 	=4
 	(4)
 and
-	ignored (1381)
+	ignored (1390)
 anne
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -183,7 +183,7 @@ cathy
 	=2
 	(2)
 caucus
-	ignored (25)
+	ignored (26)
 change
 	ignored (7)
 changing
@@ -292,7 +292,10 @@ don
 donate
 	ignored (16)
 donated
-	ignored (9)
+	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
+	=4
+	(4)
 donating
 	ignored (14)
 donation
@@ -382,7 +385,7 @@ federationrwandaraeunionsaint
 	=4
 	(4)
 for
-	ignored (119)
+	ignored (120)
 forces
 	ignored (28)
 french
@@ -599,7 +602,7 @@ jan
 	=4
 	(4)
 jeanne
-	ignored (14)
+	ignored (7)
 jerseynew
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -767,7 +770,7 @@ mexiconew
 	=4
 	(4)
 minneapolis
-	ignored (72)
+	ignored (73)
 minor
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -961,10 +964,6 @@ rastetter
 	2 nekima.nationbuilder.com/index.html
 	=2
 	(2)
-reaction
-	2 nekima.nationbuilder.com/donate.html
-	=2
-	(2)
 real
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -1076,9 +1075,9 @@ schanilec
 	=2
 	(2)
 schnitzen
-	ignored (14)
+	ignored (7)
 script
-	ignored (1410)
+	ignored (1418)
 see
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1099,10 +1098,6 @@ sharon
 	(2)
 shift
 	2 nekima.nationbuilder.com/index.html
-	=2
-	(2)
-showing
-	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 sign
@@ -1199,7 +1194,7 @@ that
 	=4
 	(4)
 the
-	ignored (220)
+	ignored (222)
 thecook
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1350,7 +1345,7 @@ yorknorth
 you
 	ignored (37)
 your
-	ignored (79)
+	ignored (80)
 zealandnicaraguanigernigerianiuenorfolk
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html

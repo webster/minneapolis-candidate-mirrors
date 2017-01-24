@@ -1,5 +1,5 @@
-HTTrack3.48-23 launched on Sun, 22 Jan 2017 17:05:35 at https://www.raymonddehn.com/
-(httrack https://www.raymonddehn.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-DEHN-raymonddehn.com/ -%I -F Mozilla/5.0 -%F " " -q -q -q -q -q )
+HTTrack3.48-23 launched on Tue, 24 Jan 2017 18:44:32 at https://www.raymonddehn.com/
+(httrack https://www.raymonddehn.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-DEHN-raymonddehn.com/ -%I -F Mozilla/5.0 -%F " " -q -q -q -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.48-23 mirror complete in 22 seconds : 9 links scanned, 8 files written (303208 bytes overall), no files updated [2326 bytes received at 105 bytes/sec], 255 bytes transferred using HTTP compression in 1 files, ratio 100%
+HTTrack Website Copier/3.48-23 mirror complete in 8 seconds : 9 links scanned, 8 files written (303012 bytes overall), 7 files updated [75978 bytes received at 9497 bytes/sec], 236943 bytes transferred using HTTP compression in 6 files, ratio 27%
 (No errors, 0 warnings, 0 messages)

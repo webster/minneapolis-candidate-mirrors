@@ -2,19 +2,38 @@ ability
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
+able
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=4
+	(0)
 about
-	ignored (12)
+	ignored (24)
+absence
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 accepted
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
+accepted.the
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+accessible
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 according
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
-	=8
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=10
 	(2)
 accountability
 	2 www.cunninghammpls.org/issues/public-safety.html
@@ -33,24 +52,30 @@ across
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 actionphillipe
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 active
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+activist
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
+	(1)
 activity
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 activity.as
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
@@ -61,57 +86,69 @@ actually
 	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=8
-	(2)
+	(1)
 addition
-	ignored (8)
+	ignored (5)
 address
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/volunteer/index.html
 	=6
-	(2)
+	(1)
 addressing
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
+	=2
+	(0)
+adds
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 administrative
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
 	(0)
+adorned
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 advise
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 advising
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 advisor
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 advisory
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 advocacy
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
 advocate
-	ignored (20)
+	ignored (12)
 advocated
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+advocates
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 aeaeae
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -120,99 +157,194 @@ aexpertise
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 afford
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
+affordable
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 afterschool
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 against
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 age
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+ages
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 ago
-	ignored (10)
+	ignored (7)
 agree
 	ignored (8)
+aid
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+aide
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=4
+	(0)
+aims
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+alisten
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 all
-	ignored (10)
+	ignored (11)
+alondra
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+alongside
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 already
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
-	=4
-	(1)
+	=10
+	(2)
 also
-	ignored (5)
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/community-wealth-building.html
+	2 www.cunninghammpls.org/issues/public-safety.html
+	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	2 www.cunninghammpls.org/meet-phillipe.html
+	2 www.cunninghammpls.org/meet-phillipe/index.html
+	=16
+	(3)
+although
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 american
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 amoving
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 and
-	ignored (558)
+	ignored (468)
+andrea
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+announce
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 annual
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
+another
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+anyone
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 aother
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 apart
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+aphillipe
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 appointed
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 are
-	ignored (11)
+	ignored (8)
+aread
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+arguments
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 around
 	2 www.cunninghammpls.org/issues/public-safety.html
-	=2
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=4
 	(0)
 arrested
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
+article
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=8
+	(1)
 ascension
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 aserving
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+ask
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+asked
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 association
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+ate
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 ator-show
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
@@ -221,86 +353,170 @@ ator-show
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=12
-	(4)
+	(2)
 attending
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+attends
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 augustine
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
+author
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
 autism
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 autoworkers
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 average
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
+away
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+awesome
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 ayouth
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 back
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=10
 	(2)
-background-color
-	2 www.cunninghammpls.org/volunteer/index.html
+backs
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+balance
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=12
+	(2)
+balding
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+baldwin
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+ballots
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 banking
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
 	(0)
+barb
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=20
+	(4)
+barbers
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+barbershop
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=12
+	(2)
 based
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+basic
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
+bathroom
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+bathrooms
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+bayard
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 became
-	ignored (8)
+	ignored (5)
 because
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	=10
+	(2)
 become
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+becoming
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=4
+	(0)
 been
-	2 www.cunninghammpls.org/index.html
+	ignored (11)
+before
+	3 www.cunninghammpls.org/issues/public-safety.html
+	3 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
-	=8
-	(2)
-before
-	ignored (5)
+	2 www.cunninghammpls.org/issues/smart-governing.html
+	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=16
+	(3)
 began
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 begin
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
@@ -309,98 +525,145 @@ behavior
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 behavioral
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 being
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=6
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=14
+	(3)
 below
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
 	(0)
+best
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 betsy
-	2 www.cunninghammpls.org/meet-phillipe.html
-	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	ignored (6)
 better
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 beyond
+	4 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=22
+	(4)
 big
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/index.html
 	=6
-	(2)
+	(1)
 biggest
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 bio
-	ignored (10)
+	ignored (9)
 black
-	2 www.cunninghammpls.org/volunteer/index.html
+	ignored (5)
+blazed
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 block
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 bloglist-item
-	ignored (12)
+	ignored (7)
+blong
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 blue-collar
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 board
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 bobby
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+bodes
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+book
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 boorweawem
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
+born
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+both
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 boundaries
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+boy
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 boys
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
+bridge
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 bring
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=6
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
+	(1)
 brings
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+brogan
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
 brought
 	3 www.cunninghammpls.org/meet-phillipe.html
@@ -408,12 +671,9 @@ brought
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
-build
-	3 www.cunninghammpls.org/issues/youth-opportunities.html
-	3 www.cunninghammpls.org/issues/youth-opportunities.html
-	=6
 	(2)
+build
+	ignored (7)
 building
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
@@ -422,7 +682,7 @@ building
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=14
-	(4)
+	(3)
 buildingthe
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -430,30 +690,70 @@ buildingthe
 built
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
+bulb
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 business
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=14
+	(3)
 businesses
 	2 www.cunninghammpls.org/index.html
 	=2
+	(0)
+but
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
+	(1)
+cai
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=4
 	(0)
 call
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 campaign
-	ignored (28)
+	ignored (27)
+campaign.he
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 can
-	ignored (9)
+	ignored (8)
+candidacy
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
+candidate
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
 candidates
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
 	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=18
+	(3)
+cano
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 canvassing
@@ -464,7 +764,11 @@ capitol
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+card
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 career
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
@@ -472,12 +776,17 @@ career
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+cast
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
 cats
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 caucusing
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
@@ -488,17 +797,38 @@ census
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
 central
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 century
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+challenge
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+challenged
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+challenger
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+challenging
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+challenging.in
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 champion
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -507,24 +837,29 @@ change
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+changing
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
 check
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 checks
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
 chicago
-	ignored (20)
+	ignored (13)
 childhood
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 children
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
@@ -533,31 +868,49 @@ children
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=14
-	(4)
+	(3)
 ci7hicnujt
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+cities
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 cities.phillipe
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 city
-	ignored (111)
+	ignored (120)
+citypages
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=14
+	(3)
 civically
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=2
+	(0)
+civil
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 civilly-minded
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 classroom
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
 climate
 	2 www.cunninghammpls.org/index.html
@@ -565,19 +918,31 @@ climate
 	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=8
-	(2)
+	(1)
+closer
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 club
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+co-coordinator
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 co-facilitator
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 code
 	2 www.cunninghammpls.org/volunteer/index.html
+	=2
+	(0)
+collected
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 college
@@ -586,25 +951,50 @@ college
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
 color
-	ignored (8)
+	ignored (5)
+color.cunningham
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+come
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+comfortable
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
+coming
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 commitment
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 committee
-	ignored (13)
+	ignored (8)
 community
-	ignored (85)
+	ignored (58)
+competing
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 completing
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 concert
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+conditioned
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 constituent
@@ -613,62 +1003,118 @@ constituent
 	(0)
 constituents
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=2
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
 	(0)
 consultant
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
+contemplating
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+contends
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+contest
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 continue
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=10
-	(3)
+	(2)
 contract
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+conversations
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 coordinator
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 cornfields
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+cory
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+could
+	ignored (5)
+couldn
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 council
-	ignored (10)
+	ignored (42)
 councilmember
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=6
-	(2)
+	(1)
+count
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+counters
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+course
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 create
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=6
-	(2)
+	(1)
+creek
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 criminal
-	ignored (14)
+	ignored (9)
+cristeta
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
+cross
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 cunningham
-	ignored (24)
+	ignored (85)
 cunningham-december
-	ignored (25)
+	ignored (16)
 cunningham.phillipe
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 cunninghammpls
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+curious
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 current
@@ -677,18 +1123,46 @@ current
 	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=8
-	(2)
+	(1)
 currently
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+curriculum
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 cycle
 	3 www.cunninghammpls.org/issues/public-safety.html
 	3 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/index.html
 	=8
+	(1)
+cycles
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+dailyplanet
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=12
 	(2)
+day
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+debating
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
+december
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 decision-making
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -698,20 +1172,49 @@ demanding
 	=2
 	(0)
 democracy
-	ignored (7)
+	4 www.cunninghammpls.org/issues/smart-governing.html
+	4 www.cunninghammpls.org/issues/smart-governing.html
+	4 www.cunninghammpls.org/issues/smart-governing.html
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/index.html
+	2 www.cunninghammpls.org/issues/index8535.html
+	=22
+	(4)
+democrat
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+democrats
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 depaul
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
+deserts
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
 detailed
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
 	(0)
+develop
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 development
-	ignored (14)
+	ignored (9)
 developmentally-appropriate
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=2
+	(0)
+dfl
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 differences
@@ -722,39 +1225,60 @@ direct
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 directed
 	ignored (7)
+direction
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 discipline
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+discussions
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 disorders
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+disparities
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 display
 	2 www.cunninghammpls.org/index.html
-	=2
+	2 www.cunninghammpls.org/volunteer/index.html
+	=4
 	(0)
 disrupt
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
 	(0)
 diversity
-	ignored (8)
+	ignored (5)
+documents
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 dogs
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+doing
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 donald
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 donate
 	ignored (8)
 donating
@@ -765,24 +1289,84 @@ down
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+drank.cunningham
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+dread
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 during
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=12
+	(2)
+e960s
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+e9black
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+e9d
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+e9i
+	5 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	5 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	5 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	5 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=22
+	(4)
+e9m
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=12
+	(2)
 e9my
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+e9re
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=6
 	(1)
 e9s
-	ignored (43)
+	ignored (48)
+e9t
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=12
+	(2)
+e9ve
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+e9when
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
 earliest
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+early
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 earn
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
@@ -792,52 +1376,80 @@ economic
 	4 www.cunninghammpls.org/issues/community-wealth-building.html
 	4 www.cunninghammpls.org/issues/community-wealth-building.html
 	=12
-	(4)
+	(2)
 economy
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
 education
-	ignored (20)
+	ignored (13)
+educational
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 effective
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
+	(1)
 efforts
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+either.he
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 elected
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
 election
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=4
-	(1)
+	=16
+	(3)
+element
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 email
 	2 www.cunninghammpls.org/volunteer/index.html
+	=2
+	(0)
+employment
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 enact
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
+endorsed
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+endorsement
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
 energy
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 enforcement
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
@@ -846,13 +1458,13 @@ engage
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 engaged
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 engagement
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -861,39 +1473,65 @@ engaging
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 enhance
 	3 www.cunninghammpls.org/issues/public-safety.html
 	3 www.cunninghammpls.org/issues/public-safety.html
 	=6
-	(2)
+	(1)
 ensure
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 entrepreneurs
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=8
-	(2)
+	(1)
 equalize
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
 equity
-	ignored (10)
+	ignored (8)
+established
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 even
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
-	=4
-	(1)
+	=10
+	(2)
+events
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+everyone
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+evolution
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
 executive
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+expanding
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+expects
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 experience
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
@@ -902,47 +1540,63 @@ experiences
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 expertise
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+expressive
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 facebook0
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
 facebooktwitter
 	ignored (7)
 facing
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 factsoutside
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 fair
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
+fall
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 families
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
+	=2
+	(0)
+family
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 far
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 fast
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -951,27 +1605,49 @@ father
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+fear
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 fear-mongering
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
+	(0)
+feel
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+feels
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
+fellow
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 fellows
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 fellowship
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+fewer
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 ffffff
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 field.checkbox
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -983,30 +1659,47 @@ fight
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=14
-	(4)
+	(3)
 fill
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
 	(0)
+finds
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=18
+	(3)
 finish
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 firm
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
 first
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/volunteer/index.html
-	=6
+	=12
 	(2)
 five
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+flamboyant
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 florida
 	2 www.cunninghammpls.org/index.html
@@ -1015,15 +1708,28 @@ florida
 focus
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
 focuses
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 follow
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+folwell
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+food
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
+footer
+	2 www.cunninghammpls.org/volunteer/index.html
 	=2
 	(0)
 footer-blocks--top
@@ -1031,45 +1737,94 @@ footer-blocks--top
 	=2
 	(0)
 for
-	ignored (218)
+	ignored (191)
 form
 	2 www.cunninghammpls.org/volunteer/index.html
+	=2
+	(0)
+former
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 forward
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
+found
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+foundation
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+fountains
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+four
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
+	(0)
+francisco
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 free
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 freedom
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 fresh
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
+frey
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+friendships
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 from
-	ignored (42)
+	ignored (41)
+full
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=22
+	(4)
 fully
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
-	=8
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=10
 	(2)
+fundamental
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 funding
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 fundraising
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
@@ -1078,38 +1833,70 @@ future
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=6
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
+	(1)
 games
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	=12
-	(4)
+	(2)
+gay
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=12
+	(2)
+general
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+generation
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
+germane
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 get
-	ignored (12)
+	ignored (10)
 gfbgw6pgel
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+give
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 goal
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 goes
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 google
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
+got
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
 govern
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -1121,7 +1908,7 @@ governing
 	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=12
-	(4)
+	(2)
 governingwith
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -1131,18 +1918,30 @@ government
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=8
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=10
 	(2)
 governments
-	ignored (5)
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	2 www.cunninghammpls.org/issues/index.html
+	2 www.cunninghammpls.org/issues/index8535.html
+	=16
+	(3)
 graduation
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 grant
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+great-grandfather
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 grew
@@ -1151,28 +1950,42 @@ grew
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
 group
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+groups
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 guardians
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=8
-	(2)
+	(1)
 gun
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
+habits
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+had
+	ignored (5)
+hairline
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 hall
-	ignored (6)
+	ignored (7)
 hall.come
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
@@ -1181,7 +1994,11 @@ hallthat
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+hands
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 hanging
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -1194,33 +2011,38 @@ hard
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=4
-	(1)
+	(0)
 has
-	3 www.cunninghammpls.org/index.html
-	3 www.cunninghammpls.org/index.html
-	2 www.cunninghammpls.org/issues/community-wealth-building.html
-	2 www.cunninghammpls.org/issues/index.html
-	2 www.cunninghammpls.org/issues/index8535.html
-	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=14
-	(4)
+	ignored (15)
 hateful
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 have
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=8
-	(2)
+	=20
+	(4)
+having
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 health
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+healthier
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 height
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
@@ -1229,91 +2051,149 @@ height
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=12
-	(4)
+	(2)
+held
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 help
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=4
-	(1)
+	(0)
 helps
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=6
 	(1)
 her
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	=16
+	(3)
+here
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
 high
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 higher
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 him
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=20
 	(4)
+hips
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 his
-	ignored (91)
+	ignored (85)
 historicalpics
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
+history
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 hodges
-	3 www.cunninghammpls.org/meet-phillipe.html
-	3 www.cunninghammpls.org/meet-phillipe.html
-	3 www.cunninghammpls.org/meet-phillipe/index.html
-	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	ignored (14)
 holiday
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
 home
-	ignored (7)
-homebioissuesjoindonate
+	ignored (8)
+homebioissuespressjoindonate
 	ignored (7)
 homeless
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+honestly
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+house
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 household
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
+housing
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 how
-	4 www.cunninghammpls.org/issues/smart-governing.html
-	4 www.cunninghammpls.org/issues/smart-governing.html
-	4 www.cunninghammpls.org/issues/smart-governing.html
-	=12
-	(4)
+	ignored (6)
+http
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=14
+	(3)
 https
-	ignored (10)
+	ignored (7)
+huge
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+humanity
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
 husband
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+identity
+	ignored (6)
+identity.full
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
 illinois
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
+images
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 impact
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
@@ -1321,47 +2201,55 @@ impact
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
 impacted
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 important
-	ignored (21)
+	ignored (13)
 improving
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 included
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+includes
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 including
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 inclusion
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 income
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
 increase
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
 	(0)
 index-page--has-image
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+individual
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 inequities
@@ -1375,24 +2263,35 @@ information
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=10
-	(3)
+	(2)
 initiative
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
 	(1)
 injustice
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=4
-	(1)
+	(0)
 inquiries
 	ignored (7)
+inside
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+inspired
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
 instilled
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 institutions
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
@@ -1411,8 +2310,9 @@ interests
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/volunteer/index.html
-	=8
+	=10
 	(2)
 interests.to
 	2 www.cunninghammpls.org/issues/smart-governing.html
@@ -1422,11 +2322,17 @@ internship
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
 	(0)
+interview
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=8
+	(1)
 into
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 investment
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -1434,33 +2340,55 @@ investment
 involved
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
 involvement
 	3 www.cunninghammpls.org/issues/public-safety.html
 	3 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/index.html
-	=8
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=10
 	(2)
 issues
-	ignored (16)
+	ignored (15)
+jacob
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+james
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+january
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
+jenkins
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 job
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
-	=4
-	(1)
+	=10
+	(2)
 jobs
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=6
-	(2)
+	(1)
 joe
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
+johnson
+	ignored (10)
 join
-	ignored (11)
+	ignored (9)
 joining
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -1472,24 +2400,30 @@ justice
 	3 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/index.html
 	=8
-	(2)
+	(1)
 k-12
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 keeper
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 kids
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
 king
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+know
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 knowledge
@@ -1497,71 +2431,125 @@ knowledge
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
+known
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+knows
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 kpdt4qllmy
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+kris
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 laborer
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+lack
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+landscape
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 lane
-	ignored (30)
+	ignored (19)
 last
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/volunteer/index.html
-	=6
-	(2)
+	=8
+	(1)
+lately
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 lead
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=2
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
 	(0)
 leader
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+leaders
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 leadership
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=14
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=16
+	(3)
+leading
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 learn
-	ignored (6)
+	5 www.cunninghammpls.org/index.html
+	5 www.cunninghammpls.org/index.html
+	5 www.cunninghammpls.org/index.html
+	5 www.cunninghammpls.org/index.html
+	=20
+	(4)
 learned
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=22
+	(4)
+least
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+leave
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 left
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
 legislation
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
+	(1)
 less
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
 lessons
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
@@ -1569,21 +2557,52 @@ lessons
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+levy-pounds
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+lgbt
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 lgbtq
-	ignored (5)
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/smart-governing.html
+	=16
+	(3)
 life
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
+light
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+like
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=12
+	(2)
 likes
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
 limits.check
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
@@ -1592,70 +2611,106 @@ line
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 linkedin0
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
 list
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
+listen
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
 livable
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	=6
-	(2)
+	(1)
 live
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 livelihood
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 lives
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=2
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
 	(0)
 living
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=6
 	(1)
 local
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=14
+	(3)
+locations
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 locks
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 longer
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
+longshot
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+lot
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
+	(0)
+lou
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 love
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+low
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 low-income
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+lunch
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 luther
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -1667,20 +2722,43 @@ make
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=14
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=16
+	(3)
 making
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+male
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+man
+	ignored (5)
+mancunningham
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
 many
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
-	=4
-	(1)
+	=10
+	(2)
+marcouiller
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=2
+	(0)
+marcouiller-january
+	ignored (16)
 martin
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+matter
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 matters
@@ -1689,19 +2767,27 @@ matters
 	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=8
-	(2)
+	(1)
+matures
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 mayor
-	ignored (8)
+	ignored (20)
+mayoral
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 mckinley
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 meaningful
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 media
 	ignored (7)
 meet
@@ -1709,29 +2795,31 @@ meet
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 member
-	ignored (8)
+	ignored (6)
 members
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
+members.his
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 memories
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 men
-	2 www.cunninghammpls.org/meet-phillipe.html
-	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	ignored (9)
 minimum
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	=6
-	(2)
+	(1)
 minneapolis
 	ignored (18)
 minneapolis.in
@@ -1742,23 +2830,32 @@ minneapoliswhen
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 minnesota
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
+	(1)
 month
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/index.html
 	=6
-	(2)
+	(1)
+months
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
 more
-	ignored (16)
+	ignored (10)
+moreover
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 most
-	ignored (8)
+	ignored (5)
 move
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -1767,57 +2864,94 @@ moved
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+movement
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 moves
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+mpr
+	ignored (9)
+much
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 much-needed
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 multicultural
 	2 www.cunninghammpls.org/issues/smart-governing.html
+	=2
+	(0)
+multiple
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 municipal
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	=6
-	(2)
+	(1)
 muslims
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
+myself
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 name
-	ignored (6)
+	5 www.cunninghammpls.org/volunteer/index.html
+	5 www.cunninghammpls.org/volunteer/index.html
+	5 www.cunninghammpls.org/volunteer/index.html
+	5 www.cunninghammpls.org/volunteer/index.html
+	=20
+	(4)
 national
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+native
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 nbsp
-	ignored (330)
+	ignored (354)
 need
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=14
+	(3)
+needed
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 neighborhood
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 neighborhoods
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
+nekima
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 never
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -1827,79 +2961,132 @@ new
 	3 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=8
-	(2)
+	(1)
+news
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
+newsread
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 next
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=10
-	(3)
-none
-	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=22
+	(4)
+next-gen-cai-thomas
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
 	=2
 	(0)
+nextgenradiolisten
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+nick
+	ignored (18)
+none
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/volunteer/index.html
+	=4
+	(0)
 north
-	ignored (10)
+	ignored (6)
 northside
-	ignored (16)
+	ignored (10)
 northsiders
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
 	(0)
+northwest
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 not
+	ignored (5)
+now
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/index.html
-	2 www.cunninghammpls.org/issues/community-wealth-building.html
-	2 www.cunninghammpls.org/issues/index.html
-	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=10
-	(3)
-now
-	2 www.cunninghammpls.org/index.html
-	2 www.cunninghammpls.org/issues/smart-governing.html
-	=4
-	(1)
+	(2)
 oakland
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 occasional
 	ignored (8)
+off
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 office
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=14
+	(3)
+officially
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
 officials
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
 old
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=12
+	(2)
 on-going
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
 one
-	ignored (7)
+	ignored (10)
+one-site
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+ongoing
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 only
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
-	=12
-	(4)
+	=18
+	(3)
+openly
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 opportunities
-	ignored (18)
+	ignored (12)
 opportunitiesone
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -1907,52 +3094,84 @@ opportunitiesone
 order
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
 	3 www.cunninghammpls.org/issues/community-wealth-building.html
-	=6
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=8
+	(1)
 organizing
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+other
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
 	(1)
 our
-	ignored (95)
+	ignored (62)
 out
-	ignored (10)
+	ignored (7)
 outcomes
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 outlining
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=2
+	(0)
+over
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+own
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=4
+	(0)
+owner
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 padding
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
+paid
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+panel
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 parents
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 parks
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
+part
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 participating
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
 particular
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 particularly
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
@@ -1961,16 +3180,20 @@ partners
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
 	(0)
+party
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 pass
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 passionately
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 path
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
@@ -1983,39 +3206,75 @@ paying
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 people
 	ignored (16)
+percent
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
+perceptions
+	4 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=18
+	(3)
+period
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+person
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=14
+	(3)
 perspective
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 phase
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
+	(1)
 phillipe
-	ignored (262)
+	ignored (202)
 phone
 	4 www.cunninghammpls.org/volunteer/index.html
 	4 www.cunninghammpls.org/volunteer/index.html
 	4 www.cunninghammpls.org/volunteer/index.html
 	=12
-	(4)
+	(2)
+photos
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 picket
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+pilot
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 place
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=6
 	(1)
 plague
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
@@ -2025,7 +3284,7 @@ please
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 police
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
@@ -2035,46 +3294,82 @@ police-community
 	=2
 	(0)
 policies
-	ignored (5)
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	2 www.cunninghammpls.org/issues/smart-governing.html
+	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=16
+	(3)
 policy
-	ignored (20)
+	ignored (14)
 political
-	ignored (9)
+	ignored (7)
 portfolio
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 positive
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
+	(1)
 posts
 	2 www.cunninghammpls.org/issues/index8535.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=4
+	(0)
+potential
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+poverty
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+power
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=12
+	(2)
+powerful
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 practices
-	ignored (9)
+	ignored (6)
+precincts
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 presidency
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	=12
-	(4)
+	(2)
 president
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	=10
+	(2)
+press
+	ignored (9)
 prestigious
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 prevent
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
@@ -2084,23 +3379,28 @@ prevention
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=14
+	(3)
 previous
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=6
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=12
 	(2)
 price
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 primary
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
 priorities
 	2 www.cunninghammpls.org/index.html
@@ -2114,22 +3414,38 @@ pro-bono
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 process
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
+producer
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
+program
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 programs
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
+	(1)
 progress
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+progressive
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+project
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 prosperity
@@ -2140,7 +3456,7 @@ proud
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 proven
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
@@ -2152,26 +3468,39 @@ provide
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=14
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=16
+	(3)
 providing
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
 public
-	ignored (29)
+	ignored (18)
+publicly
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 punishment
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 put
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 qbyfxokdui
 	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
+queer
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+quote
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 racial
@@ -2179,45 +3508,77 @@ racial
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=16
+	(3)
+radio
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
 raised
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+read
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=4
+	(0)
+readiness
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 ready
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 realized
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+receding
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 receive
-	ignored (7)
+	ignored (8)
 received
 	2 www.cunninghammpls.org/index.html
-	=2
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
 	(0)
 receiving
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
+	=2
+	(0)
+reconnected
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 recruited
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 reddit
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
+reelection.this
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 regardless
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
@@ -2230,39 +3591,69 @@ relationship.check
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
 	(0)
+relatively
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+relief
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 remained
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+represent
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 representative
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=4
-	(1)
+	(0)
+republican
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 requires
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=8
-	(2)
+	(1)
+research
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 research-proven
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 residents
 	3 www.cunninghammpls.org/index.html
 	3 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=8
-	(2)
+	(1)
 resources
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=4
-	(1)
+	(0)
+respect
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=18
+	(3)
 response
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -2275,20 +3666,29 @@ rest
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
 restaurant
 	2 www.cunninghammpls.org/index.html
-	=2
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
 	(0)
 rhetoric
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
+right
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=12
+	(2)
 rights
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=8
 	(1)
 robust
 	2 www.cunninghammpls.org/issues/smart-governing.html
@@ -2298,42 +3698,107 @@ role
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+rookie
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+room
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 roots
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+running
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=4
+	(0)
 rural
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+rustin
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+sacred
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 safety
-	ignored (12)
+	ignored (7)
 safetypublic
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
+said
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=8
+	(1)
 same
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+san
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+say
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=8
 	(1)
+saying
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+says
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=8
+	(1)
+says.cunninghman
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 school
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
 schools
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 script
-	ignored (377)
+	ignored (386)
+seat
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=20
+	(4)
+second-lowest
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 sectors
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
@@ -2343,9 +3808,11 @@ secured
 	=2
 	(0)
 see
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/search.html
-	=2
-	(0)
+	=6
+	(1)
 sen
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -2354,9 +3821,22 @@ senior
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 serve
-	ignored (5)
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/index.html
+	2 www.cunninghammpls.org/issues/index8535.html
+	2 www.cunninghammpls.org/meet-phillipe.html
+	2 www.cunninghammpls.org/meet-phillipe/index.html
+	=16
+	(3)
+served
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
 service
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
@@ -2364,69 +3844,187 @@ service
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	2 www.cunninghammpls.org/index.html
 	=14
-	(4)
+	(3)
 services
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 services.check
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
 set
-	ignored (6)
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/index.html
+	2 www.cunninghammpls.org/issues/index8535.html
+	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=20
+	(4)
+seven
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=12
+	(2)
+shared
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
+she
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
+shift
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=12
+	(2)
+shingle
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+shop.cunningham
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+short
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 shot
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 should
 	ignored (7)
+shows
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 side
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+since
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=12
+	(2)
+sits
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+six
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+skills
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
+slavery
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 small
-	ignored (6)
+	4 www.cunninghammpls.org/index.html
+	4 www.cunninghammpls.org/index.html
+	4 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/issues/community-wealth-building.html
+	3 www.cunninghammpls.org/issues/community-wealth-building.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=20
+	(4)
 smart
-	ignored (6)
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	2 www.cunninghammpls.org/issues/index.html
+	2 www.cunninghammpls.org/issues/index8535.html
+	2 www.cunninghammpls.org/issues/public-safety.html
+	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=20
+	(4)
 social
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+socially
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+some
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+someone
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=4
+	(0)
+sometime
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 soon
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	2 www.cunninghammpls.org/volunteer/index.html
-	=10
-	(3)
+	=8
+	(1)
 southside
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+space
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 special
-	ignored (6)
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/index.html
+	2 www.cunninghammpls.org/issues/index8535.html
+	2 www.cunninghammpls.org/issues/smart-governing.html
+	=20
+	(4)
 specialist
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 specialized
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 spectrum
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 sqs-block-button-element--large
 	2 www.cunninghammpls.org/index.html
 	=2
@@ -2439,32 +4037,68 @@ sqs-block-horizontalrule
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=12
-	(4)
+	(2)
 stabilize
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	=2
 	(0)
+staff
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=8
+	(1)
 staffer
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
 	2 www.cunninghammpls.org/volunteer/index.html
-	=2
-	(0)
+	=22
+	(4)
 standing
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=14
+	(3)
 start
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
 state
-	ignored (5)
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	3 www.cunninghammpls.org/issues/smart-governing.html
+	2 www.cunninghammpls.org/meet-phillipe.html
+	2 www.cunninghammpls.org/meet-phillipe/index.html
+	=16
+	(3)
+stay
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
 steadfast
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
+	(0)
+steps
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
+story
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=8
 	(1)
 strategies
 	3 www.cunninghammpls.org/issues/public-safety.html
@@ -2472,71 +4106,98 @@ strategies
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=10
-	(3)
+	(2)
 strike
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+struggled
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 struggling
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
-	(1)
+	(0)
 students
-	ignored (8)
+	ignored (5)
 stumbleupon
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
 succeed
-	ignored (9)
+	ignored (6)
 succeed.phillipe
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
 	(0)
 success
-	2 www.cunninghammpls.org/meet-phillipe.html
-	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	ignored (6)
+successful
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 such
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+suffering
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+sullivan
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 support
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
 supported
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
+	(1)
 supports
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 sure
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
-	=2
-	(0)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
 sustainable
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 sustainably
 	2 www.cunninghammpls.org/issues/public-safety.html
+	=2
+	(0)
+swish
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+symbolism
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 system
@@ -2546,31 +4207,49 @@ system
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+take
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=14
+	(3)
+talk
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=12
+	(2)
+talking
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=4
+	(0)
 taught
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 teacher
-	ignored (8)
+	ignored (5)
 teachers
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 teaching
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
 ten-year
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 text
 	ignored (7)
 texts
@@ -2582,69 +4261,109 @@ than
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
-	=8
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=10
 	(2)
 thank
-	ignored (12)
+	ignored (10)
 that
-	ignored (30)
+	ignored (28)
 the
-	ignored (1228)
+	ignored (1176)
 their
-	ignored (8)
+	ignored (5)
 them
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=8
-	(2)
+	(1)
+then
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+there
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 therefore
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=6
-	(2)
+	(1)
 these
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=2
 	(0)
 they
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=4
-	(1)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=12
+	(2)
+thin
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+things
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 this
-	ignored (14)
+	ignored (9)
+thomas
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=4
+	(0)
+though
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
 threatens
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 thriving
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
 	2 www.cunninghammpls.org/issues/index8535.html
 	=8
-	(2)
+	(1)
 through
 	4 www.cunninghammpls.org/issues/smart-governing.html
 	4 www.cunninghammpls.org/issues/smart-governing.html
 	4 www.cunninghammpls.org/issues/smart-governing.html
-	=12
-	(4)
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=18
+	(3)
 throughout
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=8
-	(2)
-time
-	2 www.cunninghammpls.org/index.html
+	(1)
+thursday
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
+time
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=16
+	(3)
 times
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -2657,43 +4376,77 @@ together
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
+told
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 tolerance
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+took
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 top-quality
 	2 www.cunninghammpls.org/issues/smart-governing.html
+	=2
+	(0)
+topic
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+total
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	=2
 	(0)
 touch
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
 	(0)
+touts
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 toward
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=4
+	(0)
+trail
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
 trainer
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 training
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
 	(1)
+trans
+	ignored (16)
+transgender
+	ignored (5)
+transitioned
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 traps
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	=4
-	(1)
+	(0)
 treatment
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 true
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
@@ -2702,17 +4455,34 @@ trump
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
+trust
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 tumblr
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=8
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=16
+	(3)
+turnout
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+twice
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 twin
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 twitter
 	2 www.cunninghammpls.org/index.html
@@ -2720,25 +4490,35 @@ twitter
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
-	=10
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=18
 	(3)
 two
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=16
+	(3)
 umn
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 under
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+understand
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=2
+	(0)
 understanding
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
@@ -2747,31 +4527,44 @@ unfair
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 union
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 united
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 university
-	ignored (8)
+	ignored (5)
+unlearn
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
 unless
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=2
 	(0)
 updates
-	ignored (24)
+	ignored (23)
+uplift
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 upon
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
+used
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 valuable
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
@@ -2779,36 +4572,50 @@ valuable
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=12
-	(4)
+	(2)
+values
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 very
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=16
+	(3)
 video
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 videos
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 violence
-	ignored (5)
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/public-safety.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=18
+	(3)
 vocal
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 voice
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 volunteer
 	2 www.cunninghammpls.org/volunteer/index.html
 	=2
@@ -2823,89 +4630,174 @@ volunteers
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+vote
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+votes
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=12
+	(2)
+vying
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 wage
-	ignored (6)
+	5 www.cunninghammpls.org/issues/community-wealth-building.html
+	5 www.cunninghammpls.org/issues/community-wealth-building.html
+	5 www.cunninghammpls.org/issues/community-wealth-building.html
+	5 www.cunninghammpls.org/issues/community-wealth-building.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=22
+	(4)
 waiting
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
 	(0)
+walk
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
+want
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=2
+	(0)
+wants
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	2 www.cunninghammpls.org/new-blog/index.html
+	2 www.cunninghammpls.org/new-blog/index20f3.html
+	=14
+	(3)
 ward
-	ignored (8)
+	ignored (15)
+wards
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 was
 	ignored (29)
+water
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 way
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 ways
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=4
-	(1)
+	(0)
 wealth
-	ignored (5)
+	3 www.cunninghammpls.org/issues/community-wealth-building.html
+	3 www.cunninghammpls.org/issues/community-wealth-building.html
+	2 www.cunninghammpls.org/index.html
+	2 www.cunninghammpls.org/issues/index.html
+	2 www.cunninghammpls.org/issues/index8535.html
+	2 www.cunninghammpls.org/issues/public-safety.html
+	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	=16
+	(3)
+webber-camden
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 week
-	3 www.cunninghammpls.org/index.html
-	3 www.cunninghammpls.org/index.html
-	=6
-	(2)
+	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
 weekly
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
-weeks
-	2 www.cunninghammpls.org/index.html
-	=2
 	(0)
+weeks
+	3 www.cunninghammpls.org/index.html
+	3 www.cunninghammpls.org/index.html
+	=6
+	(1)
 well
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
 	3 www.cunninghammpls.org/issues/youth-opportunities.html
-	=6
-	(2)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
+	(1)
+went
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 were
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
+what
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=6
+	(1)
+when
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=8
 	(1)
 where
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	4 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
+	=18
+	(3)
 whether
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=10
+	(2)
+which
+	ignored (5)
+while
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
 	=2
 	(0)
-which
-	3 www.cunninghammpls.org/meet-phillipe.html
-	3 www.cunninghammpls.org/meet-phillipe.html
-	3 www.cunninghammpls.org/meet-phillipe/index.html
-	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+white
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
 white-only
 	2 www.cunninghammpls.org/index.html
 	=2
 	(0)
 who
-	2 www.cunninghammpls.org/index.html
-	2 www.cunninghammpls.org/meet-phillipe.html
-	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=6
-	(2)
+	ignored (6)
+whom
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=2
+	(0)
 whose
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 why
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	3 www.cunninghammpls.org/issues/smart-governing.html
 	=6
-	(2)
+	(1)
 width
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/index.html
@@ -2914,7 +4806,7 @@ width
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=12
-	(4)
+	(2)
 will
 	ignored (16)
 win
@@ -2922,80 +4814,113 @@ win
 	=2
 	(0)
 with
-	ignored (50)
+	ignored (45)
 within
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=6
-	(2)
+	(1)
+woman
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
+	(1)
 women
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	=4
+	(0)
+won
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+wondered
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=6
 	(1)
 work
-	ignored (24)
+	ignored (22)
 worker
-	ignored (6)
+	3 www.cunninghammpls.org/issues/youth-opportunities.html
+	3 www.cunninghammpls.org/issues/youth-opportunities.html
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	3 www.cunninghammpls.org/meet-phillipe/index.html
+	2 www.cunninghammpls.org/index.html
+	=20
+	(4)
 workers
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 working
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 works
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=6
-	(2)
+	(1)
 workwhile
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 world
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 would
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
+wouldn
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
+yang
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 year
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
 	3 www.cunninghammpls.org/meet-phillipe/index.html
-	=12
-	(4)
+	2 www.cunninghammpls.org/new-blog/2017/1/23/mpr-how-one-person-learned-to-work-beyond-perceptions-of-identity.html
+	=14
+	(3)
 years
-	2 www.cunninghammpls.org/meet-phillipe.html
-	2 www.cunninghammpls.org/meet-phillipe/index.html
-	=4
-	(1)
+	ignored (6)
+yet
+	2 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	=2
+	(0)
 you
-	ignored (14)
+	ignored (11)
 young
-	ignored (16)
+	ignored (11)
 your
 	2 www.cunninghammpls.org/index.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/public-safety.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
+	2 www.cunninghammpls.org/new-blog/2017/1/23/tc-dailyplanet-seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council.html
 	2 www.cunninghammpls.org/volunteer/index.html
-	=12
-	(4)
+	=14
+	(3)
 youth
-	ignored (188)
+	ignored (123)
 youth.as
 	2 www.cunninghammpls.org/issues/youth-opportunities.html
 	=2
@@ -3004,12 +4929,12 @@ youthlink
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 zero
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
-	(1)
+	(0)
 zip
 	2 www.cunninghammpls.org/volunteer/index.html
 cunninghammpls.org/meet-phillipe.html
@@ -3048,6 +4973,9 @@ cunninghammpls.org/meet-phillipe.html
 	3 www.cunninghammpls.org/issues/index.html
 	3 www.cunninghammpls.org/issues/index8535.html
 	3 www.cunninghammpls.org/issues/index8535.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
+	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	2 www.cunninghammpls.org/issues/community-wealth-building.html
 	2 www.cunninghammpls.org/issues/smart-governing.html
-	=564
+	2 www.cunninghammpls.org/new-blog/2017/1/23/phillipe-cunningham-finds-success-and-respect-as-a-transgender-man.html
+	=572

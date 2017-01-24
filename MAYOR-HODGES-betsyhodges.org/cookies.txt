@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+betsyhodges.org	TRUE	/	FALSE	1999999999	fc_2	1
+

@@ -18,6 +18,12 @@ abuild
 	2 www.jilliaforwardone.com/vision/index.html
 	=4
 	(0)
+accomplished
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 accountability
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -36,7 +42,7 @@ act
 	=4
 	(0)
 action
-	ignored (10)
+	ignored (11)
 activism
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -70,28 +76,34 @@ addiction
 	=6
 	(0)
 advancing
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 advocate
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/vision.html
 	3 www.jilliaforwardone.com/vision.html
 	3 www.jilliaforwardone.com/vision/index.html
 	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
-	=34
-	(3)
+	=42
+	(4)
 advocated
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -145,7 +157,7 @@ against
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	=10
-	(1)
+	(0)
 agree
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -173,7 +185,7 @@ agriculture
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	=30
-	(3)
+	(2)
 ahead
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -208,7 +220,7 @@ akeep
 	=4
 	(0)
 alex
-	ignored (37)
+	ignored (36)
 algunos
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -218,23 +230,14 @@ alimentos
 	=2
 	(0)
 all
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/why-jillia.html
-	3 www.jilliaforwardone.com/why-jillia.html
-	3 www.jilliaforwardone.com/why-jillia/index.html
-	3 www.jilliaforwardone.com/why-jillia/index.html
-	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
-	2 www.jilliaforwardone.com/blog/index3e91.html
-	2 www.jilliaforwardone.com/blog/indexecf7.html
-	2 www.jilliaforwardone.com/media/index.html
-	=28
-	(3)
+	ignored (5)
 allow
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 almacaen
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -255,23 +258,34 @@ already
 	=6
 	(0)
 also
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
-	=26
-	(2)
+	=36
+	(3)
 altbaum
 	2 www.jilliaforwardone.com/contact/index.html
 	=2
 	(0)
+alum
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=12
+	(1)
 amado
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -295,23 +309,26 @@ amp
 	2 www.jilliaforwardone.com/blog/indexecf7.html
 	2 www.jilliaforwardone.com/contact/index.html
 	=20
-	(2)
+	(1)
 amplify
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=22
+	=30
 	(2)
 and
-	ignored (802)
+	ignored (936)
 announcement
 	3 www.jilliaforwardone.com/blog/indexbb73.html
 	3 www.jilliaforwardone.com/blog/indexbb73.html
@@ -323,11 +340,14 @@ announcement
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
 	=20
-	(2)
+	(1)
 anti-bullying
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 anything
 	2 www.jilliaforwardone.com/why-jillia.html
@@ -351,8 +371,11 @@ aprendieron
 	=2
 	(0)
 april
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
-	=2
+	=8
 	(0)
 april.we
 	2 www.jilliaforwardone.com/blog/announcement.html
@@ -375,11 +398,14 @@ area
 	=12
 	(1)
 around
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 artes
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -398,8 +424,14 @@ artistas
 	=2
 	(0)
 artists
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
@@ -411,8 +443,14 @@ artists
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=26
-	(2)
+	=48
+	(4)
+artists.if
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 artistsfight
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -577,6 +615,12 @@ before
 	2 www.jilliaforwardone.com/blog/indexecf7.html
 	=6
 	(0)
+believe
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 beloved
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -613,7 +657,10 @@ bill
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
-	=12
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=18
 	(1)
 blica
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -625,7 +672,7 @@ blocked
 	=4
 	(0)
 blog
-	ignored (39)
+	ignored (37)
 bloqueado
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=2
@@ -666,7 +713,7 @@ bring
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=40
-	(4)
+	(3)
 bringing
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -712,7 +759,7 @@ building
 	=18
 	(1)
 business
-	ignored (6)
+	ignored (5)
 businesses
 	ignored (10)
 but
@@ -732,6 +779,12 @@ buzzword
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
+	=6
+	(0)
+buzzwords
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	=6
 	(0)
 calendar
@@ -772,9 +825,15 @@ came
 	=4
 	(0)
 campaign
-	ignored (24)
+	ignored (28)
+campaign.her
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 can
-	ignored (37)
+	ignored (41)
 candidates
 	2 www.jilliaforwardone.com/in-the-news-1/index.html
 	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
@@ -790,7 +849,13 @@ casa
 	=2
 	(0)
 caucus
-	ignored (17)
+	ignored (18)
+center
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 centered
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -865,11 +930,17 @@ chance
 	=6
 	(0)
 change
-	ignored (21)
+	ignored (23)
 change.solutions
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=4
+	(0)
+changing
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
 	(0)
 cities
 	2 www.jilliaforwardone.com/in-the-news-1/index.html
@@ -878,14 +949,20 @@ cities
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=10
-	(1)
+	(0)
 cities-based
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=4
 	(0)
 city
-	ignored (200)
+	ignored (204)
+city-zoning
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 ciudad
 	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	6 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -918,11 +995,14 @@ clear
 	=16
 	(1)
 climate
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 closing
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -946,9 +1026,12 @@ co-ops
 	=6
 	(0)
 coalition
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 cofundadores
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -984,6 +1067,7 @@ collaborated
 collection-type-index
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
@@ -991,10 +1075,11 @@ collection-type-index
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
 	2 www.jilliaforwardone.com/index.html
-	=24
+	=28
 	(2)
 collective
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
@@ -1009,24 +1094,30 @@ color
 	3 www.jilliaforwardone.com/vision.html
 	3 www.jilliaforwardone.com/vision/index.html
 	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.tcdailyplanet.net/seven-candidates-could-shift-the-balance-of-power-on-the-minneapolis-city-council/__Twin.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
-	=30
+	=36
 	(3)
 columbia
 	2 www.jilliaforwardone.com/index.html
 	=2
 	(0)
 come
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
-	=6
-	(0)
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=14
+	(1)
 comerciales
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=2
@@ -1044,11 +1135,14 @@ commercial
 	=6
 	(0)
 committed
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 communications
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -1071,7 +1165,7 @@ communitiesprotecting
 	=6
 	(0)
 community
-	ignored (19)
+	ignored (18)
 como
 	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -1091,9 +1185,12 @@ completa
 	=2
 	(0)
 comprehensive
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 comunicaciones
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -1115,20 +1212,23 @@ comunitario
 	=2
 	(0)
 con
-	ignored (22)
+	ignored (19)
 conce
-	ignored (18)
+	ignored (17)
 concerns
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
-	=22
-	(2)
+	=32
+	(3)
 conoce
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -1152,7 +1252,7 @@ consultora
 	=2
 	(0)
 contact
-	ignored (19)
+	ignored (18)
 contenders
 	2 www.jilliaforwardone.com/in-the-news-1/index.html
 	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
@@ -1215,13 +1315,16 @@ cosas.el
 	=2
 	(0)
 costs
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=12
+	=20
 	(1)
 could
 	2 www.jilliaforwardone.com/in-the-news-1/index.html
@@ -1248,6 +1351,12 @@ council.jillia
 	2 www.jilliaforwardone.com/vision/index.html
 	=6
 	(0)
+councilshe
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 country
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia.html
@@ -1256,9 +1365,12 @@ country
 	=12
 	(1)
 couples
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 courage
 	2 www.jilliaforwardone.com/why-jillia.html
@@ -1272,7 +1384,7 @@ crear
 	=8
 	(0)
 create
-	ignored (10)
+	ignored (12)
 creating
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/index.html
@@ -1319,7 +1431,7 @@ currently
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	=10
-	(1)
+	(0)
 daecada.nuestro
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=2
@@ -1377,25 +1489,28 @@ deadline
 	=6
 	(0)
 dear
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
-	=16
-	(1)
+	=24
+	(2)
 dec
-	ignored (17)
+	ignored (15)
 decade.at
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=4
 	(0)
 december
-	ignored (19)
+	ignored (17)
 dedicado
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=2
@@ -1428,7 +1543,7 @@ degree
 	=4
 	(0)
 del
-	ignored (12)
+	ignored (10)
 delante
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -1465,6 +1580,12 @@ democracy
 	2 www.jilliaforwardone.com/vision/index.html
 	=6
 	(0)
+demonstrates
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 depredadores
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -1495,7 +1616,10 @@ deserve
 	3 www.jilliaforwardone.com/why-jillia.html
 	3 www.jilliaforwardone.com/why-jillia/index.html
 	3 www.jilliaforwardone.com/why-jillia/index.html
-	=12
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=18
 	(1)
 details
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
@@ -1531,6 +1655,12 @@ dfl
 direct
 	2 www.jilliaforwardone.com/media/index.html
 	=2
+	(0)
+director
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
 	(0)
 disagree
 	2 www.jilliaforwardone.com/why-jillia.html
@@ -1590,7 +1720,7 @@ dog
 	=4
 	(0)
 donate
-	ignored (18)
+	ignored (17)
 donating
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -1603,16 +1733,19 @@ donating
 	=16
 	(1)
 donation
-	4 www.jilliaforwardone.com/blog/index.html
-	4 www.jilliaforwardone.com/blog/index.html
-	4 www.jilliaforwardone.com/blog/index.html
+	5 www.jilliaforwardone.com/blog/index.html
+	5 www.jilliaforwardone.com/blog/index.html
+	5 www.jilliaforwardone.com/blog/index.html
+	5 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
-	=28
+	=40
 	(3)
 donde
 	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -1620,6 +1753,12 @@ donde
 	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=12
 	(1)
+done
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 done.city
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -1646,14 +1785,14 @@ drive
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	=30
-	(3)
+	(2)
 duluth
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=10
-	(1)
+	(0)
 durante
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
@@ -1698,7 +1837,7 @@ e9re
 	=12
 	(1)
 e9s
-	ignored (5)
+	ignored (8)
 e9t
 	3 www.jilliaforwardone.com/why-jillia.html
 	3 www.jilliaforwardone.com/why-jillia.html
@@ -1759,6 +1898,17 @@ economyfinding
 	2 www.jilliaforwardone.com/vision/index.html
 	=6
 	(0)
+edison
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	=26
+	(2)
 education
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -1766,11 +1916,14 @@ education
 	=6
 	(0)
 effective
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 ejecuciones
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -1794,7 +1947,7 @@ elected
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	=38
-	(4)
+	(3)
 election
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -1873,6 +2026,12 @@ encontrar
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
 	(0)
+endorse
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 endorsement
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -1884,6 +2043,20 @@ endorsement
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	=16
 	(1)
+endorses
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=12
+	(1)
+endorsing
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 ends
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -1925,9 +2098,12 @@ entusiasma
 	=2
 	(0)
 equality
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 equipo
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -1940,7 +2116,7 @@ equity
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=10
-	(1)
+	(0)
 era
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -2014,6 +2190,12 @@ estudiantes
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=6
 	(0)
+ethic
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 even
 	3 www.jilliaforwardone.com/why-jillia.html
 	3 www.jilliaforwardone.com/why-jillia.html
@@ -2022,16 +2204,20 @@ even
 	=12
 	(1)
 event
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
 	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
-	=22
-	(2)
+	=36
+	(3)
 ever
 	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index.html
@@ -2075,11 +2261,14 @@ excited
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=20
-	(2)
+	(1)
 excites
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
-	=4
+	=10
 	(0)
 exist
 	2 www.jilliaforwardone.com/why-jillia.html
@@ -2106,7 +2295,7 @@ experience
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	=30
-	(3)
+	(2)
 experiencia
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -2139,7 +2328,7 @@ familias
 	=22
 	(2)
 families
-	ignored (7)
+	ignored (6)
 family
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -2151,11 +2340,14 @@ farm
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=10
-	(1)
+	(0)
 farming
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 featured
 	2 www.jilliaforwardone.com/in-the-news/index.html
@@ -2215,11 +2407,14 @@ fin
 	=2
 	(0)
 finance
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
-	=6
-	(0)
+	=14
+	(1)
 find
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -2281,7 +2476,7 @@ foot
 	=6
 	(0)
 for
-	ignored (524)
+	ignored (558)
 force
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/index.html
@@ -2306,10 +2501,16 @@ foreclosures
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	=30
-	(3)
+	(2)
 formae
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
+	(0)
+former
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
 	(0)
 forward
 	ignored (10)
@@ -2344,9 +2545,9 @@ friends
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=40
-	(4)
+	(3)
 from
-	ignored (11)
+	ignored (9)
 fueron
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -2408,9 +2609,12 @@ ganar
 	=6
 	(0)
 gardening
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 gemelas
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -2418,14 +2622,17 @@ gemelas
 	=6
 	(0)
 gender
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
-	=14
-	(1)
+	=24
+	(2)
 general
 	2 www.jilliaforwardone.com/contact/index.html
 	=2
@@ -2448,7 +2655,13 @@ get
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=28
-	(3)
+	(2)
+gets
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 getting
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -2486,6 +2699,12 @@ graduarme
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
 	(0)
+graduate
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 graduating
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -2496,11 +2715,14 @@ grandes
 	=2
 	(0)
 grassroots
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
-	=6
-	(0)
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=14
+	(1)
 grassroots-led
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -2542,6 +2764,12 @@ gridlock
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	=16
 	(1)
+grounded
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 grow
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -2580,7 +2808,7 @@ hacia
 	=2
 	(0)
 hall
-	ignored (13)
+	ignored (12)
 halljillia
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -2597,8 +2825,14 @@ handouts
 	2 www.jilliaforwardone.com/vision/index.html
 	=6
 	(0)
+has
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 have
-	ignored (20)
+	ignored (18)
 health
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -2631,6 +2865,12 @@ heard
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=32
 	(3)
+heart
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 hecho
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=2
@@ -2652,13 +2892,7 @@ helped
 	=4
 	(0)
 her
-	2 www.jilliaforwardone.com/index.html
-	2 www.jilliaforwardone.com/meet-jillia.html
-	2 www.jilliaforwardone.com/meet-jillia/index.html
-	2 www.jilliaforwardone.com/vision.html
-	2 www.jilliaforwardone.com/vision/index.html
-	=10
-	(1)
+	ignored (9)
 here
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -2671,7 +2905,7 @@ here
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=20
-	(2)
+	(1)
 high
 	4 www.jilliaforwardone.com/meet-jillia.html
 	4 www.jilliaforwardone.com/meet-jillia.html
@@ -2679,7 +2913,10 @@ high
 	4 www.jilliaforwardone.com/meet-jillia/index.html
 	4 www.jilliaforwardone.com/meet-jillia/index.html
 	4 www.jilliaforwardone.com/meet-jillia/index.html
-	=24
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=30
 	(2)
 high-quality
 	2 www.jilliaforwardone.com/index.html
@@ -2744,7 +2981,7 @@ homes
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	=20
-	(2)
+	(1)
 honored
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -2798,20 +3035,23 @@ hourfor
 	=6
 	(0)
 housing
-	ignored (17)
+	ignored (16)
 how
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=22
+	=30
 	(2)
 https
 	2 index.html
@@ -2825,6 +3065,26 @@ ideas
 igualdad
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
+	(0)
+ilhan
+	5 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	5 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	5 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	5 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/indexb0a6.html
+	4 www.jilliaforwardone.com/blog/indexb0a6.html
+	4 www.jilliaforwardone.com/blog/indexb0a6.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	=46
+	(4)
+impact
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
 	(0)
 impedir
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -2897,11 +3157,14 @@ increase
 	=16
 	(1)
 increasing
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
-	=6
-	(0)
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=14
+	(1)
 information
 	2 www.jilliaforwardone.com/contact/index.html
 	=2
@@ -2985,20 +3248,23 @@ into
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=10
-	(1)
+	(0)
 invest
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=22
+	=30
 	(2)
 investing
 	2 www.jilliaforwardone.com/index.html
@@ -3029,7 +3295,7 @@ issues
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=38
-	(4)
+	(3)
 jan
 	7 www.jilliaforwardone.com/in-the-news/index.html
 	7 www.jilliaforwardone.com/in-the-news/index.html
@@ -3040,19 +3306,9 @@ jan
 	=42
 	(4)
 january
-	4 www.jilliaforwardone.com/blog/index.html
-	4 www.jilliaforwardone.com/blog/index.html
-	4 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
-	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
-	3 www.jilliaforwardone.com/blog/indexecf7.html
-	3 www.jilliaforwardone.com/blog/indexecf7.html
-	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index3e91.html
-	=28
-	(3)
+	ignored (5)
 jillia
-	ignored (790)
+	ignored (814)
 jilliaforward1
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -3088,7 +3344,7 @@ jobs
 	=4
 	(0)
 join
-	ignored (34)
+	ignored (32)
 joined
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia.html
@@ -3116,12 +3372,24 @@ juntos
 	=4
 	(0)
 just
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=24
+	(2)
 justice
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/vision.html
@@ -3132,37 +3400,43 @@ justice
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
-	=26
-	(2)
+	=44
+	(4)
 justicia
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
 	(0)
 keep
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
-	=26
-	(2)
+	=36
+	(3)
 keeps
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=4
 	(0)
 kick
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
-	=6
-	(0)
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=14
+	(1)
 kick-off
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -3180,9 +3454,10 @@ kickoff
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/indexecf7.html
 	3 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
-	=38
-	(4)
+	=40
+	(3)
 kind
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -3194,16 +3469,19 @@ knew
 	=4
 	(0)
 know
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
-	=16
-	(1)
+	=24
+	(2)
 knows
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/index.html
@@ -3211,8 +3489,11 @@ knows
 	3 www.jilliaforwardone.com/vision.html
 	3 www.jilliaforwardone.com/vision/index.html
 	3 www.jilliaforwardone.com/vision/index.html
-	=18
-	(1)
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=24
+	(2)
 lacking
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -3241,7 +3522,7 @@ largest
 	=4
 	(0)
 las
-	ignored (23)
+	ignored (20)
 last
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -3249,16 +3530,19 @@ last
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=10
-	(1)
+	(0)
 law
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=4
 	(0)
 laws
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 lead
 	3 www.jilliaforwardone.com/why-jillia.html
@@ -3287,7 +3571,7 @@ leaders
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	=38
-	(4)
+	(3)
 leadership
 	3 www.jilliaforwardone.com/why-jillia.html
 	3 www.jilliaforwardone.com/why-jillia.html
@@ -3365,11 +3649,14 @@ leyes
 	=2
 	(0)
 lgbtq
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 liderar
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=2
@@ -3396,28 +3683,13 @@ like
 	3 www.jilliaforwardone.com/vision.html
 	3 www.jilliaforwardone.com/vision/index.html
 	3 www.jilliaforwardone.com/vision/index.html
-	=18
-	(1)
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=24
+	(2)
 listen
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index3e91.html
-	3 www.jilliaforwardone.com/blog/index3e91.html
-	3 www.jilliaforwardone.com/index.html
-	3 www.jilliaforwardone.com/index.html
-	3 www.jilliaforwardone.com/meet-jillia.html
-	3 www.jilliaforwardone.com/meet-jillia.html
-	3 www.jilliaforwardone.com/meet-jillia/index.html
-	3 www.jilliaforwardone.com/meet-jillia/index.html
-	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index07bc.html
-	2 www.jilliaforwardone.com/blog/index51b4.html
-	2 www.jilliaforwardone.com/blog/index9767.html
-	2 www.jilliaforwardone.com/blog/indexaba0.html
-	2 www.jilliaforwardone.com/blog/indexbb73.html
-	=44
-	(4)
+	ignored (5)
 live
 	ignored (5)
 lives
@@ -3432,15 +3704,18 @@ liveward
 	=6
 	(0)
 living
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
-	=14
-	(1)
+	=22
+	(2)
 llegar
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -3485,7 +3760,7 @@ look
 	=26
 	(2)
 los
-	ignored (22)
+	ignored (19)
 love
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -3493,7 +3768,7 @@ love
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=10
-	(1)
+	(0)
 low
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -3556,16 +3831,19 @@ majority
 	=4
 	(0)
 make
-	ignored (5)
+	ignored (6)
 making
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
-	=18
-	(1)
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=28
+	(2)
 mandatory
 	2 www.jilliaforwardone.com/index.html
 	=2
@@ -3582,10 +3860,19 @@ mantenido
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
 	(0)
+maps
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 market
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 market-rate
 	2 www.jilliaforwardone.com/vision.html
@@ -3593,9 +3880,12 @@ market-rate
 	=4
 	(0)
 marriage
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 marshall
 	2 www.jilliaforwardone.com/index.html
@@ -3610,10 +3900,16 @@ mattered
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=4
 	(0)
+me.jillia
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 media
-	ignored (20)
+	ignored (19)
 meet
-	ignored (25)
+	ignored (24)
 meeting
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -3624,18 +3920,7 @@ mejoren
 	=2
 	(0)
 member
-	5 www.jilliaforwardone.com/why-jillia.html
-	5 www.jilliaforwardone.com/why-jillia.html
-	5 www.jilliaforwardone.com/why-jillia.html
-	5 www.jilliaforwardone.com/why-jillia.html
-	5 www.jilliaforwardone.com/why-jillia/index.html
-	5 www.jilliaforwardone.com/why-jillia/index.html
-	5 www.jilliaforwardone.com/why-jillia/index.html
-	5 www.jilliaforwardone.com/why-jillia/index.html
-	2 www.jilliaforwardone.com/meet-jillia.html
-	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=44
-	(4)
+	ignored (6)
 member.i
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -3707,25 +3992,34 @@ mientras
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=4
 	(0)
+mind
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 minimum
-	3 www.jilliaforwardone.com/blog/index.html
-	3 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	3 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=36
-	(3)
+	=46
+	(4)
 minneapolis
 	ignored (29)
 minnesota
@@ -3761,22 +4055,28 @@ monica
 	=6
 	(0)
 more
-	ignored (19)
+	ignored (18)
 most
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 move
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/index.html
 	3 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=16
-	(1)
+	=24
+	(2)
 moved
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -3807,7 +4107,7 @@ municipal
 	=14
 	(1)
 must
-	ignored (18)
+	ignored (16)
 native
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -3824,7 +4124,13 @@ navigate
 	=6
 	(0)
 nbsp
-	ignored (26)
+	ignored (23)
+near
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 necesidades
 	2 www.jilliaforwardone.com/por-qu-jillia/index.html
 	=2
@@ -3844,7 +4150,7 @@ necesitamos.a
 	=2
 	(0)
 need
-	ignored (24)
+	ignored (21)
 need.i
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -3876,23 +4182,32 @@ negotiations
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=4
 	(0)
+neighbor
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 neighborhood
 	ignored (6)
 neighborhoods
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/vision.html
 	3 www.jilliaforwardone.com/vision.html
 	3 www.jilliaforwardone.com/vision/index.html
 	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
-	=30
+	=38
 	(3)
 neighborhoodsjillia
 	2 www.jilliaforwardone.com/index.html
@@ -3901,16 +4216,17 @@ neighborhoodsjillia
 	=6
 	(0)
 neighbors
-	ignored (28)
+	ignored (26)
 new
-	ignored (17)
+	ignored (16)
 newer
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	=4
+	=6
 	(0)
 news
-	ignored (102)
+	ignored (97)
 next
 	ignored (5)
 night
@@ -3962,12 +4278,15 @@ not
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
-	=26
-	(2)
+	=32
+	(3)
 now
 	4 www.jilliaforwardone.com/blog/index.html
 	4 www.jilliaforwardone.com/blog/index.html
@@ -3986,7 +4305,7 @@ now
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=40
-	(4)
+	(3)
 nuestra
 	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	7 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -4046,11 +4365,14 @@ occupy
 	=6
 	(0)
 off
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
-	=6
-	(0)
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=14
+	(1)
 office
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -4105,11 +4427,22 @@ oil
 	(0)
 older
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	=4
 	(0)
+omar
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	=26
+	(2)
 one
-	ignored (15)
+	ignored (21)
 onenow
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -4130,18 +4463,21 @@ open
 	=4
 	(0)
 opportunities
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=22
+	=30
 	(2)
 ordinance
 	2 www.jilliaforwardone.com/index.html
@@ -4175,7 +4511,7 @@ otros
 	=4
 	(0)
 our
-	ignored (361)
+	ignored (346)
 ourselves
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -4188,14 +4524,20 @@ ourselves
 	=16
 	(1)
 out
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=12
-	(1)
+	=34
+	(3)
 outcome
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -4208,11 +4550,14 @@ outcome
 	=16
 	(1)
 outfront
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
-	=6
-	(0)
+	=12
+	(1)
 over
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	3 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
@@ -4226,7 +4571,7 @@ over
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=28
-	(3)
+	(2)
 own
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -4259,7 +4604,7 @@ owners
 	=22
 	(2)
 padding
-	ignored (7)
+	ignored (8)
 padding-top
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
@@ -4273,6 +4618,7 @@ pagar
 page
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
@@ -4280,14 +4626,16 @@ page
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
 	2 www.jilliaforwardone.com/index.html
-	=24
+	=28
 	(2)
 page-content
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
@@ -4295,15 +4643,16 @@ page-content
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
 	2 www.jilliaforwardone.com/index.html
-	=24
+	=28
 	(2)
 paid
 	ignored (5)
 para
-	ignored (30)
+	ignored (27)
 pareja
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -4322,9 +4671,12 @@ park
 	=12
 	(1)
 part
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 parte
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -4346,9 +4698,12 @@ partner
 	=4
 	(0)
 partnership
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 pasaje
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -4361,6 +4716,12 @@ passage
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	=12
 	(1)
+passed
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 passion
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -4378,7 +4739,13 @@ peace
 	=6
 	(0)
 people
-	ignored (7)
+	ignored (6)
+people-powered
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 perform
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -4422,17 +4789,24 @@ perro
 	=2
 	(0)
 person
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 personal
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
 	(0)
 pessenda
-	ignored (21)
+	ignored (28)
+pessenda-older
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	=2
+	(0)
 pessendap.s
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -4490,7 +4864,7 @@ please
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/media/index.html
 	=10
-	(1)
+	(0)
 podemos
 	3 www.jilliaforwardone.com/por-qu-jillia/index.html
 	3 www.jilliaforwardone.com/por-qu-jillia/index.html
@@ -4515,7 +4889,7 @@ policies
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=10
-	(1)
+	(0)
 policy
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -4561,7 +4935,7 @@ position
 	=6
 	(0)
 positive
-	ignored (8)
+	ignored (7)
 positivos
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -4573,7 +4947,8 @@ postget
 	(0)
 postjoin
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	=2
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	=4
 	(0)
 postre
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
@@ -4581,6 +4956,10 @@ postre
 	(0)
 posts
 	ignored (5)
+poststate
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	=2
+	(0)
 power
 	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index.html
@@ -4596,7 +4975,7 @@ power
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=28
-	(3)
+	(2)
 predatory
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -4633,9 +5012,49 @@ proactivamente
 	=6
 	(0)
 proactive
-	ignored (5)
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=46
+	(4)
 proactively
-	ignored (5)
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=48
+	(4)
 proactivo
 	3 www.jilliaforwardone.com/por-qu-jillia/index.html
 	3 www.jilliaforwardone.com/por-qu-jillia/index.html
@@ -4687,15 +5106,18 @@ progreso
 	=8
 	(0)
 progress
-	ignored (7)
+	ignored (6)
 progressive
-	ignored (38)
+	ignored (37)
 project
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
-	=12
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=18
 	(1)
 promise
 	2 www.jilliaforwardone.com/blog/announcement.html
@@ -4729,10 +5151,16 @@ protected
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=10
-	(1)
+	(0)
 protections
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
+	3 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
@@ -4742,8 +5170,8 @@ protections
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=22
-	(2)
+	=44
+	(4)
 protest
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia.html
@@ -4756,17 +5184,26 @@ protesta
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=6
 	(0)
-providing
-	2 www.jilliaforwardone.com/blog/announcement.html
+provides
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
+providing
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
-	=16
-	(1)
+	=24
+	(2)
 proyecto
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -4811,11 +5248,14 @@ push
 	=6
 	(0)
 pushed
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
-	=6
-	(0)
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=14
+	(1)
 put
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -4826,9 +5266,9 @@ put
 	=12
 	(1)
 quae
-	ignored (21)
+	ignored (19)
 que
-	ignored (37)
+	ignored (33)
 quedarse
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -4861,7 +5301,7 @@ quo
 	=24
 	(2)
 racial
-	ignored (5)
+	ignored (6)
 raise
 	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index.html
@@ -4927,6 +5367,12 @@ rent
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=4
 	(0)
+rep
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 represent
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -4937,11 +5383,16 @@ representar
 	=2
 	(0)
 representative
-	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
-	2 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
-	=6
-	(0)
+	=22
+	(2)
 require
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
@@ -4964,7 +5415,7 @@ resident
 	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
 	2 www.jilliaforwardone.com/in-the-news/index.html
 	=20
-	(2)
+	(1)
 residentes
 	4 www.jilliaforwardone.com/por-qu-jillia/index.html
 	4 www.jilliaforwardone.com/por-qu-jillia/index.html
@@ -4972,7 +5423,7 @@ residentes
 	=12
 	(1)
 residents
-	ignored (7)
+	ignored (8)
 resistance
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -5024,7 +5475,21 @@ rightsinvest
 	=2
 	(0)
 ring
-	ignored (5)
+	5 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	5 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	5 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	5 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	=48
+	(4)
 rising
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -5043,7 +5508,7 @@ romeo
 	=4
 	(0)
 running
-	ignored (7)
+	ignored (6)
 safe
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -5054,9 +5519,12 @@ salario
 	=2
 	(0)
 same-sex
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 save
 	2 www.jilliaforwardone.com/index.html
@@ -5071,6 +5539,18 @@ say
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+says
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
+schedules
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	=6
 	(0)
 schedulesto
@@ -5093,7 +5573,7 @@ schools
 	=4
 	(0)
 script
-	ignored (337)
+	ignored (327)
 seat
 	3 www.jilliaforwardone.com/in-the-news-1/index.html
 	3 www.jilliaforwardone.com/in-the-news-1/index.html
@@ -5119,11 +5599,14 @@ secundaria
 	=12
 	(1)
 secure
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 see
 	3 www.jilliaforwardone.com/blog/index.html
 	3 www.jilliaforwardone.com/blog/index.html
@@ -5213,6 +5696,12 @@ set
 	2 www.jilliaforwardone.com/blog/indexecf7.html
 	=14
 	(1)
+sets
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 settle
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -5240,7 +5729,7 @@ share
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=20
-	(2)
+	(1)
 shared
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -5253,19 +5742,7 @@ shared
 	=16
 	(1)
 she
-	4 www.jilliaforwardone.com/index.html
-	4 www.jilliaforwardone.com/index.html
-	4 www.jilliaforwardone.com/index.html
-	4 www.jilliaforwardone.com/vision.html
-	4 www.jilliaforwardone.com/vision.html
-	4 www.jilliaforwardone.com/vision.html
-	4 www.jilliaforwardone.com/vision/index.html
-	4 www.jilliaforwardone.com/vision/index.html
-	4 www.jilliaforwardone.com/vision/index.html
-	2 www.jilliaforwardone.com/meet-jillia.html
-	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=40
-	(4)
+	ignored (42)
 shift
 	2 www.jilliaforwardone.com/in-the-news-1/index.html
 	2 www.jilliaforwardone.com/in-the-news-1/indexb0a6.html
@@ -5375,7 +5852,7 @@ solutions.after
 	=4
 	(0)
 solve
-	ignored (5)
+	ignored (6)
 some
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -5388,7 +5865,13 @@ some
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=20
-	(2)
+	(1)
+something
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 soon
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -5430,27 +5913,33 @@ squarespace
 	=6
 	(0)
 stable
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=22
+	=30
 	(2)
 stadiumjillia
 	2 www.jilliaforwardone.com/index.html
 	=2
 	(0)
 staff
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 stand
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
@@ -5463,19 +5952,23 @@ started
 	=2
 	(0)
 state
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=22
-	(2)
+	=34
+	(3)
 statu
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -5505,7 +5998,7 @@ stayed
 	=4
 	(0)
 steinman
-	ignored (37)
+	ignored (36)
 step
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -5569,7 +6062,7 @@ strong
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=28
-	(3)
+	(2)
 strongly
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -5587,6 +6080,18 @@ students
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	=12
 	(1)
+students.jillia
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
+success
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 successfully
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -5613,12 +6118,15 @@ sus
 	=6
 	(0)
 sustainable
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
-	=8
-	(0)
+	=14
+	(1)
 systems
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -5648,11 +6156,14 @@ tackle
 	=16
 	(1)
 tackling
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 tagged
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -5665,7 +6176,31 @@ tagged
 	=16
 	(1)
 take
-	ignored (5)
+	4 www.jilliaforwardone.com/why-jillia.html
+	4 www.jilliaforwardone.com/why-jillia.html
+	4 www.jilliaforwardone.com/why-jillia.html
+	4 www.jilliaforwardone.com/why-jillia/index.html
+	4 www.jilliaforwardone.com/why-jillia/index.html
+	4 www.jilliaforwardone.com/why-jillia/index.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	=46
+	(4)
+takes
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 talked
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -5673,7 +6208,7 @@ talked
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=10
-	(1)
+	(0)
 talking
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -5722,11 +6257,31 @@ text
 	=6
 	(0)
 than
-	ignored (5)
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	4 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	3 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
+	2 www.jilliaforwardone.com/blog/indexecf7.html
+	2 www.jilliaforwardone.com/index.html
+	2 www.jilliaforwardone.com/vision.html
+	2 www.jilliaforwardone.com/vision/index.html
+	2 www.jilliaforwardone.com/why-jillia.html
+	2 www.jilliaforwardone.com/why-jillia/index.html
+	=46
+	(4)
 that
-	ignored (45)
+	ignored (54)
 the
-	ignored (723)
+	ignored (724)
 theatre
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -5737,7 +6292,7 @@ theftkeep
 	=2
 	(0)
 their
-	ignored (9)
+	ignored (11)
 them
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -5745,8 +6300,20 @@ them
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=8
 	(0)
+then
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
+these
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 they
-	ignored (7)
+	ignored (6)
 things
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
@@ -5813,7 +6380,7 @@ time
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=20
-	(2)
+	(1)
 tiny
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -5848,18 +6415,21 @@ told
 	=4
 	(0)
 too
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=22
+	=30
 	(2)
 top
 	ignored (5)
@@ -5982,6 +6552,12 @@ unitsremoving
 	2 www.jilliaforwardone.com/index.html
 	=2
 	(0)
+unity
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 universidad
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -6029,16 +6605,19 @@ urban
 	4 www.jilliaforwardone.com/meet-jillia/index.html
 	4 www.jilliaforwardone.com/meet-jillia/index.html
 	4 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
 	2 www.jilliaforwardone.com/blog/announcement.html
-	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
 	2 www.jilliaforwardone.com/blog/index51b4.html
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
-	=42
+	=50
 	(4)
 urbana
 	4 www.jilliaforwardone.com/meetjillia-espanol/index.html
@@ -6047,11 +6626,14 @@ urbana
 	=12
 	(1)
 urge
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
-	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
-	=6
-	(0)
+	=14
+	(1)
 urgency
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
@@ -6103,7 +6685,7 @@ values
 	2 www.jilliaforwardone.com/why-jillia.html
 	2 www.jilliaforwardone.com/why-jillia/index.html
 	=40
-	(4)
+	(3)
 vecinos
 	3 www.jilliaforwardone.com/por-qu-jillia/index.html
 	3 www.jilliaforwardone.com/por-qu-jillia/index.html
@@ -6136,7 +6718,13 @@ vine
 	=2
 	(0)
 vision
-	ignored (27)
+	ignored (25)
+visionary
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=6
+	(0)
 visto
 	2 www.jilliaforwardone.com/meetjillia-espanol/index.html
 	=2
@@ -6165,15 +6753,15 @@ voice
 voices
 	ignored (5)
 wage
-	ignored (7)
+	ignored (9)
 waite
 	2 www.jilliaforwardone.com/index.html
 	=2
 	(0)
 want
-	ignored (18)
+	ignored (16)
 ward
-	ignored (133)
+	ignored (129)
 warehouse
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
@@ -6184,7 +6772,10 @@ was
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
-	=12
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=18
 	(1)
 webkit-user-select
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
@@ -6196,6 +6787,12 @@ welcome
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index3e91.html
+	=6
+	(0)
+well
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	=6
 	(0)
 were
@@ -6210,10 +6807,13 @@ what
 	4 www.jilliaforwardone.com/why-jillia/index.html
 	4 www.jilliaforwardone.com/why-jillia/index.html
 	4 www.jilliaforwardone.com/why-jillia/index.html
-	=24
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=30
 	(2)
 when
-	ignored (10)
+	ignored (14)
 where
 	4 www.jilliaforwardone.com/meet-jillia.html
 	4 www.jilliaforwardone.com/meet-jillia.html
@@ -6228,7 +6828,10 @@ which
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
-	=12
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=18
 	(1)
 while
 	2 www.jilliaforwardone.com/meet-jillia.html
@@ -6238,15 +6841,18 @@ while
 who
 	ignored (12)
 why
-	ignored (24)
+	ignored (25)
 will
-	ignored (85)
+	ignored (106)
 win
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
 	3 www.jilliaforwardone.com/meet-jillia/index.html
-	=12
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	=18
 	(1)
 windom
 	2 www.jilliaforwardone.com/in-the-news-1/index.html
@@ -6265,13 +6871,16 @@ wishing
 	=6
 	(0)
 with
-	ignored (73)
+	ignored (68)
 women
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=6
-	(0)
+	=12
+	(1)
 womenhelp
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
@@ -6279,11 +6888,14 @@ womenhelp
 	=6
 	(0)
 work
-	ignored (14)
+	ignored (16)
 worked
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
-	=4
+	=10
 	(0)
 workers
 	2 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
@@ -6292,8 +6904,16 @@ workers
 	=6
 	(0)
 working
-	ignored (5)
-workplace
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/index.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/meet-jillia/index.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision.html
+	3 www.jilliaforwardone.com/vision/index.html
+	3 www.jilliaforwardone.com/vision/index.html
 	2 www.jilliaforwardone.com/blog/announcement.html
 	2 www.jilliaforwardone.com/blog/index.html
 	2 www.jilliaforwardone.com/blog/index07bc.html
@@ -6302,10 +6922,24 @@ workplace
 	2 www.jilliaforwardone.com/blog/index9767.html
 	2 www.jilliaforwardone.com/blog/indexaba0.html
 	2 www.jilliaforwardone.com/blog/indexbb73.html
+	=46
+	(4)
+workplace
+	3 www.jilliaforwardone.com/blog/index.html
+	3 www.jilliaforwardone.com/blog/index.html
+	2 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	2 www.jilliaforwardone.com/blog/announcement.html
+	2 www.jilliaforwardone.com/blog/index07bc.html
+	2 www.jilliaforwardone.com/blog/index3e91.html
+	2 www.jilliaforwardone.com/blog/index51b4.html
+	2 www.jilliaforwardone.com/blog/index9767.html
+	2 www.jilliaforwardone.com/blog/indexaba0.html
+	2 www.jilliaforwardone.com/blog/indexb0a6.html
+	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/vision.html
 	2 www.jilliaforwardone.com/vision/index.html
-	=22
+	=30
 	(2)
 works
 	2 www.jilliaforwardone.com/meet-jillia.html
@@ -6336,7 +6970,7 @@ yai
 	=6
 	(0)
 year
-	ignored (17)
+	ignored (15)
 years
 	2 www.jilliaforwardone.com/index.html
 	2 www.jilliaforwardone.com/meet-jillia.html
@@ -6344,14 +6978,14 @@ years
 	=6
 	(0)
 you
-	ignored (28)
+	ignored (34)
 young
 	2 www.jilliaforwardone.com/meet-jillia.html
 	2 www.jilliaforwardone.com/meet-jillia/index.html
 	=4
 	(0)
 your
-	ignored (16)
+	ignored (14)
 youth
 	3 www.jilliaforwardone.com/meet-jillia.html
 	3 www.jilliaforwardone.com/meet-jillia.html
@@ -6367,7 +7001,7 @@ youth
 	2 www.jilliaforwardone.com/blog/indexbb73.html
 	2 www.jilliaforwardone.com/index.html
 	=30
-	(3)
+	(2)
 z-index
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.journalmpls.com/news/2016/12/windom-park-resident-to-challenge-for-reichs-ward-1-seat/__The.html
 	2 www.jilliaforwardone.com/in-the-news/_http_/www.mynortheaster.com/wp-content/news-archives/161214Northeaster/__Northeaster_/a__/p__.html
@@ -6390,20 +7024,19 @@ zoning
 	3 www.jilliaforwardone.com/blog/indexecf7.html
 	3 www.jilliaforwardone.com/blog/indexecf7.html
 	=146
-aforwardone.com/blog/indexbb73.html
+forwardone.com/blog/indexbb73.html
+	5 www.jilliaforwardone.com/blog/indexbb73.html
+	5 www.jilliaforwardone.com/blog/indexbb73.html
+	5 www.jilliaforwardone.com/blog/indexbb73.html
 	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
 	4 www.jilliaforwardone.com/blog/2016/12/19/get-ready-to-ring-in-the-new-year.html
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/2017/1/22/state-representative-ilhan-omar-endorses-jillia-pessenda.html
+	4 www.jilliaforwardone.com/blog/indexb0a6.html
+	4 www.jilliaforwardone.com/blog/indexb0a6.html
+	4 www.jilliaforwardone.com/blog/indexb0a6.html
 	2 www.jilliaforwardone.com/blog/2016/12/29/join-me-next-thursday-for-our-campaign-kickoff-event.html
 	2 www.jilliaforwardone.com/blog/indexecf7.html
-	=264
-ay-for-our-campaign-kickoff-event.html
-	2 www.jilliaforwardone.com/blog/indexecf7.html
-	2 www.jilliaforwardone.com/vision.html
-	2 www.jilliaforwardone.com/vision/index.html
-	=668
-eet-jillia/index.html
-	3 www.jilliaforwardone.com/meet-jillia/index.html
-	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
-	3 www.jilliaforwardone.com/meetjillia-espanol/index.html
-	=1220
+	=348

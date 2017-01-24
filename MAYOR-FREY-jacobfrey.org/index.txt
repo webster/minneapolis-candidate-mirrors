@@ -100,8 +100,12 @@ address
 	2 jacobfrey.org/join/index.html
 	=10
 	(1)
+afford
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
 affordable
-	ignored (23)
+	ignored (26)
 after
 	4 jacobfrey.org/issues/index.html
 	4 jacobfrey.org/issues/index.html
@@ -177,7 +181,7 @@ almost
 	=4
 	(0)
 also
-	ignored (11)
+	ignored (13)
 always
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
@@ -214,7 +218,7 @@ amount
 amp
 	ignored (7)
 and
-	ignored (1538)
+	ignored (1547)
 announce
 	3 jacobfrey.org/media-releases.html
 	3 jacobfrey.org/media-releases.html
@@ -281,8 +285,9 @@ answering
 	=2
 	(0)
 any
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 approach
 	2 jacobfrey.org/issues/index.html
@@ -294,7 +299,7 @@ arbitrary
 	=4
 	(0)
 are
-	ignored (102)
+	ignored (101)
 area
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -304,14 +309,19 @@ areas
 	=2
 	(0)
 around
-	3 jacobfrey.org/issues/index.html
-	3 jacobfrey.org/issues/index.html
-	=6
-	(0)
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
 arts
 	2 jacobfrey.org/index.html
 	2 jacobfrey.org/issues/index.html
 	=4
+	(0)
+aside
+	2 jacobfrey.org/issues/index.html
+	=2
 	(0)
 asking
 	2 jacobfrey.org/issues/index.html
@@ -378,7 +388,7 @@ away
 	=2
 	(0)
 back
-	ignored (7)
+	ignored (6)
 backgrounds
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -438,7 +448,7 @@ beat
 	=2
 	(0)
 because
-	ignored (6)
+	ignored (8)
 become
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -588,7 +598,7 @@ brewing
 	=30
 	(4)
 bright
-	ignored (11)
+	ignored (10)
 bring
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
@@ -639,7 +649,7 @@ business
 businesses
 	ignored (5)
 but
-	ignored (14)
+	ignored (16)
 call
 	ignored (6)
 calorie
@@ -778,7 +788,7 @@ citizens
 	=2
 	(0)
 city
-	ignored (105)
+	ignored (115)
 city-wide
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -978,13 +988,14 @@ company1300
 	(1)
 compassionate
 	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
 	2 jacobfrey.org/media-releases.html
 	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
 	2 jacobfrey.org/media-releases/index.html
 	2 jacobfrey.org/media-releases/index7441.html
 	2 jacobfrey.org/media-releases/index8f3e.html
-	=12
-	(1)
+	=14
+	(2)
 competed
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
@@ -1102,9 +1113,11 @@ correspondence
 	=2
 	(0)
 cost
-	2 jacobfrey.org/issues/index.html
-	=2
-	(0)
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
 costs
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -1114,9 +1127,9 @@ could
 	=2
 	(0)
 council
-	ignored (5)
+	ignored (8)
 councilmember
-	ignored (11)
+	ignored (10)
 councilthe
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -1526,13 +1539,14 @@ e9s
 	ignored (6)
 e9t
 	2 jacobfrey.org/index.html
+	2 jacobfrey.org/issues/index.html
 	2 jacobfrey.org/media-releases.html
 	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
 	2 jacobfrey.org/media-releases/index.html
 	2 jacobfrey.org/media-releases/index7441.html
 	2 jacobfrey.org/media-releases/index8f3e.html
-	=12
-	(1)
+	=14
+	(2)
 e9the
 	2 jacobfrey.org/media-releases.html
 	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
@@ -1678,6 +1692,14 @@ end
 	=6
 	(0)
 endangered
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+ending
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+enearly
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
@@ -1829,6 +1851,10 @@ example
 	(1)
 exceptional
 	2 jacobfrey.org/index.html
+	=2
+	(0)
+exclusively
+	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
 expand
@@ -2035,7 +2061,7 @@ footage
 	=2
 	(0)
 for
-	ignored (435)
+	ignored (452)
 force
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
@@ -2107,7 +2133,7 @@ fresh
 	=2
 	(0)
 frey
-	ignored (93)
+	ignored (92)
 freytonight
 	2 jacobfrey.org/media-releases.html
 	2 jacobfrey.org/media-releases/2017/1/3/councilmember-jacob-frey-expected-to-share-bold-vision-in-announcement-of-run-for-mayor.html
@@ -2117,7 +2143,7 @@ freytonight
 	=10
 	(1)
 from
-	ignored (19)
+	ignored (21)
 fruits
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -2144,12 +2170,13 @@ fully
 	=6
 	(0)
 fund
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
 	3 jacobfrey.org/we-get-things-done.html
 	3 jacobfrey.org/we-get-things-done.html
 	3 jacobfrey.org/we-get-things-done/index.html
 	3 jacobfrey.org/we-get-things-done/index.html
-	2 jacobfrey.org/issues/index.html
-	=14
+	=18
 	(2)
 fundamental
 	2 jacobfrey.org/issues/index.html
@@ -2221,6 +2248,10 @@ give
 	=6
 	(0)
 gives
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+giving
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
@@ -2354,9 +2385,9 @@ harness
 	=2
 	(0)
 has
-	ignored (16)
+	ignored (18)
 have
-	ignored (30)
+	ignored (34)
 head
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -2455,18 +2486,23 @@ holistic
 	=2
 	(0)
 home
-	ignored (16)
+	ignored (17)
 homegrown
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
 homeless
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
+homelessness
+	ignored (6)
+homelessnessi
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
-homelessness
-	ignored (5)
-homelessnessi
+homes
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
@@ -2497,7 +2533,7 @@ hours
 	=6
 	(0)
 housing
-	ignored (16)
+	ignored (19)
 housing.during
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -2617,9 +2653,10 @@ incorporated
 increase
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
+	2 jacobfrey.org/issues/index.html
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
-	=8
+	=10
 	(1)
 increased
 	3 jacobfrey.org/issues/index.html
@@ -2736,7 +2773,7 @@ its
 	=12
 	(1)
 jacob
-	ignored (326)
+	ignored (322)
 jacobfrey.orgpaid
 	ignored (6)
 jake
@@ -2744,12 +2781,13 @@ jake
 january
 	ignored (29)
 job
-	ignored (5)
+	ignored (6)
 jobs
-	3 jacobfrey.org/issues/index.html
-	3 jacobfrey.org/issues/index.html
-	=6
-	(0)
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
 join
 	ignored (17)
 july
@@ -2764,7 +2802,7 @@ just
 	=6
 	(0)
 justice
-	ignored (7)
+	ignored (6)
 justicea
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -2895,8 +2933,9 @@ lease
 	=2
 	(0)
 least
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 leave
 	2 jacobfrey.org/we-get-things-done.html
@@ -2991,8 +3030,9 @@ lives
 	=4
 	(0)
 living
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 local
 	5 jacobfrey.org/issues/index.html
@@ -3197,7 +3237,7 @@ maximum
 	=6
 	(0)
 mayor
-	ignored (35)
+	ignored (34)
 mayor.along
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
@@ -3212,18 +3252,22 @@ meat
 	=2
 	(0)
 media
-	ignored (19)
+	ignored (18)
 meet
-	ignored (7)
+	ignored (6)
 member
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/index.html
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	2 jacobfrey.org/bio.html
+	2 jacobfrey.org/bio/index.html
 	2 jacobfrey.org/events/2017/2/2/meet-greet-with-jacob.html
 	2 jacobfrey.org/events/index.html
 	2 jacobfrey.org/events/index7441.html
 	2 jacobfrey.org/events/index8f3e.html
-	2 jacobfrey.org/index.html
-	2 jacobfrey.org/issues/index.html
-	=12
-	(1)
+	=24
+	(3)
 members
 	3 jacobfrey.org/we-get-things-done.html
 	3 jacobfrey.org/we-get-things-done.html
@@ -3275,7 +3319,7 @@ minimum
 	=16
 	(2)
 minneapolis
-	ignored (121)
+	ignored (119)
 minneapolis.tenant
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
@@ -3376,7 +3420,7 @@ month
 	=2
 	(0)
 more
-	ignored (7)
+	ignored (9)
 most
 	3 jacobfrey.org/issues/index.html
 	3 jacobfrey.org/issues/index.html
@@ -3451,7 +3495,7 @@ necessary
 	=6
 	(0)
 need
-	ignored (18)
+	ignored (17)
 needed
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -3487,7 +3531,7 @@ never
 	=14
 	(2)
 new
-	ignored (11)
+	ignored (10)
 next
 	3 jacobfrey.org/issues/index.html
 	3 jacobfrey.org/issues/index.html
@@ -3522,7 +3566,7 @@ northern
 	=6
 	(0)
 not
-	ignored (37)
+	ignored (41)
 nothing
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -3601,27 +3645,18 @@ once
 	=6
 	(0)
 one
-	3 jacobfrey.org/issues/index.html
-	3 jacobfrey.org/issues/index.html
-	2 jacobfrey.org/bio.html
-	2 jacobfrey.org/bio/index.html
-	2 jacobfrey.org/media-releases.html
-	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
-	2 jacobfrey.org/media-releases/index.html
-	2 jacobfrey.org/media-releases/index7441.html
-	2 jacobfrey.org/media-releases/index8f3e.html
-	=20
-	(3)
+	ignored (5)
 one.but
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
 only
-	4 jacobfrey.org/issues/index.html
-	4 jacobfrey.org/issues/index.html
-	4 jacobfrey.org/issues/index.html
-	=12
-	(1)
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
 open
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
@@ -3695,7 +3730,7 @@ others
 	=4
 	(0)
 our
-	ignored (147)
+	ignored (153)
 ourselves
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -3849,12 +3884,14 @@ per
 	=18
 	(2)
 percentage
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 person
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 personally
 	2 jacobfrey.org/issues/index.html
@@ -3944,10 +3981,11 @@ policing
 	=2
 	(0)
 policy
-	3 jacobfrey.org/issues/index.html
-	3 jacobfrey.org/issues/index.html
-	=6
-	(0)
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
 political
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -3979,11 +4017,12 @@ poorest
 	=2
 	(0)
 population
-	4 jacobfrey.org/issues/index.html
-	4 jacobfrey.org/issues/index.html
-	4 jacobfrey.org/issues/index.html
-	=12
-	(1)
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	5 jacobfrey.org/issues/index.html
+	=20
+	(3)
 position
 	3 jacobfrey.org/issues/index.html
 	3 jacobfrey.org/issues/index.html
@@ -4170,6 +4209,11 @@ properties
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
+property
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
+	(0)
 prosper.repurposing
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
@@ -4328,6 +4372,10 @@ received
 	3 jacobfrey.org/bio/index.html
 	=12
 	(1)
+receives
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
 recent
 	2 jacobfrey.org/issues/index.html
 	2 jacobfrey.org/we-get-things-done.html
@@ -4647,6 +4695,10 @@ return
 	2 jacobfrey.org/index.html
 	=2
 	(0)
+revenue
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
 rewarding
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -4805,7 +4857,7 @@ schools
 	=4
 	(0)
 script
-	ignored (388)
+	ignored (384)
 sector
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
@@ -4870,12 +4922,13 @@ sessions
 	=2
 	(0)
 set
+	2 jacobfrey.org/issues/index.html
 	2 jacobfrey.org/media-releases.html
 	2 jacobfrey.org/media-releases/2017/1/3/jacob-frey-announces-campaign-for-mayor.html
 	2 jacobfrey.org/media-releases/index.html
 	2 jacobfrey.org/media-releases/index7441.html
 	2 jacobfrey.org/media-releases/index8f3e.html
-	=10
+	=12
 	(1)
 setting
 	2 jacobfrey.org/issues/index.html
@@ -5011,6 +5064,10 @@ slower
 	(0)
 small
 	ignored (10)
+smart
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
 snow
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -5084,6 +5141,10 @@ spaces
 	2 jacobfrey.org/we-get-things-done/index.html
 	=4
 	(0)
+special
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
 sports
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
@@ -5134,8 +5195,9 @@ step
 	=2
 	(0)
 still
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 stood
 	2 jacobfrey.org/issues/index.html
@@ -5164,8 +5226,9 @@ stream
 	=2
 	(0)
 street
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 streets
 	3 jacobfrey.org/issues/index.html
@@ -5223,6 +5286,10 @@ successfully
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
 	=4
+	(0)
+such
+	2 jacobfrey.org/issues/index.html
+	=2
 	(0)
 suite
 	ignored (6)
@@ -5333,8 +5400,9 @@ tasked
 	=2
 	(0)
 tax
-	2 jacobfrey.org/issues/index.html
-	=2
+	3 jacobfrey.org/issues/index.html
+	3 jacobfrey.org/issues/index.html
+	=6
 	(0)
 team
 	ignored (13)
@@ -5349,7 +5417,7 @@ terms
 	=2
 	(0)
 than
-	ignored (11)
+	ignored (10)
 thank
 	2 jacobfrey.org/caucus/index.html
 	2 jacobfrey.org/join.html
@@ -5357,18 +5425,18 @@ thank
 	=6
 	(0)
 that
-	ignored (127)
+	ignored (126)
 that.streamlining
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
 	=4
 	(0)
 the
-	ignored (1188)
+	ignored (1392)
 their
 	ignored (19)
 them
-	ignored (5)
+	ignored (6)
 them.a
 	2 jacobfrey.org/issues/index.html
 	=2
@@ -5397,11 +5465,13 @@ these
 	=6
 	(0)
 they
-	ignored (20)
+	ignored (24)
 thing
-	2 jacobfrey.org/issues/index.html
-	=2
-	(0)
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	4 jacobfrey.org/issues/index.html
+	=12
+	(1)
 things
 	4 jacobfrey.org/we-get-things-done.html
 	4 jacobfrey.org/we-get-things-done.html
@@ -5476,6 +5546,10 @@ timely
 	3 jacobfrey.org/issues/index.html
 	3 jacobfrey.org/issues/index.html
 	=6
+	(0)
+times
+	2 jacobfrey.org/issues/index.html
+	=2
 	(0)
 together
 	2 jacobfrey.org/index.html
@@ -5590,6 +5664,10 @@ twin
 	2 jacobfrey.org/bio/index.html
 	=4
 	(0)
+two
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
 tying
 	2 jacobfrey.org/we-get-things-done.html
 	2 jacobfrey.org/we-get-things-done/index.html
@@ -5689,6 +5767,14 @@ vacant
 	=16
 	(2)
 valuable
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+valued
+	2 jacobfrey.org/issues/index.html
+	=2
+	(0)
+values
 	2 jacobfrey.org/issues/index.html
 	=2
 	(0)
@@ -5907,14 +5993,14 @@ wide
 	=4
 	(0)
 will
-	ignored (46)
+	ignored (45)
 william
 	2 jacobfrey.org/bio.html
 	2 jacobfrey.org/bio/index.html
 	=4
 	(0)
 with
-	ignored (181)
+	ignored (179)
 with.this
 	2 jacobfrey.org/issues/index.html
 	=2

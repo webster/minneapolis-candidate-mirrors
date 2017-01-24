@@ -1,5 +1,5 @@
-https://jacobfrey.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-FREY-jacobfrey.org/ -%I -F Mozilla/5.0 -%F " " -q -q -q -q -q
-File generated automatically on Sun, 22 Jan 2017 17:03:14, do NOT edit
+https://jacobfrey.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-FREY-jacobfrey.org/ -%I -F Mozilla/5.0 -%F " " -q -q -q -q -q -q
+File generated automatically on Tue, 24 Jan 2017 18:43:09, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

@@ -58,9 +58,9 @@ anaiowakansaskentuckylouisianamainemarshall
 	=4
 	(4)
 and
-	ignored (1390)
+	ignored (1385)
 anne
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 another
@@ -117,7 +117,7 @@ bolivarian
 	=4
 	(4)
 brewer
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 bring
@@ -130,11 +130,11 @@ britishvirgin
 	=4
 	(4)
 brooks
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 bueche
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 business
@@ -155,6 +155,10 @@ calendar
 	=4
 	(4)
 called
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
+campaign
 	2 nekima.nationbuilder.com/index.html
 	=2
 	(2)
@@ -179,11 +183,11 @@ catalyst
 	=2
 	(2)
 cathy
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 caucus
-	ignored (26)
+	ignored (25)
 change
 	ignored (7)
 changing
@@ -229,6 +233,10 @@ contact
 	(4)
 continue
 	ignored (14)
+contribute
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
 contribution
 	ignored (47)
 corporate
@@ -277,7 +285,7 @@ darussalambulgariaburkina
 	=4
 	(4)
 deb
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 democratic
@@ -290,14 +298,14 @@ describe
 don
 	ignored (14)
 donate
-	ignored (16)
+	ignored (9)
 donated
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
 	=4
 	(4)
 donating
-	ignored (14)
+	ignored (9)
 donation
 	ignored (28)
 driven
@@ -414,7 +422,7 @@ georgia
 get
 	ignored (21)
 graham
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 green
@@ -428,7 +436,7 @@ grenadinessamoasan
 	=4
 	(4)
 gries
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 guianafrench
@@ -451,7 +459,9 @@ hard
 	=2
 	(2)
 harrison
-	ignored (7)
+	2 nekima.nationbuilder.com/donate.html
+	=2
+	(2)
 have
 	ignored (9)
 helena
@@ -468,6 +478,8 @@ herzegovinabotswanabouvet
 	2 nekima.nationbuilder.com/index.html
 	=4
 	(4)
+hibbard
+	ignored (7)
 hondurashong
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -602,18 +614,20 @@ jan
 	=4
 	(4)
 jeanne
-	ignored (7)
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
 jerseynew
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
 	=4
 	(4)
 joe
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 john
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 join
@@ -621,17 +635,19 @@ join
 	=2
 	(2)
 jones
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 juana
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 justice
 	ignored (14)
 katherine
-	ignored (7)
+	2 nekima.nationbuilder.com/donate.html
+	=2
+	(2)
 kimpa
 	ignored (7)
 kingdomunited
@@ -639,6 +655,8 @@ kingdomunited
 	2 nekima.nationbuilder.com/index.html
 	=4
 	(4)
+kirstin
+	ignored (7)
 kitts
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -694,7 +712,7 @@ leonesingaporesint
 	=4
 	(4)
 leslie
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 levy-pounds
@@ -744,7 +762,7 @@ martin
 	=4
 	(4)
 max
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 mayenswazilandswedenswitzerlandsyrian
@@ -770,7 +788,7 @@ mexiconew
 	=4
 	(4)
 minneapolis
-	ignored (73)
+	ignored (56)
 minor
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -789,15 +807,15 @@ namvirgin
 	=4
 	(4)
 nancy
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 nate
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 nathan
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 nationbuilder
@@ -886,7 +904,7 @@ paradigm
 	=2
 	(2)
 paul
-	2 nekima.nationbuilder.com/donate.html
+	2 nekima.nationbuilder.com/index.html
 	=2
 	(2)
 payment
@@ -961,7 +979,7 @@ put
 racial
 	ignored (7)
 rastetter
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 real
@@ -1028,7 +1046,7 @@ role
 	=2
 	(2)
 rose
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 rules
@@ -1071,13 +1089,15 @@ sandwich
 	=4
 	(4)
 schanilec
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 schnitzen
-	ignored (7)
+	2 nekima.nationbuilder.com/index.html
+	=2
+	(2)
 script
-	ignored (1418)
+	ignored (1653)
 see
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1093,7 +1113,7 @@ send
 serve
 	ignored (7)
 sharon
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 shift
@@ -1194,7 +1214,7 @@ that
 	=4
 	(4)
 the
-	ignored (222)
+	ignored (249)
 thecook
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1283,7 +1303,7 @@ virginiawisconsinwyoming
 volunteer
 	ignored (16)
 waldoch
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 website
@@ -1294,17 +1314,17 @@ website
 whatever
 	ignored (7)
 whitmore
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 who
-	ignored (14)
+	ignored (9)
 will
 	2 nekima.nationbuilder.com/index.html
 	=2
 	(2)
 wilson
-	2 nekima.nationbuilder.com/index.html
+	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
 with

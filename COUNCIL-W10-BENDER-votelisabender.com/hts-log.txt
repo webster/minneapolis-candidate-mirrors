@@ -1,19 +1,19 @@
-HTTrack3.48-23 launched on Wed, 25 Jan 2017 00:59:53 at https://www.votelisabender.com/
-(httrack https://www.votelisabender.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W10-BENDER-votelisabender.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q )
+HTTrack3.48-23 launched on Wed, 25 Jan 2017 18:54:54 at https://www.votelisabender.com/
+(httrack https://www.votelisabender.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W10-BENDER-votelisabender.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-01:00:10	Warning: 	Moved Temporarily for https://www.votelisabender.com/get-involved-1/
-01:00:10	Warning: 	File has moved from https://www.votelisabender.com/get-involved-1/ to https://act.myngp.com/Forms/-1154946811769451776
-01:00:11	Warning: 	Moved Temporarily for https://www.votelisabender.com/bio/
-01:00:11	Warning: 	File has moved from https://www.votelisabender.com/bio/ to /about/
-01:00:14	Error: 	"Not Found" (404) at link https://www.votelisabender.com/"//www.youtube.com/embed/euaiB6XMCxQ?feature=youtu.be&amp;wmode=opaque&amp;enablejsapi=1\%22 (from https://www.votelisabender.com/)
-01:00:15	Error: 	"Not Found" (404) at link https://www.votelisabender.com/"//www.youtube.com/embed/euaiB6XMCxQ?feature=youtu.be&wmode=opaque&enablejsapi=1%22 (from https://www.votelisabender.com/)
-01:00:17	Error: 	"Not Found" (404) at link https://www.votelisabender.com/media/"//www.youtube.com/embed/euaiB6XMCxQ?wmode=opaque&amp;enablejsapi=1%22 (from https://www.votelisabender.com/media/)
-01:00:17	Error: 	"Not Found" (404) at link https://www.votelisabender.com/"//www.youtube.com/embed/euaiB6XMCxQ?wmode=opaque&amp;enablejsapi=1%22 (from https://www.votelisabender.com/media)
+18:55:11	Warning: 	Moved Temporarily for https://www.votelisabender.com/get-involved-1/
+18:55:11	Warning: 	File has moved from https://www.votelisabender.com/get-involved-1/ to https://act.myngp.com/Forms/-1154946811769451776
+18:55:12	Warning: 	Moved Temporarily for https://www.votelisabender.com/bio/
+18:55:12	Warning: 	File has moved from https://www.votelisabender.com/bio/ to /about/
+18:55:15	Error: 	"Not Found" (404) at link https://www.votelisabender.com/"//www.youtube.com/embed/euaiB6XMCxQ?feature=youtu.be&amp;wmode=opaque&amp;enablejsapi=1\%22 (from https://www.votelisabender.com/)
+18:55:18	Error: 	"Not Found" (404) at link https://www.votelisabender.com/"//www.youtube.com/embed/euaiB6XMCxQ?feature=youtu.be&wmode=opaque&enablejsapi=1%22 (from https://www.votelisabender.com/)
+18:55:18	Error: 	"Not Found" (404) at link https://www.votelisabender.com/media/"//www.youtube.com/embed/euaiB6XMCxQ?wmode=opaque&amp;enablejsapi=1%22 (from https://www.votelisabender.com/media/)
+18:55:18	Error: 	"Not Found" (404) at link https://www.votelisabender.com/"//www.youtube.com/embed/euaiB6XMCxQ?wmode=opaque&amp;enablejsapi=1%22 (from https://www.votelisabender.com/media)
 
-HTTrack Website Copier/3.48-23 mirror complete in 24 seconds : 32 links scanned, 26 files written (1023343 bytes overall), 26 files updated [364469 bytes received at 15186 bytes/sec], 1146390 bytes transferred using HTTP compression in 22 files, ratio 25%
+HTTrack Website Copier/3.48-23 mirror complete in 25 seconds : 32 links scanned, 26 files written (1023343 bytes overall), 26 files updated [364579 bytes received at 14583 bytes/sec], 1146390 bytes transferred using HTTP compression in 22 files, ratio 25%
 (4 errors, 4 warnings, 0 messages)

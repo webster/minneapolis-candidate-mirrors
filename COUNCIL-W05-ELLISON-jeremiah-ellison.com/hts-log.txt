@@ -1,5 +1,5 @@
-HTTrack3.48-23 launched on Tue, 24 Jan 2017 19:54:02 at https://www.jeremiah-ellison.com/
-(httrack https://www.jeremiah-ellison.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W05-ELLISON-jeremiah-ellison.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q )
+HTTrack3.48-23 launched on Wed, 25 Jan 2017 00:52:08 at https://www.jeremiah-ellison.com/
+(httrack https://www.jeremiah-ellison.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W05-ELLISON-jeremiah-ellison.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.48-23 mirror complete in 14 seconds : 13 links scanned, 13 files written (521174 bytes overall), 12 files updated [136626 bytes received at 9759 bytes/sec], 460057 bytes transferred using HTTP compression in 11 files, ratio 28%
+HTTrack Website Copier/3.48-23 mirror complete in 14 seconds : 13 links scanned, 13 files written (521174 bytes overall), 12 files updated [136699 bytes received at 9764 bytes/sec], 460057 bytes transferred using HTTP compression in 11 files, ratio 28%
 (No errors, 0 warnings, 0 messages)

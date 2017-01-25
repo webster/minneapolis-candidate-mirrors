@@ -1,5 +1,5 @@
 about
-	ignored (74)
+	ignored (72)
 abraham-watnegretchen
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -103,6 +103,7 @@ address
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/endorsements.html
 	2 www.janneformpls.org/phone_bank_20170124.html
@@ -126,7 +127,7 @@ address
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=64
+	=66
 	(4)
 addressing
 	2 www.janneformpls.org/issues.html
@@ -177,7 +178,19 @@ afford
 	=2
 	(0)
 affordable
-	ignored (5)
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	3 www.janneformpls.org/index.html
+	3 www.janneformpls.org/index.html
+	2 www.janneformpls.org/endorsements.html
+	2 www.janneformpls.org/meet_janne.html
+	=66
+	(4)
 after
 	4 www.janneformpls.org/meet_janne.html
 	4 www.janneformpls.org/meet_janne.html
@@ -221,6 +234,7 @@ alex
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
 	2 www.janneformpls.org/phone_bank_20170131.html
@@ -241,7 +255,7 @@ alex
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=46
+	=48
 	(3)
 all
 	ignored (6)
@@ -276,12 +290,17 @@ also
 	2 www.janneformpls.org/caucus_for_janne.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/issues.html
 	2 www.janneformpls.org/meet_janne.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
-	=16
+	2 www.janneformpls.org/phone_bank_20170131.html
+	2 www.janneformpls.org/phone_bank_20170202.html
+	2 www.janneformpls.org/phone_bank_20170207.html
+	2 www.janneformpls.org/phone_bank_20170209.html
+	=26
 	(1)
 altbaum
 	2 www.janneformpls.org/endorsements.html
@@ -320,7 +339,7 @@ amy
 	=2
 	(0)
 and
-	ignored (765)
+	ignored (760)
 anne
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -393,8 +412,10 @@ april
 	3 www.janneformpls.org/volunteer.html
 	=18
 	(1)
+apt
+	ignored (8)
 are
-	ignored (39)
+	ignored (38)
 around
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -541,7 +562,7 @@ bakery
 	=10
 	(0)
 bank
-	ignored (91)
+	ignored (85)
 bargencameran
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -774,6 +795,7 @@ boutrous
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
 	2 www.janneformpls.org/phone_bank_20170131.html
@@ -794,7 +816,7 @@ boutrous
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=46
+	=48
 	(3)
 boutrousamy
 	2 www.janneformpls.org/endorsements.html
@@ -823,6 +845,7 @@ bringing
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/meet_janne.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -844,13 +867,21 @@ bringing
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=54
+	=56
 	(4)
 brings
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
 	2 www.janneformpls.org/index.html
 	=8
+	(0)
+bros
+	2 www.janneformpls.org/coffee_caucus_20170201.html
+	2 www.janneformpls.org/events.html
+	2 www.janneformpls.org/events2679.html
+	2 www.janneformpls.org/eventsa54e.html
+	2 www.janneformpls.org/tags/coffee_caucus.html
+	=10
 	(0)
 brought
 	3 www.janneformpls.org/meet_janne.html
@@ -989,7 +1020,7 @@ camp
 	=2
 	(0)
 campaign
-	ignored (83)
+	ignored (88)
 campaigns
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -1002,22 +1033,7 @@ cancer
 	=2
 	(0)
 candidate
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/caucus_for_janne.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/events4658.html
-	=40
-	(3)
+	ignored (5)
 candidates
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -1039,7 +1055,7 @@ capacity
 	=2
 	(0)
 capra
-	ignored (38)
+	ignored (36)
 caprakathryn
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -1059,7 +1075,9 @@ carefully
 	=4
 	(0)
 carl
-	ignored (6)
+	2 www.janneformpls.org/endorsements.html
+	=2
+	(0)
 carmodyjanet
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -1082,7 +1100,7 @@ cats
 	=2
 	(0)
 caucus
-	ignored (119)
+	ignored (115)
 caucuser
 	3 www.janneformpls.org/caucus_for_janne.html
 	3 www.janneformpls.org/caucus_for_janne.html
@@ -1201,7 +1219,7 @@ chouinardcolleen
 	=2
 	(0)
 christine
-	ignored (38)
+	ignored (37)
 chughtaialex
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -1220,7 +1238,7 @@ citizen
 	=2
 	(0)
 city
-	ignored (204)
+	ignored (197)
 city-owned
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -1286,6 +1304,7 @@ code
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/index.html
 	2 www.janneformpls.org/phone_bank_20170124.html
@@ -1309,10 +1328,10 @@ code
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=52
+	=54
 	(4)
 coffee
-	ignored (28)
+	ignored (32)
 coleshaina
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -1340,6 +1359,7 @@ come
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/events.html
 	2 www.janneformpls.org/events2679.html
 	2 www.janneformpls.org/events4658.html
@@ -1366,7 +1386,7 @@ come
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=58
+	=60
 	(4)
 comes
 	2 www.janneformpls.org/issues.html
@@ -1412,7 +1432,7 @@ communities
 	=32
 	(2)
 community
-	ignored (7)
+	ignored (6)
 community-based
 	2 www.janneformpls.org/issues.html
 	=2
@@ -1470,6 +1490,7 @@ contact
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
 	2 www.janneformpls.org/phone_bank_20170131.html
@@ -1490,7 +1511,7 @@ contact
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=46
+	=48
 	(3)
 continually
 	2 www.janneformpls.org/endorsements.html
@@ -1571,7 +1592,7 @@ could
 	=18
 	(1)
 council
-	ignored (125)
+	ignored (122)
 count
 	2 www.janneformpls.org/issues.html
 	=2
@@ -1631,7 +1652,7 @@ curraneliot
 	=2
 	(0)
 current
-	ignored (14)
+	ignored (13)
 currently
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -1690,14 +1711,16 @@ decades
 	=2
 	(0)
 december
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	=18
-	(1)
+	2 www.janneformpls.org/coffee_caucus_20170201.html
+	=28
+	(2)
 decision
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -1804,24 +1827,9 @@ detailed
 	=2
 	(0)
 details
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/endorsements.html
-	2 www.janneformpls.org/events4658.html
-	=40
-	(3)
+	ignored (5)
 determined
-	ignored (27)
+	ignored (26)
 developing
 	2 www.janneformpls.org/issues.html
 	=2
@@ -1859,24 +1867,7 @@ did
 	=6
 	(0)
 different
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/endorsements.html
-	3 www.janneformpls.org/endorsements.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/contact_us.html
-	2 www.janneformpls.org/events4658.html
-	=46
-	(3)
+	ignored (5)
 differently
 	2 www.janneformpls.org/issues.html
 	=2
@@ -1887,7 +1878,7 @@ difficult
 	=6
 	(0)
 directions
-	ignored (38)
+	ignored (37)
 directly
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -1990,8 +1981,16 @@ drop-in
 	2 www.janneformpls.org/meet_janne.html
 	=2
 	(0)
+dunn
+	2 www.janneformpls.org/coffee_caucus_20170201.html
+	2 www.janneformpls.org/events.html
+	2 www.janneformpls.org/events2679.html
+	2 www.janneformpls.org/eventsa54e.html
+	2 www.janneformpls.org/tags/coffee_caucus.html
+	=10
+	(0)
 dupont
-	ignored (9)
+	ignored (8)
 e9excuse
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -2033,7 +2032,7 @@ e9re
 	=12
 	(0)
 e9s
-	ignored (25)
+	ignored (24)
 e9safety
 	2 www.janneformpls.org/issues.html
 	=2
@@ -2104,10 +2103,12 @@ education
 	=2
 	(0)
 edwards
+	3 www.janneformpls.org/tags/coffee_caucus.html
+	3 www.janneformpls.org/tags/coffee_caucus.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/endorsements.html
-	2 www.janneformpls.org/tags/coffee_caucus.html
-	=6
+	=12
 	(0)
 edwardsteri
 	2 www.janneformpls.org/endorsements.html
@@ -2162,6 +2163,8 @@ elections
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
 	(0)
+elhai
+	ignored (5)
 eligible
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -2361,7 +2364,7 @@ evenings
 event
 	ignored (7)
 events
-	ignored (80)
+	ignored (82)
 every
 	ignored (5)
 everybody
@@ -2375,7 +2378,7 @@ everybody
 	=56
 	(4)
 everyone
-	ignored (30)
+	ignored (29)
 everything
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -2445,7 +2448,7 @@ extremely
 	=2
 	(0)
 facebook
-	ignored (27)
+	ignored (33)
 fact
 	2 www.janneformpls.org/issues.html
 	=2
@@ -2498,7 +2501,7 @@ fear
 	=2
 	(0)
 february
-	ignored (19)
+	ignored (20)
 federation
 	2 www.janneformpls.org/issues.html
 	2 www.janneformpls.org/meet_janne.html
@@ -2596,27 +2599,7 @@ fixing
 	=2
 	(0)
 flisrand
-	4 www.janneformpls.org/endorsements.html
-	4 www.janneformpls.org/endorsements.html
-	4 www.janneformpls.org/endorsements.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/meet_janne.html
-	3 www.janneformpls.org/meet_janne.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/events4658.html
-	2 www.janneformpls.org/index.html
-	=58
-	(4)
+	ignored (6)
 focusing
 	2 www.janneformpls.org/issues.html
 	=2
@@ -2638,7 +2621,7 @@ foot
 	=2
 	(0)
 for
-	ignored (947)
+	ignored (921)
 forced
 	2 www.janneformpls.org/issues.html
 	=2
@@ -2648,21 +2631,26 @@ formal
 	=2
 	(0)
 forward
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/events4658.html
-	=38
-	(2)
+	=66
+	(4)
 forward-thinking
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -2871,7 +2859,7 @@ good
 	=10
 	(0)
 google
-	ignored (38)
+	ignored (37)
 got
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3000,6 +2988,20 @@ happens
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
 	(0)
+happy
+	4 www.janneformpls.org/coffee_caucus_20170201.html
+	4 www.janneformpls.org/coffee_caucus_20170201.html
+	4 www.janneformpls.org/coffee_caucus_20170201.html
+	3 www.janneformpls.org/events.html
+	3 www.janneformpls.org/events.html
+	3 www.janneformpls.org/events2679.html
+	3 www.janneformpls.org/events2679.html
+	3 www.janneformpls.org/eventsa54e.html
+	3 www.janneformpls.org/eventsa54e.html
+	3 www.janneformpls.org/tags/coffee_caucus.html
+	3 www.janneformpls.org/tags/coffee_caucus.html
+	=36
+	(2)
 harassment
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3042,7 +3044,7 @@ harvests
 	=2
 	(0)
 has
-	ignored (11)
+	ignored (10)
 hasn
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3052,7 +3054,7 @@ hat
 	=2
 	(0)
 have
-	ignored (36)
+	ignored (34)
 healthy
 	7 www.janneformpls.org/issues.html
 	7 www.janneformpls.org/issues.html
@@ -3117,15 +3119,17 @@ hendricksphilip
 	=2
 	(0)
 hennepin
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
-	=2
+	2 www.janneformpls.org/tags/coffee_caucus.html
+	=6
 	(0)
 henryphillip
 	2 www.janneformpls.org/endorsements.html
 	=2
 	(0)
 her
-	ignored (37)
+	ignored (35)
 here
 	5 www.janneformpls.org/caucus_for_janne.html
 	5 www.janneformpls.org/caucus_for_janne.html
@@ -3172,6 +3176,14 @@ hocatherine
 	2 www.janneformpls.org/endorsements.html
 	=2
 	(0)
+hold
+	2 www.janneformpls.org/coffee_caucus_20170201.html
+	2 www.janneformpls.org/events.html
+	2 www.janneformpls.org/events2679.html
+	2 www.janneformpls.org/eventsa54e.html
+	2 www.janneformpls.org/tags/coffee_caucus.html
+	=10
+	(0)
 holmessarah
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3182,6 +3194,7 @@ home
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/index.html
 	2 www.janneformpls.org/phone_bank_20170124.html
@@ -3204,7 +3217,7 @@ home
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=56
+	=58
 	(4)
 homegrown
 	2 www.janneformpls.org/issues.html
@@ -3232,8 +3245,22 @@ houdekpeter
 	2 www.janneformpls.org/endorsements.html
 	=2
 	(0)
+hour
+	4 www.janneformpls.org/coffee_caucus_20170201.html
+	4 www.janneformpls.org/coffee_caucus_20170201.html
+	4 www.janneformpls.org/coffee_caucus_20170201.html
+	3 www.janneformpls.org/events.html
+	3 www.janneformpls.org/events.html
+	3 www.janneformpls.org/events2679.html
+	3 www.janneformpls.org/events2679.html
+	3 www.janneformpls.org/eventsa54e.html
+	3 www.janneformpls.org/eventsa54e.html
+	3 www.janneformpls.org/tags/coffee_caucus.html
+	3 www.janneformpls.org/tags/coffee_caucus.html
+	=36
+	(2)
 housing
-	ignored (24)
+	ignored (23)
 how
 	ignored (5)
 hshelly
@@ -3262,27 +3289,7 @@ idea
 	=2
 	(0)
 ideas
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/contact_us.html
-	3 www.janneformpls.org/contact_us.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/issues.html
-	3 www.janneformpls.org/issues.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/events4658.html
-	2 www.janneformpls.org/index.html
-	2 www.janneformpls.org/volunteer.html
-	=54
-	(4)
+	ignored (6)
 ignores
 	2 www.janneformpls.org/index.html
 	=2
@@ -3586,11 +3593,11 @@ items
 	=2
 	(0)
 janne
-	ignored (1453)
+	ignored (1409)
 janneformpls
 	ignored (18)
 january
-	ignored (51)
+	ignored (49)
 java
 	2 www.janneformpls.org/contact_us.html
 	=2
@@ -3607,11 +3614,14 @@ joey
 	=2
 	(0)
 john
+	3 www.janneformpls.org/tags/coffee_caucus.html
+	3 www.janneformpls.org/tags/coffee_caucus.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/endorsements.html
-	2 www.janneformpls.org/tags/coffee_caucus.html
-	=6
-	(0)
+	2 www.janneformpls.org/issues.html
+	=14
+	(1)
 johnsonmatt
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -3625,7 +3635,7 @@ johnsonruss
 	=2
 	(0)
 join
-	ignored (92)
+	ignored (85)
 joined
 	ignored (6)
 joining
@@ -3795,6 +3805,7 @@ last
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -3817,7 +3828,7 @@ last
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=52
+	=54
 	(4)
 later
 	2 www.janneformpls.org/caucus_for_janne.html
@@ -3907,7 +3918,7 @@ lifelong
 	=2
 	(0)
 like
-	ignored (8)
+	ignored (7)
 likely
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -4049,22 +4060,7 @@ located
 	=2
 	(0)
 locations
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/contact_us.html
-	2 www.janneformpls.org/events4658.html
-	=40
-	(3)
+	ignored (5)
 lock
 	2 www.janneformpls.org/issues.html
 	=2
@@ -4086,23 +4082,7 @@ longer
 	=6
 	(0)
 look
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/caucus_for_janne.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/endorsements.html
-	2 www.janneformpls.org/events4658.html
-	=42
-	(3)
+	ignored (5)
 lose
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -4184,30 +4164,7 @@ majority
 	=2
 	(0)
 make
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/caucus_for_janne.html
-	3 www.janneformpls.org/caucus_for_janne.html
-	3 www.janneformpls.org/endorsements.html
-	3 www.janneformpls.org/endorsements.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/index.html
-	3 www.janneformpls.org/index.html
-	3 www.janneformpls.org/issues.html
-	3 www.janneformpls.org/issues.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/events4658.html
-	2 www.janneformpls.org/meet_janne.html
-	=64
-	(4)
+	ignored (6)
 making
 	6 www.janneformpls.org/issues.html
 	6 www.janneformpls.org/issues.html
@@ -4237,6 +4194,7 @@ many
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
 	2 www.janneformpls.org/phone_bank_20170131.html
@@ -4257,12 +4215,12 @@ many
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=64
+	=66
 	(4)
 map
 	ignored (38)
 march
-	ignored (14)
+	ignored (13)
 marigold
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -4298,23 +4256,7 @@ matter
 	=4
 	(0)
 matters
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/contact_us.html
-	2 www.janneformpls.org/events4658.html
-	2 www.janneformpls.org/index.html
-	=42
-	(3)
+	ignored (5)
 matthewschristine
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -4346,7 +4288,7 @@ media
 	=2
 	(0)
 meet
-	ignored (48)
+	ignored (51)
 meet-and-greet
 	2 www.janneformpls.org/caucus_for_janne.html
 	2 www.janneformpls.org/volunteer.html
@@ -4366,7 +4308,7 @@ melton-meauxlauren
 	=2
 	(0)
 member
-	ignored (39)
+	ignored (38)
 members
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -4392,6 +4334,7 @@ messages
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -4414,7 +4357,7 @@ messages
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=50
+	=52
 	(3)
 met
 	3 www.janneformpls.org/endorsements.html
@@ -4438,7 +4381,7 @@ michael
 	=2
 	(0)
 middot
-	ignored (40)
+	ignored (39)
 milesjoey
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -4453,7 +4396,7 @@ minimum
 	=6
 	(0)
 minneapolis
-	ignored (175)
+	ignored (171)
 minneapolitans
 	2 www.janneformpls.org/issues.html
 	=2
@@ -4485,6 +4428,7 @@ mobile
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -4507,7 +4451,7 @@ mobile
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=50
+	=52
 	(3)
 model
 	3 www.janneformpls.org/issues.html
@@ -4531,6 +4475,10 @@ months
 	(0)
 more
 	ignored (12)
+morrow
+	2 www.janneformpls.org/issues.html
+	=2
+	(0)
 morse
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -4626,7 +4574,7 @@ need
 	2 www.janneformpls.org/endorsements.html
 	2 www.janneformpls.org/volunteer.html
 	=26
-	(2)
+	(1)
 needhamanna
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -4664,7 +4612,7 @@ neighborhood
 neighborhoods
 	ignored (5)
 neighbors
-	ignored (14)
+	ignored (17)
 network
 	2 www.janneformpls.org/issues.html
 	=2
@@ -4682,7 +4630,7 @@ new
 	=48
 	(3)
 next
-	ignored (8)
+	ignored (10)
 nichollspeter
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -4795,7 +4743,7 @@ once
 	=2
 	(0)
 one
-	ignored (10)
+	ignored (17)
 ones
 	2 www.janneformpls.org/issues.html
 	=2
@@ -4859,6 +4807,7 @@ optional
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/index.html
 	2 www.janneformpls.org/phone_bank_20170124.html
@@ -4882,7 +4831,7 @@ optional
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=52
+	=54
 	(4)
 options
 	4 www.janneformpls.org/issues.html
@@ -4909,6 +4858,7 @@ other
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/endorsements.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -4931,7 +4881,7 @@ other
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=58
+	=60
 	(4)
 others
 	2 www.janneformpls.org/issues.html
@@ -4946,13 +4896,13 @@ ottersonsarah
 	=2
 	(0)
 our
-	ignored (52)
+	ignored (50)
 ourselves
 	2 www.janneformpls.org/issues.html
 	=2
 	(0)
 out
-	ignored (68)
+	ignored (62)
 outcome
 	2 www.janneformpls.org/issues.html
 	=2
@@ -5015,28 +4965,7 @@ owns
 	=2
 	(0)
 page
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/donate
-	2 www.janneformpls.org/endorsements.html
-	2 www.janneformpls.org/events4658.html
-	2 www.janneformpls.org/index.html
-	2 www.janneformpls.org/issues.html
-	2 www.janneformpls.org/login
-	2 www.janneformpls.org/meet_janne.html
-	2 www.janneformpls.org/session_pair_phase_1
-	=52
-	(4)
+	ignored (5)
 pages
 	2 www.janneformpls.org/tags/coffee_caucus.html
 	2 www.janneformpls.org/tags/phone_bank.html
@@ -5161,7 +5090,7 @@ penn
 	=2
 	(0)
 people
-	ignored (55)
+	ignored (53)
 per
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -5199,7 +5128,7 @@ pervades
 	=2
 	(0)
 phone
-	ignored (122)
+	ignored (114)
 pick
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -5351,6 +5280,7 @@ postal
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -5373,10 +5303,10 @@ postal
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=50
+	=52
 	(3)
 posted
-	ignored (38)
+	ignored (37)
 pour
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -5394,7 +5324,7 @@ powerful
 	3 www.janneformpls.org/index.html
 	3 www.janneformpls.org/index.html
 	=26
-	(2)
+	(1)
 powerfully
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -5727,6 +5657,7 @@ raquo
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/events.html
 	2 www.janneformpls.org/events2679.html
@@ -5754,7 +5685,7 @@ raquo
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=60
+	=62
 	(4)
 rather
 	2 www.janneformpls.org/index.html
@@ -5762,7 +5693,7 @@ rather
 	=4
 	(0)
 reach
-	ignored (62)
+	ignored (56)
 read
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -5838,22 +5769,7 @@ registering
 	=2
 	(0)
 regular
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/contact_us.html
-	2 www.janneformpls.org/events4658.html
-	=40
-	(3)
+	ignored (5)
 regularly
 	5 www.janneformpls.org/issues.html
 	5 www.janneformpls.org/issues.html
@@ -6052,6 +5968,8 @@ risk
 	2 www.janneformpls.org/issues.html
 	=2
 	(0)
+robert
+	ignored (5)
 role
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -6079,7 +5997,7 @@ royale
 rsvp
 	ignored (70)
 rsvps
-	ignored (6)
+	ignored (5)
 rules
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -6185,7 +6103,7 @@ scrap
 	=2
 	(0)
 script
-	ignored (995)
+	ignored (1133)
 seat
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -6217,21 +6135,26 @@ seechad
 	=2
 	(0)
 seeing
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/events4658.html
-	=38
-	(2)
+	=66
+	(4)
 seek
 	2 www.janneformpls.org/index.html
 	=2
@@ -6286,22 +6209,7 @@ senkyrjodi
 	=2
 	(0)
 series
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/contact_us.html
-	2 www.janneformpls.org/events4658.html
-	=40
-	(3)
+	ignored (5)
 serve
 	2 www.janneformpls.org/endorsements.html
 	2 www.janneformpls.org/issues.html
@@ -6347,30 +6255,13 @@ shafferkirsten
 	=2
 	(0)
 share
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/contact_us.html
-	2 www.janneformpls.org/events4658.html
-	2 www.janneformpls.org/index.html
-	2 www.janneformpls.org/volunteer.html
-	=44
-	(3)
+	ignored (5)
 shared
 	2 www.janneformpls.org/issues.html
 	=2
 	(0)
 she
-	ignored (34)
+	ignored (32)
 shocks
 	2 www.janneformpls.org/issues.html
 	=2
@@ -6617,6 +6508,7 @@ state
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/meet_janne.html
 	2 www.janneformpls.org/phone_bank_20170124.html
@@ -6640,10 +6532,10 @@ state
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=54
+	=56
 	(4)
 states
-	ignored (38)
+	ignored (37)
 status
 	2 www.janneformpls.org/issues.html
 	=2
@@ -6704,6 +6596,7 @@ street
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -6726,7 +6619,7 @@ street
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=56
+	=58
 	(4)
 streetcars
 	2 www.janneformpls.org/issues.html
@@ -6844,7 +6737,9 @@ swag
 	=6
 	(0)
 swanson
-	ignored (6)
+	2 www.janneformpls.org/endorsements.html
+	=2
+	(0)
 symbolic
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -6902,7 +6797,7 @@ talented
 	=2
 	(0)
 talk
-	ignored (12)
+	ignored (15)
 talking
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -6971,6 +6866,7 @@ text
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -6993,7 +6889,7 @@ text
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=50
+	=52
 	(3)
 than
 	5 www.janneformpls.org/issues.html
@@ -7011,9 +6907,9 @@ thank
 	=2
 	(0)
 that
-	ignored (134)
+	ignored (128)
 the
-	ignored (897)
+	ignored (877)
 theft
 	2 www.janneformpls.org/issues.html
 	=2
@@ -7063,7 +6959,19 @@ these
 	=20
 	(1)
 they
-	ignored (5)
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	8 www.janneformpls.org/issues.html
+	3 www.janneformpls.org/caucus_for_janne.html
+	3 www.janneformpls.org/caucus_for_janne.html
+	2 www.janneformpls.org/endorsements.html
+	2 www.janneformpls.org/meet_janne.html
+	=66
+	(4)
 thing
 	2 www.janneformpls.org/issues.html
 	=2
@@ -7086,7 +6994,7 @@ thirty
 	=2
 	(0)
 this
-	ignored (10)
+	ignored (12)
 those
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -7122,7 +7030,7 @@ throughout
 	=4
 	(0)
 thursday
-	ignored (9)
+	ignored (8)
 tills
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -7139,25 +7047,9 @@ time
 	2 www.janneformpls.org/meet_janne.html
 	2 www.janneformpls.org/volunteer.html
 	=40
-	(3)
+	(2)
 times
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
-	2 www.janneformpls.org/coffee_caucus_17_01_26.html
-	2 www.janneformpls.org/coffee_caucus_17_02_08.html
-	2 www.janneformpls.org/coffee_caucus_17_02_23.html
-	2 www.janneformpls.org/contact_us.html
-	2 www.janneformpls.org/events4658.html
-	2 www.janneformpls.org/issues.html
-	=42
-	(3)
+	ignored (5)
 today
 	7 www.janneformpls.org/issues.html
 	7 www.janneformpls.org/issues.html
@@ -7214,7 +7106,7 @@ traegerpeter
 	=2
 	(0)
 transit
-	ignored (14)
+	ignored (13)
 transparent
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -7275,7 +7167,7 @@ tschidacharles
 	=2
 	(0)
 tuesday
-	ignored (7)
+	ignored (6)
 turn
 	2 www.janneformpls.org/caucus_for_janne.html
 	2 www.janneformpls.org/endorsements.html
@@ -7308,28 +7200,33 @@ twice
 	=2
 	(0)
 twitter
-	ignored (37)
+	ignored (36)
 two
 	3 www.janneformpls.org/meet_janne.html
 	3 www.janneformpls.org/meet_janne.html
 	=6
 	(0)
 unable
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/events4658.html
-	=38
-	(2)
+	=66
+	(4)
 undergraduate
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -7359,7 +7256,7 @@ union
 	=2
 	(0)
 united
-	ignored (38)
+	ignored (37)
 units
 	2 www.janneformpls.org/issues.html
 	=2
@@ -7400,6 +7297,7 @@ updates
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/phone_bank_20170124.html
 	2 www.janneformpls.org/phone_bank_20170126.html
@@ -7422,7 +7320,7 @@ updates
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
 	2 www.janneformpls.org/volunteer.html
-	=50
+	=52
 	(3)
 upon
 	2 www.janneformpls.org/caucus_for_janne.html
@@ -7523,7 +7421,7 @@ visible
 	=2
 	(0)
 vision
-	ignored (40)
+	ignored (39)
 visit
 	2 www.janneformpls.org/caucus_for_janne.html
 	=2
@@ -7542,7 +7440,7 @@ voices
 	=8
 	(0)
 volunteer
-	ignored (61)
+	ignored (60)
 volunteer-driven
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -7559,7 +7457,7 @@ volunteers
 	2 www.janneformpls.org/events9ba9.html
 	2 www.janneformpls.org/eventsa54e.html
 	=40
-	(3)
+	(2)
 vote
 	4 www.janneformpls.org/caucus_for_janne.html
 	4 www.janneformpls.org/caucus_for_janne.html
@@ -7579,7 +7477,7 @@ voted
 	=32
 	(2)
 voters
-	ignored (62)
+	ignored (56)
 votes
 	2 www.janneformpls.org/issues.html
 	=2
@@ -7643,6 +7541,7 @@ want
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/contact_us.html
 	2 www.janneformpls.org/index.html
 	2 www.janneformpls.org/issues.html
@@ -7666,10 +7565,10 @@ want
 	2 www.janneformpls.org/phone_bank_20170323.html
 	2 www.janneformpls.org/phone_bank_20170328.html
 	2 www.janneformpls.org/phone_bank_20170330.html
-	=58
+	=60
 	(4)
 ward
-	ignored (106)
+	ignored (111)
 was
 	3 www.janneformpls.org/meet_janne.html
 	3 www.janneformpls.org/meet_janne.html
@@ -7677,21 +7576,26 @@ was
 	=8
 	(0)
 watch
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/events4658.html
-	=38
-	(2)
+	=66
+	(4)
 watched
 	3 www.janneformpls.org/endorsements.html
 	3 www.janneformpls.org/endorsements.html
@@ -7734,11 +7638,14 @@ wedding
 	=2
 	(0)
 wednesday
-	2 www.janneformpls.org/events.html
-	2 www.janneformpls.org/events2679.html
-	2 www.janneformpls.org/eventsa54e.html
-	=6
-	(0)
+	3 www.janneformpls.org/events.html
+	3 www.janneformpls.org/events.html
+	3 www.janneformpls.org/events2679.html
+	3 www.janneformpls.org/events2679.html
+	3 www.janneformpls.org/eventsa54e.html
+	3 www.janneformpls.org/eventsa54e.html
+	=18
+	(1)
 week
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -7779,11 +7686,11 @@ were
 	=10
 	(0)
 what
-	ignored (11)
+	ignored (12)
 when
-	ignored (42)
+	ignored (41)
 where
-	ignored (45)
+	ignored (44)
 whether
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
@@ -7812,9 +7719,9 @@ while
 	=12
 	(0)
 who
-	ignored (27)
+	ignored (25)
 will
-	ignored (30)
+	ignored (31)
 willing
 	3 www.janneformpls.org/caucus_for_janne.html
 	3 www.janneformpls.org/caucus_for_janne.html
@@ -7847,7 +7754,7 @@ wish
 	=2
 	(0)
 with
-	ignored (99)
+	ignored (101)
 within
 	2 www.janneformpls.org/issues.html
 	=2
@@ -7866,7 +7773,7 @@ words
 	=2
 	(0)
 work
-	ignored (10)
+	ignored (9)
 workable
 	2 www.janneformpls.org/endorsements.html
 	=2
@@ -7949,20 +7856,33 @@ year-to-year
 	=2
 	(0)
 years
-	ignored (5)
+	7 www.janneformpls.org/endorsements.html
+	7 www.janneformpls.org/endorsements.html
+	7 www.janneformpls.org/endorsements.html
+	7 www.janneformpls.org/endorsements.html
+	7 www.janneformpls.org/endorsements.html
+	7 www.janneformpls.org/endorsements.html
+	4 www.janneformpls.org/issues.html
+	4 www.janneformpls.org/issues.html
+	4 www.janneformpls.org/issues.html
+	4 www.janneformpls.org/meet_janne.html
+	4 www.janneformpls.org/meet_janne.html
+	4 www.janneformpls.org/meet_janne.html
+	=66
+	(4)
 yet
 	2 www.janneformpls.org/issues.html
 	=2
 	(0)
 you
-	ignored (84)
+	ignored (101)
 young
 	3 www.janneformpls.org/issues.html
 	3 www.janneformpls.org/issues.html
 	=6
 	(0)
 your
-	ignored (31)
+	ignored (32)
 youth
 	2 www.janneformpls.org/meet_janne.html
 	=2
@@ -7991,41 +7911,54 @@ caucus_for_janne.html
 	19 www.janneformpls.org/caucus_for_janne.html
 	19 www.janneformpls.org/caucus_for_janne.html
 	19 www.janneformpls.org/caucus_for_janne.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
-	4 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	5 www.janneformpls.org/tags/coffee_caucus.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/events2679.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
+	4 www.janneformpls.org/eventsa54e.html
 	4 www.janneformpls.org/volunteer.html
 	4 www.janneformpls.org/volunteer.html
 	4 www.janneformpls.org/volunteer.html
 	3 www.janneformpls.org/contact_us.html
 	3 www.janneformpls.org/contact_us.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/events2679.html
-	3 www.janneformpls.org/eventsa54e.html
-	3 www.janneformpls.org/eventsa54e.html
 	3 www.janneformpls.org/index.html
 	3 www.janneformpls.org/index.html
 	2 www.janneformpls.org/coffee_caucus_17_01_26.html
 	2 www.janneformpls.org/coffee_caucus_17_02_08.html
 	2 www.janneformpls.org/coffee_caucus_17_02_23.html
+	2 www.janneformpls.org/coffee_caucus_20170201.html
 	2 www.janneformpls.org/endorsements.html
 	2 www.janneformpls.org/events4658.html
-	=406
-janneformpls.org/events2679.html
-	8 www.janneformpls.org/events2679.html
-	8 www.janneformpls.org/events2679.html
-	8 www.janneformpls.org/events2679.html
-	8 www.janneformpls.org/events2679.html
-	8 www.janneformpls.org/events2679.html
-	8 www.janneformpls.org/eventsa54e.html
-	8 www.janneformpls.org/eventsa54e.html
-	8 www.janneformpls.org/eventsa54e.html
-	8 www.janneformpls.org/eventsa54e.html
-	8 www.janneformpls.org/eventsa54e.html
-	8 www.janneformpls.org/eventsa54e.html
-	8 www.janneformpls.org/eventsa54e.html
+	=434
+
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/events2679.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
+	11 www.janneformpls.org/eventsa54e.html
 	7 www.janneformpls.org/coffee_caucus_17_01_26.html
 	7 www.janneformpls.org/coffee_caucus_17_01_26.html
 	7 www.janneformpls.org/coffee_caucus_17_01_26.html
@@ -8044,6 +7977,12 @@ janneformpls.org/events2679.html
 	7 www.janneformpls.org/coffee_caucus_17_02_23.html
 	7 www.janneformpls.org/coffee_caucus_17_02_23.html
 	7 www.janneformpls.org/coffee_caucus_17_02_23.html
+	7 www.janneformpls.org/coffee_caucus_20170201.html
+	7 www.janneformpls.org/coffee_caucus_20170201.html
+	7 www.janneformpls.org/coffee_caucus_20170201.html
+	7 www.janneformpls.org/coffee_caucus_20170201.html
+	7 www.janneformpls.org/coffee_caucus_20170201.html
+	7 www.janneformpls.org/coffee_caucus_20170201.html
 	7 www.janneformpls.org/volunteer.html
 	7 www.janneformpls.org/volunteer.html
 	7 www.janneformpls.org/volunteer.html
@@ -8127,4 +8066,4 @@ janneformpls.org/events2679.html
 	2 www.janneformpls.org/tags/phone_bank2679.html
 	2 www.janneformpls.org/tags/phone_bank4658.html
 	2 www.janneformpls.org/tags/phone_banka54e.html
-	=1082
+	=1358

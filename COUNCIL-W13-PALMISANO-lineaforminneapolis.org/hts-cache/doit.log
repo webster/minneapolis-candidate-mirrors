@@ -1,5 +1,5 @@
-https://lineaforminneapolis.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W13-PALMISANO-lineaforminneapolis.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q
-File generated automatically on Wed, 25 Jan 2017 01:03:49, do NOT edit
+https://lineaforminneapolis.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W13-PALMISANO-lineaforminneapolis.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q -q
+File generated automatically on Wed, 25 Jan 2017 18:58:56, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

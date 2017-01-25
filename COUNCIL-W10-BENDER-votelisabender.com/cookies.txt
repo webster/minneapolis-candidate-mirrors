@@ -2,7 +2,7 @@
 # This file format is compatible with Netscape cookies
 www.votelisabender.com	TRUE	/	FALSE	1999999999	crumb	BI9jBS2Nhx1hYTM4NDVmMzA2MDRlNDRiNDg0NDY3NDMwMDIzOGM4
 www.votelisabender.com	TRUE	/	FALSE	1999999999	ss_cid	7d55ae89-32a3-4ab2-8788-b6305af449e4
-www.votelisabender.com	TRUE	/	FALSE	1999999999	ss_cvisit	1485101706947
-www.votelisabender.com	TRUE	/	FALSE	1999999999	ss_cpvisit	1485101706947
+www.votelisabender.com	TRUE	/	FALSE	1999999999	ss_cvisit	1485305995224
+www.votelisabender.com	TRUE	/	FALSE	1999999999	ss_cpvisit	1485305995224
 www.votelisabender.com	TRUE	/	FALSE	1999999999	JSESSIONID	EVH3HJ8YQ1lg7Ob_KoMRuBY8koJbqUWzPmzRWnYrZ7uBgYDxCpJbJA
 

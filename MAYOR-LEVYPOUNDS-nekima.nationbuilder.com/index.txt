@@ -58,7 +58,7 @@ anaiowakansaskentuckylouisianamainemarshall
 	=4
 	(4)
 and
-	ignored (1385)
+	ignored (1380)
 anne
 	2 nekima.nationbuilder.com/donate.html
 	=2
@@ -82,7 +82,7 @@ arabiasenegalserbiaseychellessierra
 	=4
 	(4)
 are
-	ignored (47)
+	ignored (46)
 ascension
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -111,6 +111,8 @@ better
 	2 nekima.nationbuilder.com/index.html
 	=2
 	(2)
+blue
+	ignored (7)
 bolivarian
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -167,7 +169,7 @@ can
 	=2
 	(2)
 card
-	ignored (47)
+	ignored (46)
 carolinanorth
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -238,7 +240,7 @@ contribute
 	=2
 	(2)
 contribution
-	ignored (47)
+	ignored (46)
 corporate
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -288,6 +290,8 @@ deb
 	2 nekima.nationbuilder.com/donate.html
 	=2
 	(2)
+delliquanti
+	ignored (7)
 democratic
 	ignored (14)
 describe
@@ -336,7 +340,7 @@ emiratesunited
 	=4
 	(4)
 employer
-	ignored (47)
+	ignored (46)
 employment
 	2 nekima.nationbuilder.com/index.html
 	=2
@@ -393,7 +397,7 @@ federationrwandaraeunionsaint
 	=4
 	(4)
 for
-	ignored (120)
+	ignored (119)
 forces
 	ignored (28)
 french
@@ -479,7 +483,9 @@ herzegovinabotswanabouvet
 	=4
 	(4)
 hibbard
-	ignored (7)
+	2 nekima.nationbuilder.com/donate.html
+	=2
+	(2)
 hondurashong
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -537,7 +543,7 @@ islandnorth
 	=4
 	(4)
 islands
-	ignored (47)
+	ignored (46)
 islandscentral
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -656,7 +662,9 @@ kingdomunited
 	=4
 	(4)
 kirstin
-	ignored (7)
+	2 nekima.nationbuilder.com/donate.html
+	=2
+	(2)
 kitts
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -788,7 +796,7 @@ mexiconew
 	=4
 	(4)
 minneapolis
-	ignored (56)
+	ignored (63)
 minor
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1097,7 +1105,7 @@ schnitzen
 	=2
 	(2)
 script
-	ignored (1653)
+	ignored (1647)
 see
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1214,7 +1222,7 @@ that
 	=4
 	(4)
 the
-	ignored (249)
+	ignored (248)
 thecook
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html
@@ -1365,7 +1373,7 @@ yorknorth
 you
 	ignored (37)
 your
-	ignored (80)
+	ignored (79)
 zealandnicaraguanigernigerianiuenorfolk
 	2 nekima.nationbuilder.com/donate.html
 	2 nekima.nationbuilder.com/index.html

@@ -1,11 +1,13 @@
-HTTrack3.48-23 launched on Wed, 25 Jan 2017 00:51:36 at https://www.cunninghammpls.org/
-(httrack https://www.cunninghammpls.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W04-CUNNINGHAM-cunninghammpls.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q )
+HTTrack3.48-23 launched on Wed, 25 Jan 2017 18:52:09 at https://www.cunninghammpls.org/
+(httrack https://www.cunninghammpls.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W04-CUNNINGHAM-cunninghammpls.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+18:52:40	Error: 	"Not Found" (404) at link https://www.cunninghammpls.org/"//www.youtube.com/embed/QpHYMBASI1o?wmode=opaque&amp;enablejsapi=1\%22 (from https://www.cunninghammpls.org/)
+18:52:40	Error: 	"Not Found" (404) at link https://www.cunninghammpls.org/"//www.youtube.com/embed/QpHYMBASI1o?wmode=opaque&enablejsapi=1%22 (from https://www.cunninghammpls.org/)
 
-HTTrack Website Copier/3.48-23 mirror complete in 32 seconds : 23 links scanned, 23 files written (1127235 bytes overall), 22 files updated [290744 bytes received at 9085 bytes/sec], 1041709 bytes transferred using HTTP compression in 17 files, ratio 24%
-(No errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.48-23 mirror complete in 32 seconds : 25 links scanned, 23 files written (1130297 bytes overall), 22 files updated [322906 bytes received at 10090 bytes/sec], 1158559 bytes transferred using HTTP compression in 19 files, ratio 24%
+(2 errors, 0 warnings, 0 messages)

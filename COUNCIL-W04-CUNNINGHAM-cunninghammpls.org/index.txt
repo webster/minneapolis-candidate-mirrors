@@ -883,7 +883,7 @@ cities.phillipe
 	=4
 	(0)
 city
-	ignored (120)
+	ignored (119)
 citypages
 	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
 	3 www.cunninghammpls.org/new-blog/2017/1/23/qftusgk7c7glzr6itevreobvod6n8p.html
@@ -4930,6 +4930,10 @@ youthlink
 	2 www.cunninghammpls.org/meet-phillipe/index.html
 	=4
 	(0)
+youtube
+	2 www.cunninghammpls.org/index.html
+	=2
+	(0)
 zero
 	2 www.cunninghammpls.org/meet-phillipe.html
 	2 www.cunninghammpls.org/meet-phillipe/index.html
@@ -4937,8 +4941,7 @@ zero
 	(0)
 zip
 	2 www.cunninghammpls.org/volunteer/index.html
-cunninghammpls.org/meet-phillipe.html
-	16 www.cunninghammpls.org/meet-phillipe.html
+pls.org/meet-phillipe.html
 	16 www.cunninghammpls.org/meet-phillipe.html
 	16 www.cunninghammpls.org/meet-phillipe.html
 	16 www.cunninghammpls.org/meet-phillipe.html

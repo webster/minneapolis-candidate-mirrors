@@ -1,6 +1,7 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
 www.cunninghammpls.org	TRUE	/	FALSE	1999999999	crumb	BOna3uwNa6FUODM0YTY5Mzg0ZjUxYWIzOWVmNWQ2NTZmOGZmNzJk
+www.cunninghammpls.org	TRUE	/	FALSE	1999999999	JSESSIONID	d3s-Si47aaEvKrk0DwMWvya-876FLTi8feGjkI93t4-nLVd4PUTPNw
 www.cunninghammpls.org	TRUE	/	FALSE	1999999999	ss_cid	67aede57-48f3-4012-8a65-c8d69ef050cf
 www.cunninghammpls.org	TRUE	/	FALSE	1999999999	ss_cvisit	1485287112484
 www.cunninghammpls.org	TRUE	/	FALSE	1999999999	ss_cpvisit	1485287112484

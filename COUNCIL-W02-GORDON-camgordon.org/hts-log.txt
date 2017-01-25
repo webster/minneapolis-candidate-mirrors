@@ -1,14 +1,14 @@
-HTTrack3.48-23 launched on Wed, 25 Jan 2017 00:51:16 at http://www.camgordon.org/
-(httrack http://www.camgordon.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W02-GORDON-camgordon.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q )
+HTTrack3.48-23 launched on Wed, 25 Jan 2017 18:51:49 at http://www.camgordon.org/
+(httrack http://www.camgordon.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W02-GORDON-camgordon.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-00:51:22	Error: 	"Not Found" (404) at link www.camgordon.org/sites/all/modules/viewscarousel/skins/ie7/next-vertical.gif (from www.camgordon.org/sites/default/files/css/7d30063341db9228176acf0972e9eef0.css)
-00:51:22	Error: 	"Not Found" (404) at link www.camgordon.org/sites/all/modules/viewscarousel/skins/ie7/prev-vertical.gif (from www.camgordon.org/sites/default/files/css/7d30063341db9228176acf0972e9eef0.css)
-00:51:24	Error: 	"Not Found" (404) at link www.camgordon.org/has_js=1; path=/ (from www.camgordon.org/sites/default/files/js/69caca6c7012850f5fc581c93df6ecb9.js)
+18:51:55	Error: 	"Not Found" (404) at link www.camgordon.org/sites/all/modules/viewscarousel/skins/ie7/next-vertical.gif (from www.camgordon.org/sites/default/files/css/7d30063341db9228176acf0972e9eef0.css)
+18:51:55	Error: 	"Not Found" (404) at link www.camgordon.org/sites/all/modules/viewscarousel/skins/ie7/prev-vertical.gif (from www.camgordon.org/sites/default/files/css/7d30063341db9228176acf0972e9eef0.css)
+18:51:57	Error: 	"Not Found" (404) at link www.camgordon.org/has_js=1; path=/ (from www.camgordon.org/sites/default/files/js/69caca6c7012850f5fc581c93df6ecb9.js)
 
-HTTrack Website Copier/3.48-23 mirror complete in 9 seconds : 59 links scanned, 56 files written (574163 bytes overall), 1 files updated [30166 bytes received at 3351 bytes/sec], 6432 bytes transferred using HTTP compression in 3 files, ratio 45%, 14.7 requests per connection
+HTTrack Website Copier/3.48-23 mirror complete in 10 seconds : 59 links scanned, 56 files written (574163 bytes overall), 1 files updated [30168 bytes received at 3016 bytes/sec], 6432 bytes transferred using HTTP compression in 3 files, ratio 45%, 14.7 requests per connection
 (3 errors, 0 warnings, 0 messages)

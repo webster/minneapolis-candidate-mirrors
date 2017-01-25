@@ -1948,7 +1948,7 @@ nation
 	=14
 	(3)
 nbsp
-	ignored (197)
+	ignored (196)
 need
 	ignored (9)
 needs
@@ -3118,10 +3118,8 @@ wealth
 	2 andreajenkinsforward8.org/index.html
 	=6
 	(1)
-week
-	ignored (6)
 weeks
-	ignored (6)
+	ignored (24)
 well
 	2 andreajenkinsforward8.org/equity-in-access-to-democracy.html
 	2 andreajenkinsforward8.org/equity-in-access-to-democracy/index.html
@@ -3221,12 +3219,13 @@ year
 	=2
 	(0)
 years
+	3 andreajenkinsforward8.org/index.html
+	3 andreajenkinsforward8.org/index.html
 	3 andreajenkinsforward8.org/new-page.html
 	3 andreajenkinsforward8.org/new-page.html
 	3 andreajenkinsforward8.org/new-page/index.html
 	3 andreajenkinsforward8.org/new-page/index.html
-	2 andreajenkinsforward8.org/index.html
-	=14
+	=18
 	(3)
 years.from
 	2 andreajenkinsforward8.org/new-page.html

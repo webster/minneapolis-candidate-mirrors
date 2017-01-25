@@ -2327,10 +2327,11 @@ evening.the
 	=2
 	(0)
 event
-	2 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
+	3 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
+	3 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
 	2 www.ericamauter.org/event/precinct-caucuses/index.html
 	2 www.ericamauter.org/event/ward-11-convention/index.html
-	=6
+	=10
 	(0)
 events
 	2 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
@@ -3677,10 +3678,6 @@ mental
 	(0)
 methods
 	2 www.ericamauter.org/erica-mauter-announces-campaign-for-ward-11-city-council/index.html
-	=2
-	(0)
-mevent
-	2 www.ericamauter.org/event/kick-off-party-for-erica-mauter-for-ward-11/index.html
 	=2
 	(0)
 mexican

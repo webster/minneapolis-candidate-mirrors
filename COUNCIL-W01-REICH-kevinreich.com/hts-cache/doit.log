@@ -1,5 +1,5 @@
-http://www.kevinreich.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W01-REICH-kevinreich.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q
-File generated automatically on Tue, 24 Jan 2017 19:05:03, do NOT edit
+http://www.kevinreich.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W01-REICH-kevinreich.com/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q
+File generated automatically on Wed, 25 Jan 2017 00:50:39, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

@@ -1,5 +1,5 @@
-HTTrack3.48-23 launched on Tue, 24 Jan 2017 19:03:44 at https://www.jilliaforwardone.com
-(httrack https://www.jilliaforwardone.com -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W01-PESSENDA-jilliaforwardone.com/ -%I -F Mozilla/5.0 -%F " " -q )
+HTTrack3.48-23 launched on Wed, 25 Jan 2017 00:49:50 at https://www.jilliaforwardone.com
+(httrack https://www.jilliaforwardone.com -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W01-PESSENDA-jilliaforwardone.com/ -%I -F Mozilla/5.0 -%F " " -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.48-23 mirror complete in 47 seconds : 35 links scanned, 34 files written (1492392 bytes overall), 33 files updated [397578 bytes received at 8459 bytes/sec], 1409721 bytes transferred using HTTP compression in 28 files, ratio 25%
+HTTrack Website Copier/3.48-23 mirror complete in 49 seconds : 35 links scanned, 34 files written (1492392 bytes overall), 33 files updated [397595 bytes received at 8114 bytes/sec], 1409721 bytes transferred using HTTP compression in 28 files, ratio 25%
 (No errors, 0 warnings, 0 messages)

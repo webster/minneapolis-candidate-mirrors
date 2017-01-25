@@ -1,57 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.jeremyschroeder.org/single-post/2017/01/03/In-Minneapolis-City-Council-races-so-far-theres-left-and-further-left</loc>
-        <priority>0.5</priority>
-        <lastmod>2017-01-03</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
         <loc>http://www.jeremyschroeder.org/single-post/2016/12/08/Southwest-Journal-Features-Schroeder-Campaign</loc>
         <priority>0.5</priority>
         <lastmod>2016-12-08</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.jeremyschroeder.org/test</loc>
+        <loc>http://www.jeremyschroeder.org/in-the-media</loc>
         <priority>0.5</priority>
         <lastmod>2017-01-17</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/donate</loc>
-        <priority>0.5</priority>
-        <lastmod>2017-01-17</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/single-post/2016/12/08/Meet-Team-Schroeder-Casie-and-Matt</loc>
-        <priority>0.5</priority>
-        <lastmod>2016-12-08</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/platform</loc>
-        <priority>0.5</priority>
-        <lastmod>2017-01-17</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/single-post/2017/01/11/Go-to-your-precinct-caucus-April-4</loc>
-        <priority>0.5</priority>
-        <lastmod>2017-01-11</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/caucus</loc>
-        <priority>0.5</priority>
-        <lastmod>2017-01-17</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/single-post/2017/01/10/Meet-Team-Schroeder-Bryana</loc>
-        <priority>0.5</priority>
-        <lastmod>2017-01-11</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
@@ -61,7 +19,19 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.jeremyschroeder.org/in-the-media</loc>
+        <loc>http://www.jeremyschroeder.org/platform</loc>
+        <priority>0.5</priority>
+        <lastmod>2017-01-17</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/endorsements</loc>
+        <priority>0.5</priority>
+        <lastmod>2017-01-17</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/get-involved</loc>
         <priority>0.5</priority>
         <lastmod>2017-01-17</lastmod>
         <changefreq>monthly</changefreq>
@@ -73,25 +43,13 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.jeremyschroeder.org/single-post/2016/11/01/Join-Team-Schroeder</loc>
-        <priority>0.5</priority>
-        <lastmod>2016-12-08</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/single-post/2017/01/03/Meet-Team-Schroeder-Christine-and-Ron</loc>
+        <loc>http://www.jeremyschroeder.org/single-post/2017/01/03/In-Minneapolis-City-Council-races-so-far-theres-left-and-further-left</loc>
         <priority>0.5</priority>
         <lastmod>2017-01-03</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.jeremyschroeder.org/endorsements</loc>
-        <priority>0.5</priority>
-        <lastmod>2017-01-17</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>http://www.jeremyschroeder.org/meet-jeremy</loc>
+        <loc>http://www.jeremyschroeder.org/caucus</loc>
         <priority>0.5</priority>
         <lastmod>2017-01-17</lastmod>
         <changefreq>monthly</changefreq>
@@ -103,13 +61,55 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>http://www.jeremyschroeder.org/test</loc>
+        <priority>0.5</priority>
+        <lastmod>2017-01-17</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/single-post/2017/01/11/Go-to-your-precinct-caucus-April-4</loc>
+        <priority>0.5</priority>
+        <lastmod>2017-01-11</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/donate</loc>
+        <priority>0.5</priority>
+        <lastmod>2017-01-17</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>http://www.jeremyschroeder.org/single-post/2016/12/06/Meet-Team-Schroeder-Geoff-and-Emily</loc>
         <priority>0.5</priority>
         <lastmod>2016-12-08</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>http://www.jeremyschroeder.org/get-involved</loc>
+        <loc>http://www.jeremyschroeder.org/single-post/2016/11/01/Join-Team-Schroeder</loc>
+        <priority>0.5</priority>
+        <lastmod>2016-12-08</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/single-post/2017/01/10/Meet-Team-Schroeder-Bryana</loc>
+        <priority>0.5</priority>
+        <lastmod>2017-01-11</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/single-post/2017/01/03/Meet-Team-Schroeder-Christine-and-Ron</loc>
+        <priority>0.5</priority>
+        <lastmod>2017-01-03</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/single-post/2016/12/08/Meet-Team-Schroeder-Casie-and-Matt</loc>
+        <priority>0.5</priority>
+        <lastmod>2016-12-08</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>http://www.jeremyschroeder.org/meet-jeremy</loc>
         <priority>0.5</priority>
         <lastmod>2017-01-17</lastmod>
         <changefreq>monthly</changefreq>

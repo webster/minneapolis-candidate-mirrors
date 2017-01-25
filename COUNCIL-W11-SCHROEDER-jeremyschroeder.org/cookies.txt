@@ -3,7 +3,7 @@
 www.jeremyschroeder.org	TRUE	/	FALSE	1999999999	hs	676242377
 www.jeremyschroeder.org	TRUE	/	FALSE	1999999999	svSession	33ba36006a54459e0c8f25ef397fff9346bc2f2570b584858f10ef04b502015ca8730978cb3553844f08d02f9ddfb3aa1e60994d53964e647acf431e4f798bcdf3704ea0489ccf19c5f2fb8bab0fd016d41393e976be6bb97a7586b2cbe7a646
 .wix.com	TRUE	/	FALSE	1999999999	_wixAB3	18621#1|18622#2
-.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	4a031c58-3fc5-4718-a6a3-da001676fff4
 .wix.com	TRUE	/	FALSE	1999999999	userType	ANONYMOUS
 .wix.com	TRUE	/	FALSE	1999999999	_wixUIDX	null-user-id
+.wix.com	TRUE	/	FALSE	1999999999	_wix_browser_sess	0fe7f7a2-29ea-4a6c-8c21-568eca12417f
 

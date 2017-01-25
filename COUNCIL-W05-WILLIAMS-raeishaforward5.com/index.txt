@@ -1,301 +1,2088 @@
 a3612
-	ignored (13)
+	ignored (12)
+ability
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+abusive
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
 accountability
-	ignored (6)
+	2 raeishaforward5.com/education.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+accountable
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=4
+	(2)
+acommunities
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
 acommunity
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+action
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+actively
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+activist
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+addressing
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+adelia
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+advisory
+	3 raeishaforward5.com/community-engagement.html
+	3 raeishaforward5.com/community-engagement.html
+	=6
+	(3)
 advocate
-	ignored (6)
+	ignored (8)
+advocates
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
 aeducation
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+affairs
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 affordable
-	ignored (20)
+	ignored (11)
+after
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+again
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+agencies
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+ahead
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+ahousing
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
 ain
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
 all
-	ignored (20)
+	ignored (5)
+allen
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+allocated
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+also
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 america
-	ignored (13)
+	ignored (12)
+amy
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 analytics
-	ignored (13)
+	ignored (12)
 and
-	ignored (314)
+	ignored (327)
+announcement
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+arc
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+are
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+areas
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+arelations
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+arms
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 arts
-	ignored (6)
+	ignored (9)
+aschedule
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
 asite
-	ignored (13)
+	ignored (12)
+aspiration
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+athletes
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+attending
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+attorney
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+auntie
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 awe
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+aworked
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+b.a
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+babington
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+back
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+background
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+bartley
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 based
-	ignored (6)
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+because
+	ignored (17)
 behalf
-	ignored (6)
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+behaviors
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+believe
+	3 raeishaforward5.com/commitments.html
+	3 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/endorsements.html
+	=8
+	(4)
+beloved
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 best
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+bet
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+bio
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+biography
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+board
+	3 raeishaforward5.com/community-engagement.html
+	3 raeishaforward5.com/community-engagement.html
+	=6
+	(3)
 box
-	ignored (13)
+	ignored (12)
+boy
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+branch
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+bring
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+brown
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+budgets
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
 build
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+business
 	ignored (6)
 businesses
-	ignored (6)
+	2 raeishaforward5.com/economic-development.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+calling
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+calls
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
 campaign
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/events.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=8
+	(4)
+campaigns
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+candidacy
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+capital
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+caps
+	3 raeishaforward5.com/affordable-housin-homeownership.html
+	3 raeishaforward5.com/affordable-housin-homeownership.html
+	=6
+	(3)
+career
 	ignored (6)
+careers
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+caribbean
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+center
+	3 raeishaforward5.com/economic-development.html
+	3 raeishaforward5.com/economic-development.html
+	=6
+	(3)
 change
-	ignored (6)
+	ignored (9)
+cities
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 city
-	ignored (6)
+	ignored (9)
+civil
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+clearway
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+clients
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+clinton
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+cnn
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 co-ops
-	ignored (6)
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
 coffees
-	ignored (6)
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+collaboration
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+college
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+collins
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+columbia
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+come
+	3 raeishaforward5.com/economic-development.html
+	3 raeishaforward5.com/economic-development.html
+	=6
+	(3)
+comes
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 commit
-	ignored (6)
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
 commitment
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+commitments
+	3 raeishaforward5.com/commitments.html
+	3 raeishaforward5.com/commitments.html
+	=6
+	(3)
 committed
-	ignored (6)
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=6
+	(3)
+communications
+	ignored (11)
 communities
-	ignored (20)
+	ignored (6)
+communitieseducationcommunity
+	ignored (12)
 community
-	ignored (545)
+	ignored (266)
+completed
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+completing
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+comprehensive
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+concerns
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+constituency
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+consultant
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+consultanting
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+consulting
+	ignored (6)
 continue
-	ignored (20)
+	ignored (8)
+coordinator
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
 corporate
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/education.html
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	=8
+	(4)
 council
-	ignored (6)
+	ignored (17)
 create
-	ignored (20)
+	ignored (12)
+created
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 creating
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+creation
+	3 raeishaforward5.com/economic-development.html
+	3 raeishaforward5.com/economic-development.html
+	=6
+	(3)
+crisis
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+critical
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+culture
+	3 raeishaforward5.com/affordable-housin-homeownership.html
+	3 raeishaforward5.com/affordable-housin-homeownership.html
+	=6
+	(3)
+current
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
 data
-	ignored (13)
+	ignored (12)
+daughter
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 dear
-	ignored (6)
+	2 raeishaforward5.com/events.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+decision
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+dedication
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+deep
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+degree
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+department
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+destination
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+destiny
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 develop
-	ignored (6)
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=8
+	(4)
+developing
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 development
-	ignored (20)
+	ignored (17)
+developments
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+developmentsafe
+	ignored (12)
+devoted
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+diplomacy
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+director
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/endorsements.html
+	=4
+	(2)
+discuss
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+disparities
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+distributing
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+district
+	3 raeishaforward5.com/education.html
+	3 raeishaforward5.com/education.html
+	2 raeishaforward5.com/bio.html
+	=8
+	(4)
+diverse
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+doing
+	3 raeishaforward5.com/endorsements.html
+	3 raeishaforward5.com/endorsements.html
+	=6
+	(3)
+domestic
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+don
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
 donate
-	ignored (27)
+	ignored (15)
+drive
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+drumma
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+e9s
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
 e9ward
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+each
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
 economic
-	ignored (20)
+	ignored (17)
 education
-	ignored (6)
+	ignored (30)
+educational
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+educator
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+election
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+elle
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+employees
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+employment
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 encouragement
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=6
+	(3)
 encourages
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=6
+	(3)
 endorse
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+endorsements
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 engagement
+	ignored (5)
+engagementeventsvolunteerendorsements
+	ignored (12)
+ensure
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+entailed
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+environment
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+environmental
 	ignored (6)
+equitably
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
 equity
-	ignored (6)
+	2 raeishaforward5.com/education.html
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+eradicate
+	3 raeishaforward5.com/affordable-housin-homeownership.html
+	3 raeishaforward5.com/affordable-housin-homeownership.html
+	=6
+	(3)
 establish
 	ignored (6)
+events
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/events.html
+	=4
+	(2)
 ever
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
 excellence
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
 excited
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+executive
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+existence
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+existing
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+experiences
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 facebook
-	ignored (13)
+	ignored (12)
+families
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+fantastic
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+fathers
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+fearless
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+federal
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+fighting
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+firm
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+first
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+food
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
 for
-	ignored (272)
+	ignored (226)
+former
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+forward
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+friday
+	3 raeishaforward5.com/events.html
+	3 raeishaforward5.com/events.html
+	=6
+	(3)
+friend
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/events.html
+	=4
+	(2)
 friends
-	ignored (13)
+	ignored (12)
+from
+	ignored (8)
+front
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+full
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 funding
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/education.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+fundraiser
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+gardener
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 gentrification
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
 get
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
 getting
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=6
+	(3)
+global
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 google
-	ignored (13)
+	ignored (12)
+government
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+graduated
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+grandmother
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+granted
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+grants
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+great
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/commitments.html
+	=4
+	(2)
+greatest
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/endorsements.html
+	=4
+	(2)
+greets
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+grew
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+groups
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/economic-development.html
+	=4
+	(2)
+had
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+half
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+hall
+	3 raeishaforward5.com/community-engagement.html
+	3 raeishaforward5.com/community-engagement.html
+	=6
+	(3)
+hand
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+harvest
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 has
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+have
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+health
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=4
+	(2)
+heart
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+her
+	ignored (11)
+high
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/education.html
+	=4
+	(2)
 highest
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
 hold
-	ignored (6)
-home
-	ignored (13)
+	ignored (5)
+homebiocommitmentsaffordable
+	ignored (12)
 homeownership
-	ignored (69)
+	ignored (36)
+homeownershipeconomic
+	ignored (12)
 horizon
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+host
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
 hosting
-	ignored (6)
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
 hour
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/economic-development.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
 hours
-	ignored (6)
+	3 raeishaforward5.com/community-engagement.html
+	3 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=8
+	(4)
+housin
+	ignored (15)
 housing
-	ignored (41)
-http
+	ignored (13)
+how
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
+howard
 	ignored (6)
+http
+	2 index.html
+	=2
+	(1)
+ieesha
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+inaugural
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+inc
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+including
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 increase
 	ignored (6)
+influential
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+information
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+initiative
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+injustices
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 involved
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+issues
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+jamaican
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+january
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+job
 	ignored (6)
+join
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+justice
+	ignored (5)
+kitchen
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
 know
-	ignored (6)
+	ignored (10)
+latter
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 lead
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+leader
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+leadership
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+leads
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+learned
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+level
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+levy
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+levy-pounds
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 life
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+like
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+lines
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 linkedin
-	ignored (13)
+	ignored (12)
+live
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+local
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+look
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+loving
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+magnet-school
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+make
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+maker
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+making
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+many
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+marketing
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+mass
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+mawusi
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+may
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+mayor
+	ignored (8)
 means
-	ignored (13)
+	ignored (12)
+media
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+meet
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+meetings
+	3 raeishaforward5.com/community-engagement.html
+	3 raeishaforward5.com/community-engagement.html
+	=6
+	(3)
+members
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=4
+	(2)
+mend
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+mental
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+metropolitan
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
 minimum
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/economic-development.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
 minneapolis
-	ignored (48)
+	ignored (41)
 minnesota
-	ignored (13)
+	ignored (12)
 monthly
-	ignored (6)
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+morris
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+most
+	3 raeishaforward5.com/endorsements.html
+	3 raeishaforward5.com/endorsements.html
+	=6
+	(3)
+mother
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+mothers
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 music
-	ignored (6)
+	ignored (5)
+naacp
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+necessary
+	3 raeishaforward5.com/endorsements.html
+	3 raeishaforward5.com/endorsements.html
+	=6
+	(3)
 need
-	ignored (6)
+	3 raeishaforward5.com/endorsements.html
+	3 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	=8
+	(4)
+negligent
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+neighborhood
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
 neighbors
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=6
+	(3)
+nekima
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/events.html
+	=4
+	(2)
+network
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+networks
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+nevils
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+nevils-williams
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+new
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/economic-development.html
+	=4
+	(2)
+next
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+non-police
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+nonprofits
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
 north
-	ignored (6)
+	ignored (8)
+northpoint
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 northside
-	ignored (6)
+	2 raeishaforward5.com/economic-development.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
 not
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
 occurring
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
 office
-	ignored (6)
+	ignored (8)
+officers
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+officials
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
 once
-	ignored (6)
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+one
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+one-on-one
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+online
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
 open
-	ignored (6)
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
 opportunities
 	ignored (6)
+opportunity
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+organizations
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
 organizations.i
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+other
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/commitments.html
+	=4
+	(2)
 our
-	ignored (146)
+	ignored (36)
+ourselves
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
+outreach
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+outspoken
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+owner
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+owners
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+oyewole
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 p.o
-	ignored (13)
+	ignored (12)
+partner
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+partnership
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
 partnerships
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/education.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+passion
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+passionate
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+pastor
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+paul
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+people
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+philanthropy
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+physician
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+pimento
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+planning
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+platforms
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
 pledge
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+police
 	ignored (6)
+political
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+politics
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+pool
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+positive
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+pounds
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+powerhouse
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+prayer
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 pride
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+producer
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+professional
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/endorsements.html
+	=8
+	(4)
 program
-	ignored (6)
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+programs
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+progress
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+project
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+prominent
+	3 raeishaforward5.com/education.html
+	3 raeishaforward5.com/education.html
+	=6
+	(3)
+promise
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+properties
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+property
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+protective
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 proud
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+provide
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
 public
-	ignored (6)
+	ignored (9)
+publicist
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 quality
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+quarterly
+	3 raeishaforward5.com/community-engagement.html
+	3 raeishaforward5.com/community-engagement.html
+	=6
+	(3)
 raeisha
-	ignored (48)
+	ignored (50)
 raeshawilliams.com
-	ignored (13)
+	ignored (12)
 raise
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/economic-development.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+ranging
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+ray
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+reach
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+recently
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+reckless
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+recruit
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+reform
+	3 raeishaforward5.com/safe-thriving-communities.html
+	3 raeishaforward5.com/safe-thriving-communities.html
+	=6
+	(3)
+regional
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+rent
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+rental
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+renters
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	=2
+	(1)
+requiring
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
 residents
-	ignored (20)
+	ignored (12)
+resources
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+response
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
 responsibility
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=8
+	(4)
+responsible
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
+rest
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
 revitalization
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+rights
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+rosemary
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 run
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
 safe
-	ignored (20)
+	ignored (6)
 safety
-	ignored (20)
+	ignored (13)
+savvy
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+sayles
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+school
+	3 raeishaforward5.com/education.html
+	3 raeishaforward5.com/education.html
+	2 raeishaforward5.com/bio.html
+	=8
+	(4)
 schools
-	ignored (6)
+	ignored (10)
 script
-	ignored (923)
+	ignored (844)
 see
-	ignored (6)
+	2 raeishaforward5.com/events.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+seen
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 seen.in
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+senior
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+sense
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+servant
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+service
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+serving
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+shaped
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 share
-	ignored (13)
+	ignored (12)
+sharon
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+she
+	ignored (24)
+showing
+	2 raeishaforward5.com/commitments.html
+	=2
+	(1)
+sister
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+skills
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+small
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+social
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/endorsements.html
+	=4
+	(2)
 solidarity
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+south
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+specialist
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/endorsements.html
+	=8
+	(4)
+start-up
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
+started
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+state
+	2 raeishaforward5.com/economic-development.html
+	=2
+	(1)
 states
-	ignored (13)
+	ignored (12)
+steele
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+step
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+stood
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+strategic
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+strong
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+studied
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+successful
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+such
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+summit
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 support
-	ignored (6)
+	ignored (19)
+sylvia
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 take
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/index.html
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=8
+	(4)
+takeover
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+task
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+tcg
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+team
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
 tel
-	ignored (13)
+	ignored (12)
+television
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+term
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 that
-	ignored (76)
+	ignored (65)
 the
-	ignored (195)
+	ignored (269)
+them
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+there
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+this
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/events.html
+	=4
+	(2)
 thriving
-	ignored (20)
+	ignored (26)
 through
-	ignored (41)
+	ignored (18)
 time
-	ignored (6)
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+times
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+tirelessly
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 together
-	ignored (6)
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/education.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
+tola
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+toward
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
+town
+	3 raeishaforward5.com/community-engagement.html
+	3 raeishaforward5.com/community-engagement.html
+	=6
+	(3)
 transformation
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
+twin
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 twitter
-	ignored (13)
+	ignored (12)
+two
+	2 raeishaforward5.com/events.html
+	=2
+	(1)
+understanding
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+understands
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 united
-	ignored (13)
+	ignored (12)
+university
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+upcoming
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+updates
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+urgency
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 uses
-	ignored (13)
+	ignored (12)
+utilizing
+	2 raeishaforward5.com/education.html
+	=2
+	(1)
 very
-	ignored (6)
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+violence
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
 voice
-	ignored (6)
+	2 raeishaforward5.com/index.html
+	=2
+	(1)
 volunteer
-	ignored (6)
+	2 raeishaforward5.com/volunteer.html
+	=2
+	(1)
 wage
-	ignored (6)
+	2 raeishaforward5.com/commitments.html
+	2 raeishaforward5.com/economic-development.html
+	2 raeishaforward5.com/index.html
+	=6
+	(3)
 ward
-	ignored (468)
+	ignored (151)
+was
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+washington
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
 week
-	ignored (6)
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+weekly
+	2 raeishaforward5.com/community-engagement.html
+	=2
+	(1)
+wellness
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 what
-	ignored (13)
+	ignored (18)
+when
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
+where
+	3 raeishaforward5.com/endorsements.html
+	3 raeishaforward5.com/endorsements.html
+	=6
+	(3)
+while
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
+who
+	2 raeishaforward5.com/safe-thriving-communities.html
+	=2
+	(1)
 will
-	ignored (251)
+	ignored (106)
 williams
-	ignored (48)
+	ignored (32)
 win
-	ignored (6)
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/index.html
+	=4
+	(2)
+wisdom
+	2 raeishaforward5.com/endorsements.html
+	=2
+	(1)
 with
-	ignored (27)
+	ignored (75)
+woman
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 work
-	ignored (41)
+	ignored (23)
+worked
+	3 raeishaforward5.com/bio.html
+	3 raeishaforward5.com/bio.html
+	=6
+	(3)
+working
+	2 raeishaforward5.com/bio.html
+	=2
+	(1)
 you
-	ignored (6)
+	ignored (9)
 your
+	ignored (23)
+youth
+	2 raeishaforward5.com/bio.html
+om/index.html
 	4 raeishaforward5.com/index.html
-	4 raeishaforward5.com/index.html
-	4 raeishaforward5.com/index.html
+	3 raeishaforward5.com/commitments.html
+	3 raeishaforward5.com/commitments.html
+	3 raeishaforward5.com/safe-thriving-communities.html
+	3 raeishaforward5.com/safe-thriving-communities.html
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/bio.html
+	2 raeishaforward5.com/community-engagement.html
+	2 raeishaforward5.com/economic-development.html
+	2 raeishaforward5.com/education.html
+	2 raeishaforward5.com/endorsements.html
+	2 raeishaforward5.com/events.html
 	2 raeishaforward5.com/volunteer.html
-ex.html
-	=72
-ndex.html
-	12 raeishaforward5.com/index.html
+	=40
+rd5.com/index.html
+	3 raeishaforward5.com/safe-thriving-communities.html
+	3 raeishaforward5.com/safe-thriving-communities.html
+	2 raeishaforward5.com/affordable-housin-homeownership.html
+	2 raeishaforward5.com/education.html
 	2 raeishaforward5.com/volunteer.html
-	=134
+	=130
+ard5.com/endorsements.html
+	3 raeishaforward5.com/endorsements.html
+	=184

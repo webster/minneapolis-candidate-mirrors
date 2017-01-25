@@ -1,3 +1,3 @@
 date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-17:11:13	36099/36099	U--MCZ	200	updated ('OK')	text/html	date:Sun,%2022%20Jan%202017%2017:11:13%20GMT	http://raeishaforward5.com/	raeishaforward5.com/index.html	(from )
-17:11:14	24587/24587	U--MCZ	200	updated ('OK')	text/html	date:Sun,%2022%20Jan%202017%2017:11:13%20GMT	http://raeishaforward5.com/volunteer	raeishaforward5.com/volunteer.html	(from http://raeishaforward5.com/)
+00:52:23	36099/36099	U--MCZ	200	updated ('OK')	text/html	date:Wed,%2025%20Jan%202017%2000:52:23%20GMT	http://raeishaforward5.com/	raeishaforward5.com/index.html	(from )
+00:52:24	24587/24587	U--MCZ	200	updated ('OK')	text/html	date:Wed,%2025%20Jan%202017%2000:52:24%20GMT	http://raeishaforward5.com/volunteer	raeishaforward5.com/volunteer.html	(from http://raeishaforward5.com/)

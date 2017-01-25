@@ -1,5 +1,5 @@
-http://stevefletcher.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W03-FLETCHER-stevefletcher.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q
-File generated automatically on Wed, 25 Jan 2017 00:51:25, do NOT edit
+http://stevefletcher.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W03-FLETCHER-stevefletcher.org/ -s0 -%I -F Mozilla/5.0 -%F " " -q -q -q
+File generated automatically on Wed, 25 Jan 2017 18:51:59, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

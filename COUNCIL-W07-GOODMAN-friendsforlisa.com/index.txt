@@ -1,1266 +1,683 @@
-aall
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-aavada
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-abortion
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+a.et_link_main_url
+	ignored (244)
 about
-	ignored (8)
-accurate
-	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/about-lisa/index.html
 	=2
-	(2)
-action
-	2 www.friendsforlisa.com/index.html
+	(0)
+accomplishments
+	2 www.friendsforlisa.com/accomplishments/index.html
 	=2
-	(2)
-active
-	ignored (56)
-actively
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-additional
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-advance
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-affiliate
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-affordable
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-afor
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	(0)
 after
-	ignored (42)
-agency
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-agoodman
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-alisa
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-along
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-also
-	ignored (6)
-amp
-	ignored (12)
+	ignored (13)
 and
-	ignored (997)
-animal
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-annual
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-antiquing
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-any
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-apowered
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-aquatennial
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-areas
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-art
-	ignored (6)
-arts
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-author
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-auto
-	ignored (6)
-ave
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-avenue
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-awalker
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	ignored (44)
 background
-	ignored (32)
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
 background-color
-	ignored (6)
-background-image
-	ignored (110)
-ballpark
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-basilica
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-beautiful
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-been
-	ignored (6)
+	ignored (26)
 before
-	ignored (42)
-bid
+	ignored (13)
+blockquote
+	ignored (605)
+body
+	ignored (13)
+body.et_vertical_nav
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-block
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+bold
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-blog
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-board
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-boards
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
 border
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
 border-color
-	ignored (110)
-border-width
-	ignored (20)
-bottom
-	ignored (72)
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
 box-shadow
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-brownie
-	2 www.friendsforlisa.com/index.html
+caucus
+	2 www.friendsforlisa.com/caucus/index.html
 	=2
-	(2)
-bryn
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-business
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-businesses
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-button-1
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-button-2
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-campaign
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-campaigns
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-can
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-cannot
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-cedar
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-cedar-isles-dean
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-center
-	ignored (6)
-central
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-chairperson
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-chairs
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-check
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-chicago
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-circle-no
-	ignored (20)
-cities
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	(0)
+cc3399
+	ignored (160)
+cite
+	ignored (244)
 city
-	ignored (30)
-claims
 	2 www.friendsforlisa.com/index.html
 	=2
-	(2)
-class
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-college
-	ignored (6)
+	(0)
+click
+	2 www.friendsforlisa.com/index3153.html
+	2 www.friendsforlisa.com/index3dd1.html
+	2 www.friendsforlisa.com/index58d1.html
+	2 www.friendsforlisa.com/index62d8.html
+	2 www.friendsforlisa.com/indexc474.html
+	=10
+	(3)
 color
-	ignored (72)
-come
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-commissions
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-committee
-	ignored (6)
-committees
-	ignored (6)
-community
-	ignored (30)
+	ignored (405)
 contact
+	2 www.friendsforlisa.com/contact-me/index.html
+	=2
+	(0)
+container.et_search_form_container
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-contributions
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-convention
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-coordinated
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-copyright
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-core
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-corporations
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-council
-	ignored (6)
-couple
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-created
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-currently
-	ignored (6)
-degree
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-department
-	ignored (12)
-details.so
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-development
-	ignored (42)
-dining
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-director
-	ignored (6)
-display
-	ignored (12)
-district
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-dog
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-donate
-	ignored (6)
-donations
-	ignored (6)
-downtown
-	ignored (6)
-dunwoody
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-during
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-e9s
-	ignored (42)
-economic
-	ignored (20)
-educational
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-effort
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-elected
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-election
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-elliot
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-email
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-employer
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-energy
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-enjoys
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-entries
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-environment
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-events
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-exceed
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-exciting
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-executive
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-expansion
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-family
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-far
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-farmhouse
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-featuring
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-festival
-	ignored (6)
-festivals
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-ffffff
-	ignored (156)
-filled
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-finance
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-finder.fusion-fullwidth-7
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-first
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-flex-direction-nav
-	ignored (6)
-focus
-	ignored (72)
-font-size
-	ignored (6)
-for
-	ignored (56)
-form
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-from
-	ignored (6)
-fund
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fundraising
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-button-icon-divider
-	ignored (20)
-fusion-button-text
-	ignored (72)
-fusion-button.button-1
-	ignored (344)
-fusion-button.button-2
-	ignored (344)
-fusion-content-box-hover
-	ignored (1490)
-fusion-content-boxes-1
-	ignored (422)
-fusion-content-boxes-2
-	ignored (422)
-fusion-fullwidth-1
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-fullwidth-10
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-fullwidth-2
-	ignored (6)
-fusion-fullwidth-2.fusion-section-separator
-	ignored (6)
-fusion-fullwidth-3
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-fullwidth-4
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-fullwidth-5
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-fullwidth-6
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-fullwidth-8
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-fullwidth-9
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-read-more
-	ignored (344)
-fusion-slider-24
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-fusion-slider-8
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-gallagher
-	ignored (8)
-garden
-	ignored (6)
-gardening
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-generated
-	2 www.friendsforlisa.com/wp-content/themes/Avada/assets/fonts/icomoon/icomoond41d.svg
-	=2
-	(2)
-goldendoodle
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-graduate
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-graduated
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-great
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-grounds
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-has
-	ignored (18)
-heading
-	ignored (211)
-heading-link
-	ignored (72)
-height
-	ignored (14)
-hennepin
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-her
-	ignored (30)
-hiking
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-hill
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-historic
-	ignored (6)
-home
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-homemeet
-	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-hotel
+councilmember
 	2 www.friendsforlisa.com/index.html
 	=2
-	(2)
-housing
-	ignored (6)
-hover
-	ignored (509)
+	(0)
+display
+	ignored (13)
+et-cart-info
+	ignored (13)
+et-fixed-header
+	ignored (347)
+et-search-form
+	ignored (13)
+et-social-icon
+	ignored (13)
+et-top-navigation
+	ignored (13)
+et_audio_content
+	ignored (44)
+et_close_search_field
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_color_scheme_green
+	ignored (13)
+et_color_scheme_orange
+	ignored (13)
+et_color_scheme_pink
+	ignored (13)
+et_color_scheme_red
+	ignored (13)
+et_header_style_centered
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_header_style_split
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_link_content
+	ignored (467)
+et_mobile_menu
+	ignored (26)
+et_nav_text_color_dark
+	ignored (13)
+et_nav_text_color_light
+	ignored (13)
+et_pb_audio_module_content
+	ignored (26)
+et_pb_best_value
+	ignored (13)
+et_pb_blog_grid
+	ignored (160)
+et_pb_circle_counter
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_pb_column
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_pb_column_1_2
+	ignored (66)
+et_pb_column_1_3
+	ignored (200)
+et_pb_column_1_4
+	ignored (200)
+et_pb_column_3_8
+	ignored (160)
+et_pb_filterable_portfolio_grid
+	ignored (13)
+et_pb_fullwidth_section
+	ignored (13)
+et_pb_gallery_grid
+	ignored (13)
+et_pb_gallery_item
+	ignored (13)
+et_pb_number_counter
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_pb_portfolio_grid
+	ignored (13)
+et_pb_portfolio_item
+	ignored (44)
+et_pb_post
+	ignored (13)
+et_pb_row
+	ignored (26)
+et_pb_row_inner
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_pb_section
+	ignored (44)
+et_pb_section.et_pb_fullwidth_section
+	ignored (13)
+et_pb_section.et_pb_section_first
+	ignored (44)
+et_pb_slide_content
+	ignored (13)
+et_pb_slide_description
+	ignored (13)
+et_pb_slide_title
+	ignored (13)
+et_pb_slider.et_pb_module
+	ignored (13)
+et_pb_slides
+	ignored (13)
+et_pb_svg_logo
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_post_meta_wrapper
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+et_quote_content
+	ignored (605)
+et_search_form_container
+	ignored (160)
+et_search_icon
+	ignored (13)
+et_top_search
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+ffffff
+	ignored (13)
+font-size
+	ignored (761)
+font-style
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+font-weight
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+footer-bottom
+	ignored (26)
+footer-info
+	ignored (26)
+footer-widget
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+for
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+friends
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+has
+	2 www.friendsforlisa.com/index3153.html
+	2 www.friendsforlisa.com/index3dd1.html
+	2 www.friendsforlisa.com/index58d1.html
+	2 www.friendsforlisa.com/index62d8.html
+	2 www.friendsforlisa.com/indexc474.html
+	=10
+	(3)
+height
+	ignored (13)
+here
+	2 www.friendsforlisa.com/index3153.html
+	2 www.friendsforlisa.com/index3dd1.html
+	2 www.friendsforlisa.com/index58d1.html
+	2 www.friendsforlisa.com/index62d8.html
+	2 www.friendsforlisa.com/indexc474.html
+	=10
+	(3)
 http
 	2 index.html
 	=2
-	(2)
-humane
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-humphrey
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-i.circle-yes
-	ignored (72)
-icomoon
-	2 www.friendsforlisa.com/wp-content/themes/Avada/assets/fonts/icomoon/icomoond41d.svg
-	=2
-	(2)
-icon
-	ignored (156)
-illinois
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	(0)
 img.emoji
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
 img.wp-smiley
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-implementation
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
 important
-	ignored (1806)
-in-demand
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-including
-	ignored (6)
-individuals
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-information
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	ignored (846)
+inherit
+	ignored (44)
 inline
-	ignored (12)
-institute
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-involved
-	ignored (6)
-isles
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	ignored (13)
+input
+	ignored (244)
 issues
-	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
 	=2
-	(2)
-kenwood
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-labor
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-lake
-	ignored (12)
-league
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-led
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-left
-	ignored (20)
-level
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-like
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	(0)
+li.current-menu-ancestor
+	ignored (93)
+li.current-menu-item
+	ignored (93)
+li.product
+	ignored (13)
 line-height
-	ignored (6)
-linear
-	ignored (6)
-link-area-box
-	ignored (6)
-link-area-box-hover
-	ignored (72)
-link-area-box-hover.link-area-box
-	ignored (42)
-link-area-link-icon-hover
-	ignored (72)
-link-area-link-icon-hover.link-area-box
-	ignored (42)
-linkedin
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
+	2 www.friendsforlisa.com/index.html
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
 lisa
-	ignored (56)
-lisadonatevotingabout
+	ignored (5)
+logo
+	ignored (13)
+main-footer
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-loading
-	ignored (6)
-local
+main-header
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-loring
-	ignored (12)
-lowry
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-made
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-mall
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
 margin
-	ignored (12)
-margin-left
+	ignored (13)
+max-height
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-margin-right
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-margin-top
-	ignored (6)
-mawr
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
 max-width
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-may
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	ignored (13)
 media
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-merge
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-message
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-metropolitan
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-michael
-	ignored (8)
-minneapolis
-	ignored (90)
-minnesota
-	ignored (6)
-more
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-must
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-name
-	ignored (12)
-naral
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-national
-	ignored (6)
-nationally
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-native
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-neighborhoods
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-new
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-nicollet
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-non-election
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	ignored (44)
+min-width
+	ignored (13)
+mobile_nav
+	ignored (13)
+moved
+	2 www.friendsforlisa.com/index3153.html
+	2 www.friendsforlisa.com/index3dd1.html
+	2 www.friendsforlisa.com/index58d1.html
+	2 www.friendsforlisa.com/index62d8.html
+	2 www.friendsforlisa.com/indexc474.html
+	=10
+	(3)
+moz-placeholder
+	ignored (13)
+ms-input-placeholder
+	ignored (13)
+nav
+	ignored (13)
 none
-	ignored (24)
-north
+	ignored (66)
+normal
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-not
-	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-note
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-now
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-numerous
-	ignored (6)
 only
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-opportunities
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-orchestra
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-orpheum
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-other
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	ignored (44)
 padding
-	ignored (12)
-padding-left
-	ignored (110)
-padding-right
-	ignored (110)
-pantages
+	ignored (405)
+padding-top
+	ignored (66)
+page
+	2 www.friendsforlisa.com/index3153.html
+	2 www.friendsforlisa.com/index3dd1.html
+	2 www.friendsforlisa.com/index58d1.html
+	2 www.friendsforlisa.com/index62d8.html
+	2 www.friendsforlisa.com/indexc474.html
+	=10
+	(3)
+product
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-park
-	ignored (12)
-party
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-paul
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-peavey
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-per
-	ignored (6)
-person
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-place
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-planning
-	ignored (42)
-plaza
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-please
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-plethora
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-policy
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-political
-	ignored (6)
-polling
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-pond
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-preservation
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-pride
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-prior
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-process
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-program
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-projects
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-provides
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-public
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-purposes
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-re-election
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
 recentcomments
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-regulatory
+related
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-relations
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-renowned
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-reporting
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-residential
-	ignored (6)
-rights
-	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-rock
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-rooms
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-rural
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-sadie
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-scenic
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-science
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
 screen
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	ignored (44)
 script
-	ignored (289)
-sculpture
+	ignored (618)
+select_page
+	ignored (13)
+single.et_pb_pagebuilder_layout.et_full_width_page
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-senate
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-sent
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-served
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-serves
-	ignored (6)
-she
-	ignored (56)
-shopping
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-society
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-spare
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-special
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-spending
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-stable
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-state
-	ignored (12)
-structure
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-subject
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-successful
-	ignored (6)
-support
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-teaches
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-technical
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-technology
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-tenure
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-than
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-thank
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-the
-	ignored (816)
-theater
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-theaters
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-theme
-	ignored (6)
-this
-	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-thomas
+span.et_close_search_field
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-through
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+text-decoration
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-time
-	ignored (6)
-times
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+text-transform
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-titled
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-top
-	ignored (20)
-twin
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-university
-	ignored (30)
-urban
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+top-menu
+	ignored (761)
+ul.products
+	ignored (13)
 vertical-align
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	2 www.friendsforlisa.com/indexcd64.html
-	=4
+	2 www.friendsforlisa.com/issues/index.html
+	=12
 	(4)
-vibrant
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-vote
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-voting
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
 ward
-	ignored (22)
-was
-	ignored (12)
-weekends
 	2 www.friendsforlisa.com/index.html
 	=2
-	(2)
-welcome
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-well
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
+	(0)
+webkit-input-placeholder
+	ignored (13)
 width
-	ignored (32)
-wisconsin-madison
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-with
-	ignored (20)
-won
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+woocommerce
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-wordpress
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-xerxes
+	2 www.friendsforlisa.com/issues/index.html
+	=12
+	(4)
+woocommerce-page
+	2 www.friendsforlisa.com/about-lisa/index.html
+	2 www.friendsforlisa.com/accomplishments/index.html
+	2 www.friendsforlisa.com/caucus/index.html
+	2 www.friendsforlisa.com/contact-me/index.html
 	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-year
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-yet
-	2 www.friendsforlisa.com/indexcd64.html
-	=2
-	(2)
-you
-	2 www.friendsforlisa.com/index.html
-	=2
-	(2)
-your
-	ignored (30)
-zoning
-	3 www.friendsforlisa.com/index.html
-	3 www.friendsforlisa.com/index.html
-om/index.html
-	6 www.friendsforlisa.com/index.html
-	6 www.friendsforlisa.com/index.html
-	=30
+	2 www.friendsforlisa.com/issues/index.html
+iendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/accomplishments/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/caucus/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/contact-me/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	19 www.friendsforlisa.com/issues/index.html
+	=2052

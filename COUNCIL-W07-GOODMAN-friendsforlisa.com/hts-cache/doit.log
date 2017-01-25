@@ -1,5 +1,5 @@
-http://www.friendsforlisa.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W07-GOODMAN-friendsforlisa.com/ -s0 -%I -F "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" -%F " " -q -q
-File generated automatically on Wed, 25 Jan 2017 00:53:17, do NOT edit
+http://www.friendsforlisa.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W07-GOODMAN-friendsforlisa.com/ -s0 -%I -F "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" -%F " " -q -q -q
+File generated automatically on Wed, 25 Jan 2017 18:54:04, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)

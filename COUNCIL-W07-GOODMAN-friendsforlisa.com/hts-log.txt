@@ -1,25 +1,23 @@
-HTTrack3.48-23 launched on Wed, 25 Jan 2017 00:53:17 at http://www.friendsforlisa.com/
-(httrack http://www.friendsforlisa.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W07-GOODMAN-friendsforlisa.com/ -s0 -%I -F "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" -%F " " -q -q )
+HTTrack3.48-23 launched on Wed, 25 Jan 2017 18:54:04 at http://www.friendsforlisa.com/
+(httrack http://www.friendsforlisa.com/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W07-GOODMAN-friendsforlisa.com/ -s0 -%I -F "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" -%F " " -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-00:54:15	Error: 	"Method Not Allowed" (405) at link www.friendsforlisa.com/xmlrpc.php (from www.friendsforlisa.com/)
-00:54:15	Error: 	"Not Found" (404) at link www.friendsforlisa.com/feed/ (from www.friendsforlisa.com/)
-00:54:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 531876 got 513227): www.friendsforlisa.com/wp-content/uploads/2017/01/017_Accenture2_-Wilson.jpg
-00:54:53	Warning: 	Retry after error -4 (Incorrect length (513227 Bytes, 531876 expected)) at link www.friendsforlisa.com/wp-content/uploads/2017/01/017_Accenture2_-Wilson.jpg (from www.friendsforlisa.com/)
-00:58:55	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1306
-00:58:55	Warning: 	File has moved from www.friendsforlisa.com/?p=1306 to http://www.friendsforlisa.com/caucus/
-00:58:55	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1308
-00:58:55	Warning: 	File has moved from www.friendsforlisa.com/?p=1308 to http://www.friendsforlisa.com/about-lisa/
-00:58:55	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1310
-00:58:55	Warning: 	File has moved from www.friendsforlisa.com/?p=1310 to http://www.friendsforlisa.com/accomplishments/
-00:58:55	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1314
-00:58:55	Warning: 	File has moved from www.friendsforlisa.com/?p=1314 to http://www.friendsforlisa.com/issues/
-00:58:55	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1312
-00:58:55	Warning: 	File has moved from www.friendsforlisa.com/?p=1312 to http://www.friendsforlisa.com/contact-me/
+18:54:07	Error: 	"Method Not Allowed" (405) at link www.friendsforlisa.com/xmlrpc.php (from www.friendsforlisa.com/)
+18:54:08	Error: 	"Not Found" (404) at link www.friendsforlisa.com/feed/ (from www.friendsforlisa.com/)
+18:54:18	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1306
+18:54:18	Warning: 	File has moved from www.friendsforlisa.com/?p=1306 to http://www.friendsforlisa.com/caucus/
+18:54:19	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1308
+18:54:19	Warning: 	File has moved from www.friendsforlisa.com/?p=1308 to http://www.friendsforlisa.com/about-lisa/
+18:54:20	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1310
+18:54:20	Warning: 	File has moved from www.friendsforlisa.com/?p=1310 to http://www.friendsforlisa.com/accomplishments/
+18:54:21	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1314
+18:54:21	Warning: 	File has moved from www.friendsforlisa.com/?p=1314 to http://www.friendsforlisa.com/issues/
+18:54:22	Warning: 	Moved Permanently for www.friendsforlisa.com/?p=1312
+18:54:22	Warning: 	File has moved from www.friendsforlisa.com/?p=1312 to http://www.friendsforlisa.com/contact-me/
 
-HTTrack Website Copier/3.48-23 mirror complete in 6 minutes 4 seconds : 65 links scanned, 57 files written (9695050 bytes overall), 51 files updated [8853233 bytes received at 24322 bytes/sec], 9561652 bytes transferred using HTTP compression in 58 files, ratio 86%, 7.2 requests per connection
-(2 errors, 12 warnings, 0 messages)
+HTTrack Website Copier/3.48-23 mirror complete in 19 seconds : 64 links scanned, 57 files written (9695050 bytes overall), 22 files updated [94377 bytes received at 4967 bytes/sec], 259437 bytes transferred using HTTP compression in 29 files, ratio 29%, 16.0 requests per connection
+(2 errors, 10 warnings, 0 messages)

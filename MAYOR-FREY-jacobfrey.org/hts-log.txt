@@ -1,5 +1,5 @@
-HTTrack3.48-23 launched on Wed, 25 Jan 2017 00:48:16 at https://jacobfrey.org/
-(httrack https://jacobfrey.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-FREY-jacobfrey.org/ -%I -F Mozilla/5.0 -%F " " -q -q -q -q -q -q -q )
+HTTrack3.48-23 launched on Wed, 25 Jan 2017 18:47:42 at https://jacobfrey.org/
+(httrack https://jacobfrey.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/MAYOR-FREY-jacobfrey.org/ -%I -F Mozilla/5.0 -%F " " -q -q -q -q -q -q -q -q )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
@@ -7,5 +7,5 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 
-HTTrack Website Copier/3.48-23 mirror complete in 28 seconds : 26 links scanned, 25 files written (982571 bytes overall), 25 files updated [273659 bytes received at 9773 bytes/sec], 974708 bytes transferred using HTTP compression in 22 files, ratio 25%
+HTTrack Website Copier/3.48-23 mirror complete in 28 seconds : 26 links scanned, 25 files written (982571 bytes overall), 25 files updated [273731 bytes received at 9776 bytes/sec], 974708 bytes transferred using HTTP compression in 22 files, ratio 25%
 (No errors, 0 warnings, 0 messages)

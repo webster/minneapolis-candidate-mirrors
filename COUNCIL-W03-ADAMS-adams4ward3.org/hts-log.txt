@@ -1,0 +1,32 @@
+HTTrack3.48-23 launched on Thu, 26 Jan 2017 05:13:31 at https://adams4ward3.org/
+(httrack https://adams4ward3.org/ -w -O /home/mirror/minneapolis-candidate-mirrors/COUNCIL-W03-ADAMS-adams4ward3.org/ -s0 -%I -F "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36" -%F " " -q )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:13:34	Error: 	"Method Not Allowed" (405) at link https://adams4ward3.org/xmlrpc.php (from https://adams4ward3.org/)
+05:13:35	Error: 	"Not Found" (404) at link https://adams4ward3.org/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/)
+05:14:27	Error: 	"Not Found" (404) at link https://adams4ward3.org/about/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/about/)
+05:14:30	Warning: 	Found for https://adams4ward3.org/about/?share=twitter
+05:14:30	Warning: 	File has moved from https://adams4ward3.org/about/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=About%20the%20Candidate&url=https%3A%2F%2Fadams4ward3.org%2Fabout%2F
+05:14:30	Warning: 	Found for https://adams4ward3.org/about/?share=facebook
+05:14:30	Warning: 	File has moved from https://adams4ward3.org/about/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fadams4ward3.org%2Fabout%2F&t=About%20the%20Candidate
+05:14:33	Warning: 	Found for https://adams4ward3.org/about/?share=google-plus-1
+05:14:33	Warning: 	File has moved from https://adams4ward3.org/about/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fadams4ward3.org%2Fabout%2F
+05:14:35	Error: 	"Not Found" (404) at link https://adams4ward3.org/issues/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/issues/)
+05:14:37	Warning: 	Found for https://adams4ward3.org/issues/?share=twitter
+05:14:37	Warning: 	File has moved from https://adams4ward3.org/issues/?share=twitter to https://twitter.com/intent/tweet?via=wordpressdotcom&text=Issues&url=https%3A%2F%2Fadams4ward3.org%2Fissues%2F
+05:14:37	Warning: 	Found for https://adams4ward3.org/issues/?share=facebook
+05:14:37	Warning: 	File has moved from https://adams4ward3.org/issues/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fadams4ward3.org%2Fissues%2F&t=Issues
+05:14:37	Warning: 	Found for https://adams4ward3.org/issues/?share=google-plus-1
+05:14:37	Warning: 	File has moved from https://adams4ward3.org/issues/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fadams4ward3.org%2Fissues%2F
+05:14:37	Error: 	"Not Found" (404) at link https://adams4ward3.org/blog/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/blog/)
+05:14:37	Error: 	"Not Found" (404) at link https://adams4ward3.org/contact/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/contact/)
+05:14:37	Error: 	"Not Found" (404) at link https://adams4ward3.org/2017/01/07/first-blog-post/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/2017/01/07/first-blog-post/)
+05:14:39	Error: 	"Not Found" (404) at link https://adams4ward3.org/author/jcadamsward3/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/author/jcadamsward3/)
+05:14:39	Error: 	"Not Found" (404) at link https://adams4ward3.org/category/uncategorized/wordpress_test_cookie=test; path=/ (from https://adams4ward3.org/category/uncategorized/)
+
+HTTrack Website Copier/3.48-23 mirror complete in 1 minutes 8 seconds : 31 links scanned, 16 files written (417147 bytes overall) [211882 bytes received at 3115 bytes/sec], 759495 bytes transferred using HTTP compression in 24 files, ratio 25%, 3.4 requests per connection
+(9 errors, 12 warnings, 0 messages)

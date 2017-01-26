@@ -1,0 +1,222 @@
+/*   
+Theme Name: STEPHANIE GASCA FOR CITY COUNCIL
+Theme URI: http://www.votestephaniegasca.com
+Description: This is just a BLANK starter WordPress Theme template -- WordPress v2.9.1
+Author: Chris Coyier / Designed by Sieng
+Author URI: http://chriscoyier.net
+Version: 1
+*/
+
+* { margin: 0; padding: 0; }
+
+li, a, h1, h2, h3, h4, h5, p, span, button, div{list-style: none;text-decoration: none;font-family: 'Raleway', sans-serif;}
+
+.page-wrap { width: 1100px; margin: 0 auto;}
+
+html{min-width: 1160px;}
+/*HEADER*************************************************************/
+#header2{overflow: hidden;min-height: 550px;}
+#header2 img{width: 100%;min-width: 1000px;vertical-align: bottom;z-index: -1;display: block;position: relative;}
+
+#header3{overflow: hidden;min-height: 480px;}
+#header3 img{width: 100%;min-width: 1000px;vertical-align: bottom;z-index: -1;display: block;position: relative;}
+
+#header{}
+
+#nav-links{position: absolute;margin-top: 30px;padding-left: 650px;}
+#logo{margin-left:132px;margin-top: 30px;;}
+#logo img{width: 300px;}
+#nav-links li{display: inline-block;vertical-align: top;margin-right: -4px;}
+#nav-links li a.links{color: #444;font-size: 18px;font-weight: 700;letter-spacing: 2px;display: block;padding: 15px 15px 15px 15px;border-bottom: 2px solid #E9C31E;border-left: 2px solid #E9C31E;border-top: 2px solid #E9C31E;}
+#nav-links li a.social{}
+#nav-links li a.social img{width:45px;padding: 3px;border-bottom: 2px solid #E9C31E;border-top: 2px solid #E9C31E;border-right: 2px solid #E9C31E;margin-left: -6px;}
+
+#nav-links li a.links:hover{cursor: pointer;color: #fff;background:#E9C31E; }
+#nav-links h1{width:500px;color: #fff;}
+
+#phoneslidetoggle{display: none;}
+
+/*VIDEO*********************************************************************/
+#center h1{color: #fff;font-size: 45px;font-family: sans-serif;}
+#container{position: relative;overflow: hidden;z-index: 0;background: #000;}
+#container .content{top: 0;left: 0;z-index: 100;}
+
+#center{ position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 550px;
+   height: 100px;
+   margin-top: -50px; /* Half the height */
+   margin-left: -275px; /* Half the width */
+   }
+
+#controls{display: none;position: absolute;top: 0;z-index: 100;top: 95%; left: 50%; width: 120px; height: 100px; margin-top: -60px; margin-left: -50px;}
+#controls button{display: inline-block; background-color:rgba(0,0,0,0.0); color: #fff; font-size: 12px;border: 1px solid #fff;border-radius: 2px;cursor: pointer;}
+#controls button:hover{background-color: #F05A28;} 
+
+#watch button, #explore{background-color: rgba(0,0,0,0.0);border: 3px solid #fff;padding:10px;cursor: pointer; border-radius: 8px;}
+#watch button span, #explore span{font-size: 30px;color: #fff;font-weight: 600;letter-spacing: 3px;}
+#watch button:hover{background-color: #F05A28;}
+
+
+/*BODY**************************************************************/
+#connect{background: #ccc;padding: 60px 0 60px 0;}
+#connect h1{margin-bottom: 10px;font-size: 20px;color: #444;}
+#event{display: inline-block;width: 740px;padding-left: 40px;border-right: dotted 2px #666;}
+#event li{display: inline-block;float: left;}
+#event li a{width: 340px;margin: 7px;height: 230px;background: #444;display: block;overflow: hidden;border-radius: 5px;margin: 0 30px 30px 0;}
+#event li a img{}
+#news{display: inline-block;vertical-align: top;width: 330px;margin-left: 25px;}
+#news a{font-size: 18px;color: #444;font-weight: bold;}
+#news a:hover{color: #F05A28;}
+#news h1{font-size: 40px;color: #333;}
+#news .meta{margin-bottom: 15px;}
+#youtubevideo{display: inline-block;background: #ddd;border: 1px solid #bbb;border-radius: 10px;margin-left: 35px;}
+#youtubevideo iframe{padding: 13px;}
+#socialmedia{margin-top: 50px;}
+#socialmedia h3{font-size: 16px;margin-bottom: 10px;color: #444;margin-top:20px;border-bottom: 1px solid #888;border-top: 1px solid #888;width: 240px;padding: 8px 0 8px 0;}
+#socialmedia li{display: inline-block;vertical-align: top;}
+#socialmedia li a{margin: 7px;width: 40px;height: 40px;overflow: hidden;display: block;}
+
+#socialmedia li a.facebook{background:url('images/facebooklogo.png') no-repeat;background-size: cover;}
+#socialmedia li a.twitter{background:url('images/twitterlogo.png') no-repeat;background-size: cover;}
+#socialmedia li a.youtube{background:url('images/youtubelogo.png') no-repeat;background-size: cover;}
+#socialmedia li a:hover{background-position: 0px -40px;}
+
+#socialmedia li a.youtube{width: 96px;}
+#socialmedia li a img{width: 40px;}
+#socialmedia li a img.youtube{width: 96px;}
+
+#storybio{padding: 80px 0 80px 0;}
+#storybio h1{margin-bottom: 20px;color: #E9C31E;font-size: 60px;width: 400px;font-weight: 800;line-height: 55px;}
+#storybio p{width: 690px;font-size: 16px;color: #444;line-height: 24px;margin-bottom: 12px;letter-spacing: 1px;vertical-align: top;display: inline-block;}
+#storybio-side{display: inline-block}
+#storybio-side img{width:350px;margin-bottom: 20px;}
+
+#policy{border-top: 1px solid #E9C31E;padding: 100px 0px 60px 40px;}
+#policypoints{display:inline-block;vertical-align: top;}
+.policy-header{display:inline-block;padding-left: 30px;}
+#policy h1{margin-bottom: 20px;color: #E9C31E;font-size: 60px;width: 380px;font-weight: 800;line-height: 60px;}
+#policy h2{color: #444;font-size: 22px;letter-spacing: 1px;}
+#policy li{width: 500px;display: inline-block;vertical-align: top; margin-top: 30px;padding: 0 20px 0 20px;color: #ddd;}
+#policy p{width: 680px;font-size: 16px;color: #444;line-height: 24px;margin-bottom: 12px;letter-spacing: 1px;}
+
+#donate input{width:132px;}
+#donate input:hover{cursor:pointer;}
+
+#donate2{width:300px;}
+#donate2 input{width:132px;margin-top: 50px;}
+
+.meta{font-size: 10px;}
+/*SINGLE POST***********************************************************************/
+#single-page{background: #F05A28;}
+#single{padding: 80px 0 60px 0;}
+#single p{width: 800px;margin-left: 50px;font-size: 20px;color: #fff;line-height: 30px;margin-bottom: 12px;letter-spacing: 1px;font-weight: 500;}
+#single h1{margin-left: 50px;margin-bottom: 30px;font-size: 50px;color: #fff;}
+#single h2{margin-left: 50px;margin-top: 30px;font-size: 35px;color: #fff;}
+/*FOOTER**************************************************************************/
+#footer{background: #E9C31E;padding: 15px 0 15px 0;border-top:1px solid #fff;}
+
+#footer-nav{padding-bottom: 60px;}
+#footer-nav ul{display: inline-block;vertical-align: top;width: 150px;margin: 0px 20px 10px 20px;}
+#footer-nav h3{font-size: 23px;font-weight: 700;color: #bbb;margin-bottom: 10px;letter-spacing: 1.25px;}
+#footer-nav li{margin-bottom: 7px;}
+#footer-nav li a{color: #fff;font-size: 20px;}
+#footer img{padding:0px 0 30px 0;width: 220px;}
+
+#disclaimer{padding: 10px;width: 360px;font-size: 15px;border-radius: 6px;color: #444;letter-spacing: .5px;}
+
+#volunteer #contact{display:inline-block;vertical-align: top;padding: 50px 0 0 50px;width:325px;}
+#volunteer #contact h1{font-size:22px;}
+#volunteer #contact h2{font-size:14px;font-weight: normal;margin-top: 10px;}
+#volunteer #contact img{width:270px;margin:25px 0 50px 0;}
+/*GOOOOOGLE FORM*********/
+#volunteer{background: #E9C31E}
+#vol-text-container h2{font-size: 47px;font-weight: 900;color: #222;margin-top: 200px;background:#E9C31E;padding: 10px 30px 10px 30px;display: block; width: 390px;}
+#vol-text-container h1{font-size: 130px;font-weight: 800;color: #fff;width: 800px;line-height: 120px;color:#E9C31E;line-height: 80px;}
+
+#vol-text-container{position:absolute;margin-top:-510px;}
+#volunteer-container{display:inline-block;}
+
+.ss-form-container{}
+.ss-form{width: 680px;padding: 50px  0 50px 30px;border-right: 1px solid #fff;}
+.ss-form-question{display: inline-block;vertical-align: top;}
+.ss-form-question input.ss-q-short{width: 300px;height: 45px;border-radius: 10px;background: #efefef;font-size: 20px;text-indent: 10px;color: #444;margin: 0 30px 20px 0;}
+.ss-form-question input.ss-q-short:focus{background-color: #f5e49a;color: #fff}
+.ss-form-question .ss-q-title{font-size: 20px;margin-bottom: 4px;color: #333;font-weight: 600;}
+.ss-checkbox .ss-q-title{font-size: 40px;font-weight: 800;margin-top: 30px;margin-bottom: 15px;}
+.ss-top-of-page{display: none;}
+.ss-form-entry ul li{display: inline-block;margin-right: 20px;margin-bottom: 6px;}
+input.ss-q-checkbox{background-color: #f5e49a;width: 20px;height: 20px;border: 2px solid #fff;border-radius: 2px;}
+input.ss-q-checkbox:checked{background-color: #555;}
+input.ss-q-checkbox:hover{cursor: pointer;background-color: #555;}
+.ss-choice-label{font-size: 20px;color: #222;font-weight: 600;}
+
+.ss-item input[type=submit]{width: 200px;height: 55px;background: #222;margin-top: 30px;font-size: 30px;border: 2px solid #fff;border-radius: 10px;color: #fff;font-weight: 800px;}
+.ss-item input.jfk-button:hover{background: #fff;color: #222;cursor: pointer;}
+
+input[type=checkbox] {
+appearance: none;
+-webkit-appearance: none;
+   -moz-appearance:    none;
+}
+
+
+.freebirdFormviewerViewNavigationPasswordWarning, .freebirdFormviewerViewFooterDisclaimer{display: none;}
+.quantumWizTogglePapercheckboxCheckMarkContainer{width: 10px;height: 10px;background: red;}
+
+.ss-response-footer{display:none;}
+.ss-resp-message{font-size: 20px; font-weight: 500;width: 680px;padding: 50px  0 50px 30px}
+
+.error-message{font-size:10px;margin-top:-10px;color: #fff;}
+
+/*MEDIA QUERY************************************************/
+/*@media only screen and (max-width: 800px) {
+    
+    html{min-width: 700px;}
+    body{ width:100%;min-width: 700px; }
+    .page-wrap{margin: 0 auto; width: 600px;}
+    
+    #header{position: relative;height: 120px;background-color: #333;z-index: 50;min-width: 700px;padding: 20px 0 20px 0;}
+    img.fuelogo{height: 100px;vertical-align: top;padding: 8px 0 0 25px;}
+    
+    #nav-links{display: none;}
+    
+    #nav-links2{clear: both;left: 0;width: 600px;}
+    #nav-links2 li{display: inline-block;}
+    #nav-links2 li a{color: #fff;display: block;font-size: 40px;width: 258px;text-align: center;padding: 20px 0 20px 0;border:none;font-weight: 700;border: 1px solid #fff;margin: 20px 0px 0 25px;
+        -webkit-transition: border-color .3s linear;
+        border: 3px solid #fff; border-radius: 10px;
+    }
+    #nav-links2 li a:hover{border: 3px solid #fff;background: #F05A28;cursor: pointer;}
+    
+    #header2{display: none;}
+    
+    #phoneslidetoggle{display: none;background: #1e94da;padding: 10px 0 30px 0;}
+    
+    #toggle-plus{display: block;background:url('images/plus-sign.png') no-repeat; width: 80px; height: 80px;float: right;margin:20px 20px 0 0;}
+    #toggle-plus:focus{-ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);}
+    
+    #storybio{padding: 40px 0 40px 0;}
+    
+    #letter{display: inline-block;vertical-align: top;margin-top: 30px;margin-left: 40px;}
+    #letter h1{font-size: 72px;}
+    #letter p{font-size: 28px;line-height: 36px;font-weight: 400;}
+    
+    #policy h1{font-size: 90px;}
+    #policy ol h2{font-size: 35px;letter-spacing: 1px;}
+    #policy ol li{width: 500px;display: inline-block;vertical-align: top; margin-top: 30px;padding: 0 20px 0 20px;color: #aaa;}
+    #policy ol p{font-size: 28px;line-height: 36px;}
+    
+    #youtubevideo iframe{width: 500px;height: 280px;}
+    
+    #letter h2{font-size: 40px;}
+    
+    #volunteer h2{font-size: 90px;}
+    #volunteer h1{font-size: 30px;margin-bottom: 40px;color: #eaf5fc;width: 500px;}
+    .ss-form{width: 600px;padding: 0 0 0 15px;}
+    .ss-form-question{display: block;}
+    
+}*/
